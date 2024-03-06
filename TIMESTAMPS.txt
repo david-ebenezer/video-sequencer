@@ -1,0 +1,5032 @@
+Current time: 06:04:38.22 - Difference from last call: 00:00:35.15
+5
+Current time: 06:04:39.00 - Difference from last call: 00:00:00.08
+6
+Current time: 06:04:40.20 - Difference from last call: 00:00:01.27
+6
+Current time: 06:04:41.11 - Difference from last call: 00:00:02.19
+6
+Current time: 06:04:43.17 - Difference from last call: 00:00:04.25
+8
+Current time: 06:04:46.22 - Difference from last call: 00:00:07.29
+6
+Current time: 06:04:47.22 - Difference from last call: 00:00:08.29
+8
+Current time: 06:04:49.05 - Difference from last call: 00:00:10.13
+8
+Current time: 06:04:50.05 - Difference from last call: 00:00:11.13
+7
+Current time: 06:04:51.16 - Difference from last call: 00:00:12.23
+8
+Current time: 06:04:52.11 - Difference from last call: 00:00:13.19
+8
+Current time: 06:04:53.12 - Difference from last call: 00:00:14.20
+6
+Current time: 06:04:54.28 - Difference from last call: 00:00:16.05
+6
+Current time: 06:04:55.16 - Difference from last call: 00:00:16.23
+5
+Current time: 06:05:03.15 - Difference from last call: 00:00:24.22
+6
+Current time: 06:05:03.26 - Difference from last call: 00:00:25.03
+6
+Current time: 06:05:04.22 - Difference from last call: 00:00:25.29
+7
+Current time: 06:05:08.00 - Difference from last call: 00:00:29.08
+7
+Current time: 06:05:08.04 - Difference from last call: 00:00:29.11
+8
+Current time: 06:05:09.27 - Difference from last call: 00:00:31.04
+8
+Current time: 06:05:10.14 - Difference from last call: 00:00:31.21
+6
+Current time: 06:05:11.10 - Difference from last call: 00:00:32.17
+6
+Current time: 06:05:11.26 - Difference from last call: 00:00:33.03
+5
+Current time: 06:05:15.22 - Difference from last call: 00:00:36.29
+5
+Current time: 06:05:16.26 - Difference from last call: 00:00:38.03
+5
+Current time: 06:05:18.15 - Difference from last call: 00:00:39.22
+5
+Current time: 06:05:20.04 - Difference from last call: 00:00:41.11
+5
+Current time: 06:05:20.09 - Difference from last call: 00:00:41.16
+8
+Current time: 06:05:21.21 - Difference from last call: 00:00:42.28
+8
+Current time: 06:05:23.16 - Difference from last call: 00:00:44.23
+8
+Current time: 06:05:23.27 - Difference from last call: 00:00:45.04
+7
+Current time: 06:05:25.14 - Difference from last call: 00:00:46.21
+7
+Current time: 06:05:25.20 - Difference from last call: 00:00:46.27
+6
+Current time: 06:05:26.11 - Difference from last call: 00:00:47.19
+6
+Current time: 06:05:26.29 - Difference from last call: 00:00:48.07
+5
+Current time: 06:05:28.10 - Difference from last call: 00:00:49.17
+5
+Current time: 06:05:30.22 - Difference from last call: 00:00:51.29
+8
+Current time: 06:05:31.23 - Difference from last call: 00:00:53.01
+8
+Current time: 06:05:34.00 - Difference from last call: 00:00:55.08
+8
+Current time: 06:05:34.01 - Difference from last call: 00:00:55.08
+8
+Current time: 06:05:34.02 - Difference from last call: 00:00:55.09
+8
+Current time: 06:05:34.02 - Difference from last call: 00:00:55.10
+8
+Current time: 06:05:34.03 - Difference from last call: 00:00:55.10
+8
+Current time: 06:05:34.03 - Difference from last call: 00:00:55.11
+8
+Current time: 06:05:34.04 - Difference from last call: 00:00:55.11
+8
+Current time: 06:05:34.05 - Difference from last call: 00:00:55.12
+8
+Current time: 06:05:34.05 - Difference from last call: 00:00:55.13
+8
+Current time: 06:05:34.06 - Difference from last call: 00:00:55.13
+8
+Current time: 06:05:34.06 - Difference from last call: 00:00:55.14
+8
+Current time: 06:05:34.07 - Difference from last call: 00:00:55.14
+8
+Current time: 06:05:34.08 - Difference from last call: 00:00:55.15
+8
+Current time: 06:05:34.08 - Difference from last call: 00:00:55.16
+8
+Current time: 06:05:34.09 - Difference from last call: 00:00:55.16
+8
+Current time: 06:05:34.09 - Difference from last call: 00:00:55.17
+8
+Current time: 06:05:34.10 - Difference from last call: 00:00:55.17
+8
+Current time: 06:05:34.11 - Difference from last call: 00:00:55.18
+8
+Current time: 06:05:34.11 - Difference from last call: 00:00:55.19
+8
+Current time: 06:05:34.12 - Difference from last call: 00:00:55.19
+8
+Current time: 06:05:34.12 - Difference from last call: 00:00:55.20
+8
+Current time: 06:05:34.13 - Difference from last call: 00:00:55.20
+8
+Current time: 06:05:34.14 - Difference from last call: 00:00:55.21
+8
+Current time: 06:05:34.14 - Difference from last call: 00:00:55.22
+8
+Current time: 06:05:34.15 - Difference from last call: 00:00:55.22
+8
+Current time: 06:05:34.15 - Difference from last call: 00:00:55.23
+8
+Current time: 06:05:34.16 - Difference from last call: 00:00:55.23
+8
+Current time: 06:05:34.17 - Difference from last call: 00:00:55.24
+8
+Current time: 06:05:34.17 - Difference from last call: 00:00:55.25
+8
+Current time: 06:05:34.18 - Difference from last call: 00:00:55.25
+8
+Current time: 06:05:34.18 - Difference from last call: 00:00:55.26
+8
+Current time: 06:05:34.19 - Difference from last call: 00:00:55.26
+8
+Current time: 06:05:34.20 - Difference from last call: 00:00:55.27
+8
+Current time: 06:05:34.20 - Difference from last call: 00:00:55.28
+8
+Current time: 06:05:34.21 - Difference from last call: 00:00:55.28
+8
+Current time: 06:05:34.21 - Difference from last call: 00:00:55.29
+8
+Current time: 06:05:34.22 - Difference from last call: 00:00:55.29
+8
+Current time: 06:05:34.23 - Difference from last call: 00:00:56.00
+8
+Current time: 06:05:34.23 - Difference from last call: 00:00:56.01
+8
+Current time: 06:05:34.24 - Difference from last call: 00:00:56.01
+7
+Current time: 06:05:37.09 - Difference from last call: 00:00:58.16
+7
+Current time: 06:05:39.17 - Difference from last call: 00:01:00.25
+7
+Current time: 06:05:41.21 - Difference from last call: 00:01:02.28
+7
+Current time: 06:05:41.21 - Difference from last call: 00:01:02.29
+7
+Current time: 06:05:41.22 - Difference from last call: 00:01:02.29
+7
+Current time: 06:05:41.23 - Difference from last call: 00:01:03.00
+7
+Current time: 06:05:41.23 - Difference from last call: 00:01:03.01
+7
+Current time: 06:05:41.24 - Difference from last call: 00:01:03.01
+7
+Current time: 06:05:41.24 - Difference from last call: 00:01:03.02
+7
+Current time: 06:05:41.25 - Difference from last call: 00:01:03.02
+7
+Current time: 06:05:41.26 - Difference from last call: 00:01:03.03
+7
+Current time: 06:05:41.26 - Difference from last call: 00:01:03.04
+7
+Current time: 06:05:41.27 - Difference from last call: 00:01:03.04
+7
+Current time: 06:05:41.27 - Difference from last call: 00:01:03.05
+7
+Current time: 06:05:41.28 - Difference from last call: 00:01:03.05
+7
+Current time: 06:05:41.29 - Difference from last call: 00:01:03.06
+7
+Current time: 06:05:41.29 - Difference from last call: 00:01:03.07
+7
+Current time: 06:05:42.00 - Difference from last call: 00:01:03.07
+7
+Current time: 06:05:42.00 - Difference from last call: 00:01:03.08
+7
+Current time: 06:05:42.01 - Difference from last call: 00:01:03.08
+7
+Current time: 06:05:42.02 - Difference from last call: 00:01:03.09
+7
+Current time: 06:05:42.02 - Difference from last call: 00:01:03.10
+7
+Current time: 06:05:42.03 - Difference from last call: 00:01:03.10
+7
+Current time: 06:05:42.03 - Difference from last call: 00:01:03.11
+7
+Current time: 06:05:42.04 - Difference from last call: 00:01:03.11
+7
+Current time: 06:05:42.05 - Difference from last call: 00:01:03.12
+7
+Current time: 06:05:42.05 - Difference from last call: 00:01:03.13
+7
+Current time: 06:05:42.06 - Difference from last call: 00:01:03.13
+7
+Current time: 06:05:42.06 - Difference from last call: 00:01:03.14
+7
+Current time: 06:05:42.07 - Difference from last call: 00:01:03.14
+7
+Current time: 06:05:42.08 - Difference from last call: 00:01:03.15
+7
+Current time: 06:05:42.08 - Difference from last call: 00:01:03.16
+7
+Current time: 06:05:42.09 - Difference from last call: 00:01:03.16
+7
+Current time: 06:05:42.09 - Difference from last call: 00:01:03.17
+7
+Current time: 06:05:42.10 - Difference from last call: 00:01:03.17
+7
+Current time: 06:05:42.11 - Difference from last call: 00:01:03.18
+7
+Current time: 06:05:42.11 - Difference from last call: 00:01:03.19
+7
+Current time: 06:05:42.12 - Difference from last call: 00:01:03.19
+7
+Current time: 06:05:42.12 - Difference from last call: 00:01:03.20
+7
+Current time: 06:05:42.13 - Difference from last call: 00:01:03.20
+7
+Current time: 06:05:42.14 - Difference from last call: 00:01:03.21
+7
+Current time: 06:05:42.14 - Difference from last call: 00:01:03.22
+8
+Current time: 06:05:45.23 - Difference from last call: 00:01:07.01
+7
+Current time: 06:05:47.24 - Difference from last call: 00:01:09.02
+7
+Current time: 06:05:48.23 - Difference from last call: 00:01:10.01
+6
+Current time: 06:05:49.23 - Difference from last call: 00:01:11.01
+6
+Current time: 06:05:50.05 - Difference from last call: 00:01:11.13
+5
+Current time: 06:05:51.18 - Difference from last call: 00:01:12.26
+5
+Current time: 06:05:53.12 - Difference from last call: 00:01:14.20
+7
+Current time: 06:05:54.16 - Difference from last call: 00:01:15.23
+7
+Current time: 06:05:56.21 - Difference from last call: 00:01:17.28
+7
+Current time: 06:05:56.27 - Difference from last call: 00:01:18.04
+6
+Current time: 06:05:57.03 - Difference from last call: 00:01:18.10
+6
+Current time: 06:05:57.12 - Difference from last call: 00:01:18.20
+5
+Current time: 06:05:59.04 - Difference from last call: 00:01:20.11
+5
+Current time: 06:05:59.27 - Difference from last call: 00:01:21.04
+5
+Current time: 06:06:02.15 - Difference from last call: 00:01:23.22
+5
+Current time: 06:06:03.14 - Difference from last call: 00:01:24.21
+6
+Current time: 06:06:04.05 - Difference from last call: 00:01:25.13
+6
+Current time: 06:06:05.02 - Difference from last call: 00:01:26.09
+8
+Current time: 06:06:05.26 - Difference from last call: 00:01:27.03
+8
+Current time: 06:06:08.15 - Difference from last call: 00:01:29.22
+7
+Current time: 06:06:09.20 - Difference from last call: 00:01:30.27
+7
+Current time: 06:06:10.27 - Difference from last call: 00:01:32.04
+6
+Current time: 06:06:11.06 - Difference from last call: 00:01:32.14
+6
+Current time: 06:06:12.05 - Difference from last call: 00:01:33.13
+5
+Current time: 06:06:15.09 - Difference from last call: 00:01:36.16
+5
+Current time: 06:06:16.03 - Difference from last call: 00:01:37.10
+8
+Current time: 06:06:16.22 - Difference from last call: 00:01:37.29
+8
+Current time: 06:06:19.21 - Difference from last call: 00:01:40.28
+8
+Current time: 06:06:19.21 - Difference from last call: 00:01:40.29
+8
+Current time: 06:06:19.22 - Difference from last call: 00:01:40.29
+8
+Current time: 06:06:19.23 - Difference from last call: 00:01:41.00
+8
+Current time: 06:06:19.23 - Difference from last call: 00:01:41.01
+8
+Current time: 06:06:19.24 - Difference from last call: 00:01:41.01
+8
+Current time: 06:06:19.24 - Difference from last call: 00:01:41.02
+8
+Current time: 06:06:19.25 - Difference from last call: 00:01:41.02
+8
+Current time: 06:06:19.26 - Difference from last call: 00:01:41.03
+8
+Current time: 06:06:19.26 - Difference from last call: 00:01:41.04
+8
+Current time: 06:06:19.27 - Difference from last call: 00:01:41.04
+8
+Current time: 06:06:19.27 - Difference from last call: 00:01:41.05
+8
+Current time: 06:06:19.28 - Difference from last call: 00:01:41.05
+8
+Current time: 06:06:19.29 - Difference from last call: 00:01:41.06
+8
+Current time: 06:06:19.29 - Difference from last call: 00:01:41.07
+8
+Current time: 06:06:20.00 - Difference from last call: 00:01:41.07
+8
+Current time: 06:06:20.00 - Difference from last call: 00:01:41.08
+8
+Current time: 06:06:20.01 - Difference from last call: 00:01:41.08
+8
+Current time: 06:06:20.02 - Difference from last call: 00:01:41.09
+8
+Current time: 06:06:20.02 - Difference from last call: 00:01:41.10
+8
+Current time: 06:06:20.03 - Difference from last call: 00:01:41.10
+8
+Current time: 06:06:20.03 - Difference from last call: 00:01:41.11
+8
+Current time: 06:06:20.04 - Difference from last call: 00:01:41.11
+8
+Current time: 06:06:20.05 - Difference from last call: 00:01:41.12
+8
+Current time: 06:06:20.05 - Difference from last call: 00:01:41.13
+8
+Current time: 06:06:20.06 - Difference from last call: 00:01:41.13
+8
+Current time: 06:06:20.06 - Difference from last call: 00:01:41.14
+8
+Current time: 06:06:20.07 - Difference from last call: 00:01:41.14
+8
+Current time: 06:06:20.08 - Difference from last call: 00:01:41.15
+8
+Current time: 06:06:20.08 - Difference from last call: 00:01:41.16
+8
+Current time: 06:06:20.09 - Difference from last call: 00:01:41.16
+8
+Current time: 06:06:20.09 - Difference from last call: 00:01:41.17
+8
+Current time: 06:06:20.10 - Difference from last call: 00:01:41.17
+8
+Current time: 06:06:20.11 - Difference from last call: 00:01:41.18
+8
+Current time: 06:06:20.11 - Difference from last call: 00:01:41.19
+8
+Current time: 06:06:20.12 - Difference from last call: 00:01:41.19
+8
+Current time: 06:06:20.12 - Difference from last call: 00:01:41.20
+8
+Current time: 06:06:20.13 - Difference from last call: 00:01:41.20
+8
+Current time: 06:06:20.14 - Difference from last call: 00:01:41.21
+8
+Current time: 06:06:20.14 - Difference from last call: 00:01:41.22
+7
+Current time: 06:06:22.06 - Difference from last call: 00:01:43.14
+7
+Current time: 06:06:24.06 - Difference from last call: 00:01:45.14
+6
+Current time: 06:06:25.08 - Difference from last call: 00:01:46.15
+6
+Current time: 06:06:27.04 - Difference from last call: 00:01:48.11
+5
+Current time: 06:06:28.02 - Difference from last call: 00:01:49.09
+5
+Current time: 06:06:28.21 - Difference from last call: 00:01:49.28
+5
+Current time: 06:06:31.05 - Difference from last call: 00:01:52.13
+8
+Current time: 06:06:32.09 - Difference from last call: 00:01:53.16
+8
+Current time: 06:06:34.26 - Difference from last call: 00:01:56.03
+8
+Current time: 06:06:35.12 - Difference from last call: 00:01:56.20
+8
+Current time: 06:06:35.16 - Difference from last call: 00:01:56.23
+6
+Current time: 06:06:37.20 - Difference from last call: 00:01:58.27
+6
+Current time: 06:06:38.22 - Difference from last call: 00:01:59.29
+7
+Current time: 06:06:40.29 - Difference from last call: 00:02:02.07
+7
+Current time: 06:06:41.10 - Difference from last call: 00:02:02.17
+8
+Current time: 06:06:49.27 - Difference from last call: 00:02:11.04
+7
+Current time: 06:06:50.23 - Difference from last call: 00:02:12.01
+7
+Current time: 06:06:53.26 - Difference from last call: 00:02:15.03
+6
+Current time: 06:06:56.08 - Difference from last call: 00:02:17.15
+6
+Current time: 06:06:57.06 - Difference from last call: 00:02:18.14
+5
+Current time: 06:06:59.29 - Difference from last call: 00:02:21.07
+5
+Current time: 06:07:00.23 - Difference from last call: 00:02:22.01
+5
+Current time: 06:07:04.03 - Difference from last call: 00:02:25.10
+5
+Current time: 06:07:04.10 - Difference from last call: 00:02:25.17
+6
+Current time: 06:07:04.26 - Difference from last call: 00:02:26.03
+6
+Current time: 06:07:05.16 - Difference from last call: 00:02:26.23
+8
+Current time: 06:07:08.17 - Difference from last call: 00:02:29.25
+8
+Current time: 06:07:11.26 - Difference from last call: 00:02:33.03
+8
+Current time: 06:07:12.00 - Difference from last call: 00:02:33.08
+6
+Current time: 06:07:12.18 - Difference from last call: 00:02:33.26
+6
+Current time: 06:07:13.02 - Difference from last call: 00:02:34.09
+5
+Current time: 06:07:13.28 - Difference from last call: 00:02:35.05
+5
+Current time: 06:07:15.02 - Difference from last call: 00:02:36.09
+5
+Current time: 06:07:19.03 - Difference from last call: 00:02:40.10
+7
+Current time: 06:07:23.09 - Difference from last call: 00:02:44.16
+7
+Current time: 06:07:26.02 - Difference from last call: 00:02:47.09
+7
+Current time: 06:07:26.15 - Difference from last call: 00:02:47.22
+6
+Current time: 06:07:27.04 - Difference from last call: 00:02:48.11
+6
+Current time: 06:07:27.28 - Difference from last call: 00:02:49.05
+5
+Current time: 06:07:29.02 - Difference from last call: 00:02:50.09
+5
+Current time: 06:07:30.05 - Difference from last call: 00:02:51.13
+5
+Current time: 06:07:31.26 - Difference from last call: 00:02:53.03
+8
+Current time: 06:07:34.00 - Difference from last call: 00:02:55.08
+8
+Current time: 06:07:35.14 - Difference from last call: 00:02:56.21
+7
+Current time: 06:07:36.18 - Difference from last call: 00:02:57.26
+7
+Current time: 06:07:39.11 - Difference from last call: 00:03:00.19
+6
+Current time: 06:07:41.17 - Difference from last call: 00:03:02.25
+6
+Current time: 06:07:41.29 - Difference from last call: 00:03:03.07
+5
+Current time: 06:07:44.00 - Difference from last call: 00:03:05.08
+5
+Current time: 06:07:44.24 - Difference from last call: 00:03:06.02
+5
+Current time: 06:07:46.23 - Difference from last call: 00:03:08.01
+8
+Current time: 06:07:48.03 - Difference from last call: 00:03:09.10
+8
+Current time: 06:07:50.16 - Difference from last call: 00:03:11.23
+7
+Current time: 06:07:52.27 - Difference from last call: 00:03:14.04
+7
+Current time: 06:07:56.12 - Difference from last call: 00:03:17.20
+7
+Current time: 06:07:58.02 - Difference from last call: 00:03:19.09
+7
+Current time: 06:07:58.05 - Difference from last call: 00:03:19.13
+6
+Current time: 06:07:58.29 - Difference from last call: 00:03:20.07
+6
+Current time: 06:08:01.03 - Difference from last call: 00:03:22.10
+6
+Current time: 06:08:01.20 - Difference from last call: 00:03:22.27
+6
+Current time: 06:08:02.12 - Difference from last call: 00:03:23.20
+8
+Current time: 06:08:04.20 - Difference from last call: 00:03:25.27
+6
+Current time: 06:08:06.04 - Difference from last call: 00:03:27.11
+8
+Current time: 06:08:09.16 - Difference from last call: 00:03:30.23
+6
+Current time: 06:08:11.02 - Difference from last call: 00:03:32.09
+8
+Current time: 06:08:11.23 - Difference from last call: 00:03:33.01
+6
+Current time: 06:08:13.09 - Difference from last call: 00:03:34.16
+6
+Current time: 06:08:13.18 - Difference from last call: 00:03:34.26
+5
+Current time: 06:08:14.18 - Difference from last call: 00:03:35.26
+5
+Current time: 06:08:15.15 - Difference from last call: 00:03:36.22
+5
+Current time: 06:08:16.10 - Difference from last call: 00:03:37.17
+5
+Current time: 06:08:19.27 - Difference from last call: 00:03:41.04
+5
+Current time: 06:08:20.26 - Difference from last call: 00:03:42.03
+7
+Current time: 06:08:22.05 - Difference from last call: 00:03:43.13
+7
+Current time: 06:08:24.18 - Difference from last call: 00:03:45.26
+8
+Current time: 06:08:27.04 - Difference from last call: 00:03:48.11
+8
+Current time: 06:08:27.12 - Difference from last call: 00:03:48.20
+6
+Current time: 06:08:27.28 - Difference from last call: 00:03:49.05
+6
+Current time: 06:08:28.21 - Difference from last call: 00:03:49.28
+5
+Current time: 06:08:29.18 - Difference from last call: 00:03:50.26
+5
+Current time: 06:08:30.09 - Difference from last call: 00:03:51.16
+5
+Current time: 06:08:36.03 - Difference from last call: 00:03:57.10
+8
+Current time: 06:08:37.21 - Difference from last call: 00:03:58.28
+8
+Current time: 06:08:39.14 - Difference from last call: 00:04:00.21
+7
+Current time: 06:08:41.14 - Difference from last call: 00:04:02.21
+7
+Current time: 06:08:42.04 - Difference from last call: 00:04:03.11
+6
+Current time: 06:08:43.05 - Difference from last call: 00:04:04.13
+6
+Current time: 06:08:43.16 - Difference from last call: 00:04:04.23
+5
+Current time: 06:08:44.27 - Difference from last call: 00:04:06.04
+5
+Current time: 06:08:45.15 - Difference from last call: 00:04:06.22
+5
+Current time: 06:08:47.14 - Difference from last call: 00:04:08.21
+8
+Current time: 06:08:49.11 - Difference from last call: 00:04:10.19
+8
+Current time: 06:08:50.28 - Difference from last call: 00:04:12.05
+7
+Current time: 06:08:54.24 - Difference from last call: 00:04:16.02
+8
+Current time: 06:08:56.03 - Difference from last call: 00:04:17.10
+8
+Current time: 06:08:57.09 - Difference from last call: 00:04:18.16
+6
+Current time: 06:08:58.02 - Difference from last call: 00:04:19.09
+6
+Current time: 06:08:58.17 - Difference from last call: 00:04:19.25
+5
+Current time: 06:08:59.17 - Difference from last call: 00:04:20.25
+5
+Current time: 06:09:02.09 - Difference from last call: 00:04:23.16
+7
+Current time: 06:09:02.28 - Difference from last call: 00:04:24.05
+7
+Current time: 06:09:06.02 - Difference from last call: 00:04:27.09
+8
+Current time: 06:09:08.28 - Difference from last call: 00:04:30.05
+8
+Current time: 06:09:10.22 - Difference from last call: 00:04:31.29
+8
+Current time: 06:09:12.17 - Difference from last call: 00:04:33.25
+8
+Current time: 06:09:12.26 - Difference from last call: 00:04:34.03
+8
+Current time: 06:09:13.04 - Difference from last call: 00:04:34.11
+8
+Current time: 06:09:13.10 - Difference from last call: 00:04:34.17
+6
+Current time: 06:09:13.21 - Difference from last call: 00:04:34.28
+6
+Current time: 06:09:13.27 - Difference from last call: 00:04:35.04
+5
+Current time: 06:09:15.05 - Difference from last call: 00:04:36.13
+5
+Current time: 06:09:17.21 - Difference from last call: 00:04:38.28
+5
+Current time: 06:09:18.16 - Difference from last call: 00:04:39.23
+5
+Current time: 06:09:19.00 - Difference from last call: 00:04:40.08
+5
+Current time: 06:09:20.11 - Difference from last call: 00:04:41.19
+5
+Current time: 06:09:20.22 - Difference from last call: 00:04:41.29
+5
+Current time: 06:09:21.11 - Difference from last call: 00:04:42.19
+7
+Current time: 06:09:22.09 - Difference from last call: 00:04:43.16
+7
+Current time: 06:09:25.00 - Difference from last call: 00:04:46.08
+8
+Current time: 06:09:27.03 - Difference from last call: 00:04:48.10
+8
+Current time: 06:09:27.18 - Difference from last call: 00:04:48.26
+6
+Current time: 06:09:28.10 - Difference from last call: 00:04:49.17
+6
+Current time: 06:09:29.04 - Difference from last call: 00:04:50.11
+5
+Current time: 06:09:30.08 - Difference from last call: 00:04:51.15
+5
+Current time: 06:09:31.18 - Difference from last call: 00:04:52.26
+5
+Current time: 06:09:36.12 - Difference from last call: 00:04:57.20
+8
+Current time: 06:09:37.15 - Difference from last call: 00:04:58.22
+8
+Current time: 06:09:40.11 - Difference from last call: 00:05:01.19
+7
+Current time: 06:09:41.17 - Difference from last call: 00:05:02.25
+7
+Current time: 06:09:42.18 - Difference from last call: 00:05:03.26
+6
+Current time: 06:09:43.10 - Difference from last call: 00:05:04.17
+6
+Current time: 06:09:43.26 - Difference from last call: 00:05:05.03
+5
+Current time: 06:09:46.11 - Difference from last call: 00:05:07.19
+5
+Current time: 06:09:46.27 - Difference from last call: 00:05:08.04
+5
+Current time: 06:09:48.04 - Difference from last call: 00:05:09.11
+8
+Current time: 06:09:50.00 - Difference from last call: 00:05:11.08
+8
+Current time: 06:09:51.16 - Difference from last call: 00:05:12.23
+7
+Current time: 06:09:53.21 - Difference from last call: 00:05:14.28
+8
+Current time: 06:09:54.09 - Difference from last call: 00:05:15.16
+8
+Current time: 06:09:54.14 - Difference from last call: 00:05:15.21
+5
+Current time: 06:09:56.23 - Difference from last call: 00:05:18.01
+5
+Current time: 06:09:57.08 - Difference from last call: 00:05:18.15
+6
+Current time: 06:09:57.28 - Difference from last call: 00:05:19.05
+6
+Current time: 06:09:58.15 - Difference from last call: 00:05:19.22
+6
+Current time: 06:09:59.08 - Difference from last call: 00:05:20.15
+8
+Current time: 06:10:00.21 - Difference from last call: 00:05:21.28
+8
+Current time: 06:10:03.11 - Difference from last call: 00:05:24.19
+7
+Current time: 06:10:06.06 - Difference from last call: 00:05:27.14
+7
+Current time: 06:10:06.22 - Difference from last call: 00:05:27.29
+6
+Current time: 06:10:10.11 - Difference from last call: 00:05:31.19
+6
+Current time: 06:10:10.16 - Difference from last call: 00:05:31.23
+8
+Current time: 06:10:13.17 - Difference from last call: 00:05:34.25
+6
+Current time: 06:10:14.10 - Difference from last call: 00:05:35.17
+6
+Current time: 06:10:14.18 - Difference from last call: 00:05:35.26
+5
+Current time: 06:10:20.18 - Difference from last call: 00:05:41.26
+6
+Current time: 06:10:22.02 - Difference from last call: 00:05:43.09
+6
+Current time: 06:10:22.06 - Difference from last call: 00:05:43.14
+7
+Current time: 06:10:23.24 - Difference from last call: 00:05:45.02
+7
+Current time: 06:10:26.06 - Difference from last call: 00:05:47.14
+8
+Current time: 06:10:28.15 - Difference from last call: 00:05:49.22
+8
+Current time: 06:10:28.23 - Difference from last call: 00:05:50.01
+6
+Current time: 06:10:29.11 - Difference from last call: 00:05:50.19
+6
+Current time: 06:10:29.24 - Difference from last call: 00:05:51.02
+5
+Current time: 06:10:31.10 - Difference from last call: 00:05:52.17
+5
+Current time: 06:10:32.06 - Difference from last call: 00:05:53.14
+5
+Current time: 06:10:36.22 - Difference from last call: 00:05:57.29
+8
+Current time: 06:10:38.05 - Difference from last call: 00:05:59.13
+8
+Current time: 06:10:40.10 - Difference from last call: 00:06:01.17
+7
+Current time: 06:10:42.20 - Difference from last call: 00:06:03.27
+7
+Current time: 06:10:43.06 - Difference from last call: 00:06:04.14
+6
+Current time: 06:10:43.28 - Difference from last call: 00:06:05.05
+6
+Current time: 06:10:44.14 - Difference from last call: 00:06:05.21
+5
+Current time: 06:10:46.18 - Difference from last call: 00:06:07.26
+5
+Current time: 06:10:48.28 - Difference from last call: 00:06:10.05
+5
+Current time: 06:10:51.23 - Difference from last call: 00:06:13.01
+8
+Current time: 06:10:52.20 - Difference from last call: 00:06:13.27
+8
+Current time: 06:10:55.21 - Difference from last call: 00:06:16.28
+7
+Current time: 06:10:58.28 - Difference from last call: 00:06:20.05
+7
+Current time: 06:10:59.03 - Difference from last call: 00:06:20.10
+6
+Current time: 06:10:59.14 - Difference from last call: 00:06:20.21
+6
+Current time: 06:10:59.27 - Difference from last call: 00:06:21.04
+5
+Current time: 06:11:00.17 - Difference from last call: 00:06:21.25
+5
+Current time: 06:11:01.03 - Difference from last call: 00:06:22.10
+5
+Current time: 06:11:03.08 - Difference from last call: 00:06:24.15
+8
+Current time: 06:11:04.00 - Difference from last call: 00:06:25.08
+8
+Current time: 06:11:07.00 - Difference from last call: 00:06:28.08
+7
+Current time: 06:11:09.10 - Difference from last call: 00:06:30.17
+7
+Current time: 06:11:11.02 - Difference from last call: 00:06:32.09
+6
+Current time: 06:11:13.24 - Difference from last call: 00:06:35.02
+6
+Current time: 06:11:14.20 - Difference from last call: 00:06:35.27
+5
+Current time: 06:11:28.08 - Difference from last call: 00:06:49.15
+5
+Current time: 06:11:28.21 - Difference from last call: 00:06:49.28
+5
+Current time: 06:11:29.20 - Difference from last call: 00:06:50.27
+5
+Current time: 06:11:32.03 - Difference from last call: 00:06:53.10
+5
+Current time: 06:11:32.24 - Difference from last call: 00:06:54.02
+5
+Current time: 06:11:33.08 - Difference from last call: 00:06:54.15
+5
+Current time: 06:11:35.21 - Difference from last call: 00:06:56.28
+5
+Current time: 06:11:35.21 - Difference from last call: 00:06:56.29
+5
+Current time: 06:11:35.22 - Difference from last call: 00:06:56.29
+5
+Current time: 06:11:35.23 - Difference from last call: 00:06:57.00
+5
+Current time: 06:11:35.23 - Difference from last call: 00:06:57.01
+5
+Current time: 06:11:35.24 - Difference from last call: 00:06:57.01
+5
+Current time: 06:11:35.24 - Difference from last call: 00:06:57.02
+5
+Current time: 06:11:35.25 - Difference from last call: 00:06:57.02
+5
+Current time: 06:11:35.26 - Difference from last call: 00:06:57.03
+5
+Current time: 06:11:35.26 - Difference from last call: 00:06:57.04
+5
+Current time: 06:11:35.27 - Difference from last call: 00:06:57.04
+5
+Current time: 06:11:35.27 - Difference from last call: 00:06:57.05
+5
+Current time: 06:11:35.28 - Difference from last call: 00:06:57.05
+5
+Current time: 06:11:35.29 - Difference from last call: 00:06:57.06
+5
+Current time: 06:11:35.29 - Difference from last call: 00:06:57.07
+5
+Current time: 06:11:36.00 - Difference from last call: 00:06:57.07
+5
+Current time: 06:11:36.00 - Difference from last call: 00:06:57.08
+5
+Current time: 06:11:36.01 - Difference from last call: 00:06:57.08
+5
+Current time: 06:11:36.02 - Difference from last call: 00:06:57.09
+5
+Current time: 06:11:36.02 - Difference from last call: 00:06:57.10
+5
+Current time: 06:11:36.03 - Difference from last call: 00:06:57.10
+5
+Current time: 06:11:36.03 - Difference from last call: 00:06:57.11
+5
+Current time: 06:11:36.04 - Difference from last call: 00:06:57.11
+5
+Current time: 06:11:36.05 - Difference from last call: 00:06:57.12
+5
+Current time: 06:11:36.05 - Difference from last call: 00:06:57.13
+5
+Current time: 06:11:36.06 - Difference from last call: 00:06:57.13
+5
+Current time: 06:11:36.06 - Difference from last call: 00:06:57.14
+5
+Current time: 06:11:36.07 - Difference from last call: 00:06:57.14
+5
+Current time: 06:11:36.08 - Difference from last call: 00:06:57.15
+5
+Current time: 06:11:36.08 - Difference from last call: 00:06:57.16
+5
+Current time: 06:11:36.09 - Difference from last call: 00:06:57.16
+5
+Current time: 06:11:36.09 - Difference from last call: 00:06:57.17
+5
+Current time: 06:11:36.10 - Difference from last call: 00:06:57.17
+5
+Current time: 06:11:36.11 - Difference from last call: 00:06:57.18
+5
+Current time: 06:11:36.11 - Difference from last call: 00:06:57.19
+5
+Current time: 06:11:36.12 - Difference from last call: 00:06:57.19
+5
+Current time: 06:11:36.12 - Difference from last call: 00:06:57.20
+5
+Current time: 06:11:36.13 - Difference from last call: 00:06:57.20
+5
+Current time: 06:11:36.14 - Difference from last call: 00:06:57.21
+5
+Current time: 06:11:36.14 - Difference from last call: 00:06:57.22
+8
+Current time: 06:11:38.04 - Difference from last call: 00:06:59.11
+8
+Current time: 06:11:38.14 - Difference from last call: 00:06:59.21
+8
+Current time: 06:11:40.05 - Difference from last call: 00:07:01.13
+8
+Current time: 06:11:40.06 - Difference from last call: 00:07:01.13
+8
+Current time: 06:11:40.06 - Difference from last call: 00:07:01.14
+8
+Current time: 06:11:40.07 - Difference from last call: 00:07:01.14
+8
+Current time: 06:11:40.08 - Difference from last call: 00:07:01.15
+8
+Current time: 06:11:40.08 - Difference from last call: 00:07:01.16
+8
+Current time: 06:11:40.09 - Difference from last call: 00:07:01.16
+8
+Current time: 06:11:40.09 - Difference from last call: 00:07:01.17
+8
+Current time: 06:11:40.10 - Difference from last call: 00:07:01.17
+8
+Current time: 06:11:40.11 - Difference from last call: 00:07:01.18
+8
+Current time: 06:11:40.11 - Difference from last call: 00:07:01.19
+8
+Current time: 06:11:40.12 - Difference from last call: 00:07:01.19
+8
+Current time: 06:11:40.12 - Difference from last call: 00:07:01.20
+8
+Current time: 06:11:40.13 - Difference from last call: 00:07:01.20
+8
+Current time: 06:11:40.14 - Difference from last call: 00:07:01.21
+8
+Current time: 06:11:40.14 - Difference from last call: 00:07:01.22
+8
+Current time: 06:11:40.15 - Difference from last call: 00:07:01.22
+8
+Current time: 06:11:40.15 - Difference from last call: 00:07:01.23
+8
+Current time: 06:11:40.16 - Difference from last call: 00:07:01.23
+8
+Current time: 06:11:40.17 - Difference from last call: 00:07:01.24
+8
+Current time: 06:11:40.17 - Difference from last call: 00:07:01.25
+8
+Current time: 06:11:40.18 - Difference from last call: 00:07:01.25
+8
+Current time: 06:11:40.18 - Difference from last call: 00:07:01.26
+8
+Current time: 06:11:40.19 - Difference from last call: 00:07:01.26
+8
+Current time: 06:11:40.20 - Difference from last call: 00:07:01.27
+8
+Current time: 06:11:40.20 - Difference from last call: 00:07:01.28
+8
+Current time: 06:11:40.21 - Difference from last call: 00:07:01.28
+8
+Current time: 06:11:40.21 - Difference from last call: 00:07:01.29
+8
+Current time: 06:11:40.22 - Difference from last call: 00:07:01.29
+8
+Current time: 06:11:40.23 - Difference from last call: 00:07:02.00
+8
+Current time: 06:11:40.23 - Difference from last call: 00:07:02.01
+8
+Current time: 06:11:40.24 - Difference from last call: 00:07:02.01
+8
+Current time: 06:11:40.24 - Difference from last call: 00:07:02.02
+8
+Current time: 06:11:40.25 - Difference from last call: 00:07:02.02
+8
+Current time: 06:11:40.26 - Difference from last call: 00:07:02.03
+8
+Current time: 06:11:40.26 - Difference from last call: 00:07:02.04
+8
+Current time: 06:11:40.27 - Difference from last call: 00:07:02.04
+8
+Current time: 06:11:40.27 - Difference from last call: 00:07:02.05
+8
+Current time: 06:11:40.28 - Difference from last call: 00:07:02.05
+8
+Current time: 06:11:40.29 - Difference from last call: 00:07:02.06
+7
+Current time: 06:11:44.06 - Difference from last call: 00:07:05.14
+7
+Current time: 06:11:45.00 - Difference from last call: 00:07:06.08
+7
+Current time: 06:11:45.01 - Difference from last call: 00:07:06.08
+7
+Current time: 06:11:45.02 - Difference from last call: 00:07:06.09
+7
+Current time: 06:11:45.02 - Difference from last call: 00:07:06.10
+7
+Current time: 06:11:45.03 - Difference from last call: 00:07:06.10
+7
+Current time: 06:11:45.03 - Difference from last call: 00:07:06.11
+7
+Current time: 06:11:45.04 - Difference from last call: 00:07:06.11
+7
+Current time: 06:11:45.05 - Difference from last call: 00:07:06.12
+7
+Current time: 06:11:45.05 - Difference from last call: 00:07:06.13
+7
+Current time: 06:11:45.06 - Difference from last call: 00:07:06.13
+7
+Current time: 06:11:45.06 - Difference from last call: 00:07:06.14
+7
+Current time: 06:11:45.07 - Difference from last call: 00:07:06.14
+7
+Current time: 06:11:45.08 - Difference from last call: 00:07:06.15
+7
+Current time: 06:11:45.08 - Difference from last call: 00:07:06.16
+7
+Current time: 06:11:45.09 - Difference from last call: 00:07:06.16
+7
+Current time: 06:11:45.09 - Difference from last call: 00:07:06.17
+7
+Current time: 06:11:45.10 - Difference from last call: 00:07:06.17
+7
+Current time: 06:11:45.11 - Difference from last call: 00:07:06.18
+7
+Current time: 06:11:45.11 - Difference from last call: 00:07:06.19
+7
+Current time: 06:11:45.12 - Difference from last call: 00:07:06.19
+7
+Current time: 06:11:45.12 - Difference from last call: 00:07:06.20
+7
+Current time: 06:11:45.13 - Difference from last call: 00:07:06.20
+7
+Current time: 06:11:45.14 - Difference from last call: 00:07:06.21
+7
+Current time: 06:11:45.14 - Difference from last call: 00:07:06.22
+7
+Current time: 06:11:45.15 - Difference from last call: 00:07:06.22
+7
+Current time: 06:11:45.15 - Difference from last call: 00:07:06.23
+7
+Current time: 06:11:45.16 - Difference from last call: 00:07:06.23
+7
+Current time: 06:11:45.17 - Difference from last call: 00:07:06.24
+7
+Current time: 06:11:45.17 - Difference from last call: 00:07:06.25
+7
+Current time: 06:11:45.18 - Difference from last call: 00:07:06.25
+7
+Current time: 06:11:45.18 - Difference from last call: 00:07:06.26
+7
+Current time: 06:11:45.19 - Difference from last call: 00:07:06.26
+7
+Current time: 06:11:45.20 - Difference from last call: 00:07:06.27
+7
+Current time: 06:11:45.20 - Difference from last call: 00:07:06.28
+7
+Current time: 06:11:45.21 - Difference from last call: 00:07:06.28
+7
+Current time: 06:11:45.21 - Difference from last call: 00:07:06.29
+7
+Current time: 06:11:45.22 - Difference from last call: 00:07:06.29
+7
+Current time: 06:11:45.23 - Difference from last call: 00:07:07.00
+7
+Current time: 06:11:45.23 - Difference from last call: 00:07:07.01
+7
+Current time: 06:11:45.24 - Difference from last call: 00:07:07.01
+5
+Current time: 06:11:51.20 - Difference from last call: 00:07:12.27
+5
+Current time: 06:11:54.14 - Difference from last call: 00:07:15.21
+5
+Current time: 06:11:55.17 - Difference from last call: 00:07:16.25
+5
+Current time: 06:11:56.27 - Difference from last call: 00:07:18.04
+5
+Current time: 06:11:56.27 - Difference from last call: 00:07:18.05
+5
+Current time: 06:11:56.28 - Difference from last call: 00:07:18.05
+5
+Current time: 06:11:56.29 - Difference from last call: 00:07:18.06
+5
+Current time: 06:11:56.29 - Difference from last call: 00:07:18.07
+5
+Current time: 06:11:57.00 - Difference from last call: 00:07:18.07
+5
+Current time: 06:11:57.00 - Difference from last call: 00:07:18.08
+5
+Current time: 06:11:57.01 - Difference from last call: 00:07:18.08
+5
+Current time: 06:11:57.02 - Difference from last call: 00:07:18.09
+5
+Current time: 06:11:57.02 - Difference from last call: 00:07:18.10
+5
+Current time: 06:11:57.03 - Difference from last call: 00:07:18.10
+5
+Current time: 06:11:57.03 - Difference from last call: 00:07:18.11
+5
+Current time: 06:11:57.04 - Difference from last call: 00:07:18.11
+5
+Current time: 06:11:57.05 - Difference from last call: 00:07:18.12
+5
+Current time: 06:11:57.05 - Difference from last call: 00:07:18.13
+5
+Current time: 06:11:57.06 - Difference from last call: 00:07:18.13
+5
+Current time: 06:11:57.06 - Difference from last call: 00:07:18.14
+5
+Current time: 06:11:57.07 - Difference from last call: 00:07:18.14
+5
+Current time: 06:11:57.08 - Difference from last call: 00:07:18.15
+5
+Current time: 06:11:57.08 - Difference from last call: 00:07:18.16
+5
+Current time: 06:11:57.09 - Difference from last call: 00:07:18.16
+5
+Current time: 06:11:57.09 - Difference from last call: 00:07:18.17
+5
+Current time: 06:11:57.10 - Difference from last call: 00:07:18.17
+5
+Current time: 06:11:57.11 - Difference from last call: 00:07:18.18
+5
+Current time: 06:11:57.11 - Difference from last call: 00:07:18.19
+5
+Current time: 06:11:57.12 - Difference from last call: 00:07:18.19
+5
+Current time: 06:11:57.12 - Difference from last call: 00:07:18.20
+5
+Current time: 06:11:57.13 - Difference from last call: 00:07:18.20
+5
+Current time: 06:11:57.14 - Difference from last call: 00:07:18.21
+5
+Current time: 06:11:57.14 - Difference from last call: 00:07:18.22
+5
+Current time: 06:11:57.15 - Difference from last call: 00:07:18.22
+5
+Current time: 06:11:57.15 - Difference from last call: 00:07:18.23
+5
+Current time: 06:11:57.16 - Difference from last call: 00:07:18.23
+5
+Current time: 06:11:57.17 - Difference from last call: 00:07:18.24
+5
+Current time: 06:11:57.17 - Difference from last call: 00:07:18.25
+5
+Current time: 06:11:57.18 - Difference from last call: 00:07:18.25
+5
+Current time: 06:11:57.18 - Difference from last call: 00:07:18.26
+5
+Current time: 06:11:57.19 - Difference from last call: 00:07:18.26
+5
+Current time: 06:11:57.20 - Difference from last call: 00:07:18.27
+5
+Current time: 06:11:57.20 - Difference from last call: 00:07:18.28
+8
+Current time: 06:11:58.12 - Difference from last call: 00:07:19.20
+8
+Current time: 06:12:02.18 - Difference from last call: 00:07:23.26
+8
+Current time: 06:12:02.19 - Difference from last call: 00:07:23.26
+8
+Current time: 06:12:02.20 - Difference from last call: 00:07:23.27
+8
+Current time: 06:12:02.20 - Difference from last call: 00:07:23.28
+8
+Current time: 06:12:02.21 - Difference from last call: 00:07:23.28
+8
+Current time: 06:12:02.21 - Difference from last call: 00:07:23.29
+8
+Current time: 06:12:02.22 - Difference from last call: 00:07:23.29
+8
+Current time: 06:12:02.23 - Difference from last call: 00:07:24.00
+8
+Current time: 06:12:02.23 - Difference from last call: 00:07:24.01
+8
+Current time: 06:12:02.24 - Difference from last call: 00:07:24.01
+8
+Current time: 06:12:02.24 - Difference from last call: 00:07:24.02
+8
+Current time: 06:12:02.25 - Difference from last call: 00:07:24.02
+8
+Current time: 06:12:02.26 - Difference from last call: 00:07:24.03
+8
+Current time: 06:12:02.26 - Difference from last call: 00:07:24.04
+8
+Current time: 06:12:02.27 - Difference from last call: 00:07:24.04
+8
+Current time: 06:12:02.27 - Difference from last call: 00:07:24.05
+8
+Current time: 06:12:02.28 - Difference from last call: 00:07:24.05
+8
+Current time: 06:12:02.29 - Difference from last call: 00:07:24.06
+8
+Current time: 06:12:02.29 - Difference from last call: 00:07:24.07
+8
+Current time: 06:12:03.00 - Difference from last call: 00:07:24.07
+8
+Current time: 06:12:03.00 - Difference from last call: 00:07:24.08
+8
+Current time: 06:12:03.01 - Difference from last call: 00:07:24.08
+8
+Current time: 06:12:03.02 - Difference from last call: 00:07:24.09
+8
+Current time: 06:12:03.02 - Difference from last call: 00:07:24.10
+8
+Current time: 06:12:03.03 - Difference from last call: 00:07:24.10
+8
+Current time: 06:12:03.03 - Difference from last call: 00:07:24.11
+8
+Current time: 06:12:03.04 - Difference from last call: 00:07:24.11
+8
+Current time: 06:12:03.05 - Difference from last call: 00:07:24.12
+8
+Current time: 06:12:03.05 - Difference from last call: 00:07:24.13
+8
+Current time: 06:12:03.06 - Difference from last call: 00:07:24.13
+8
+Current time: 06:12:03.06 - Difference from last call: 00:07:24.14
+8
+Current time: 06:12:03.07 - Difference from last call: 00:07:24.14
+8
+Current time: 06:12:03.08 - Difference from last call: 00:07:24.15
+8
+Current time: 06:12:03.08 - Difference from last call: 00:07:24.16
+8
+Current time: 06:12:03.09 - Difference from last call: 00:07:24.16
+8
+Current time: 06:12:03.09 - Difference from last call: 00:07:24.17
+8
+Current time: 06:12:03.10 - Difference from last call: 00:07:24.17
+8
+Current time: 06:12:03.11 - Difference from last call: 00:07:24.18
+8
+Current time: 06:12:03.11 - Difference from last call: 00:07:24.19
+8
+Current time: 06:12:03.12 - Difference from last call: 00:07:24.19
+7
+Current time: 06:12:04.10 - Difference from last call: 00:07:25.17
+7
+Current time: 06:12:05.08 - Difference from last call: 00:07:26.15
+7
+Current time: 06:12:05.17 - Difference from last call: 00:07:26.25
+7
+Current time: 06:12:06.21 - Difference from last call: 00:07:27.28
+7
+Current time: 06:12:06.21 - Difference from last call: 00:07:27.29
+7
+Current time: 06:12:06.22 - Difference from last call: 00:07:27.29
+7
+Current time: 06:12:06.23 - Difference from last call: 00:07:28.00
+7
+Current time: 06:12:06.23 - Difference from last call: 00:07:28.01
+7
+Current time: 06:12:06.24 - Difference from last call: 00:07:28.01
+7
+Current time: 06:12:06.24 - Difference from last call: 00:07:28.02
+7
+Current time: 06:12:06.25 - Difference from last call: 00:07:28.02
+7
+Current time: 06:12:06.26 - Difference from last call: 00:07:28.03
+7
+Current time: 06:12:06.26 - Difference from last call: 00:07:28.04
+7
+Current time: 06:12:06.27 - Difference from last call: 00:07:28.04
+7
+Current time: 06:12:06.27 - Difference from last call: 00:07:28.05
+7
+Current time: 06:12:06.28 - Difference from last call: 00:07:28.05
+7
+Current time: 06:12:06.29 - Difference from last call: 00:07:28.06
+7
+Current time: 06:12:06.29 - Difference from last call: 00:07:28.07
+7
+Current time: 06:12:07.00 - Difference from last call: 00:07:28.07
+7
+Current time: 06:12:07.00 - Difference from last call: 00:07:28.08
+7
+Current time: 06:12:07.01 - Difference from last call: 00:07:28.08
+7
+Current time: 06:12:07.02 - Difference from last call: 00:07:28.09
+7
+Current time: 06:12:07.02 - Difference from last call: 00:07:28.10
+7
+Current time: 06:12:07.03 - Difference from last call: 00:07:28.10
+7
+Current time: 06:12:07.03 - Difference from last call: 00:07:28.11
+7
+Current time: 06:12:07.04 - Difference from last call: 00:07:28.11
+7
+Current time: 06:12:07.05 - Difference from last call: 00:07:28.12
+7
+Current time: 06:12:07.05 - Difference from last call: 00:07:28.13
+7
+Current time: 06:12:07.06 - Difference from last call: 00:07:28.13
+7
+Current time: 06:12:07.06 - Difference from last call: 00:07:28.14
+7
+Current time: 06:12:07.07 - Difference from last call: 00:07:28.14
+7
+Current time: 06:12:07.08 - Difference from last call: 00:07:28.15
+7
+Current time: 06:12:07.08 - Difference from last call: 00:07:28.16
+7
+Current time: 06:12:07.09 - Difference from last call: 00:07:28.16
+7
+Current time: 06:12:07.09 - Difference from last call: 00:07:28.17
+7
+Current time: 06:12:07.10 - Difference from last call: 00:07:28.17
+7
+Current time: 06:12:07.11 - Difference from last call: 00:07:28.18
+7
+Current time: 06:12:07.11 - Difference from last call: 00:07:28.19
+7
+Current time: 06:12:07.12 - Difference from last call: 00:07:28.19
+7
+Current time: 06:12:07.12 - Difference from last call: 00:07:28.20
+7
+Current time: 06:12:07.13 - Difference from last call: 00:07:28.20
+7
+Current time: 06:12:07.14 - Difference from last call: 00:07:28.21
+7
+Current time: 06:12:07.14 - Difference from last call: 00:07:28.22
+5
+Current time: 06:12:08.14 - Difference from last call: 00:07:29.21
+5
+Current time: 06:12:09.09 - Difference from last call: 00:07:30.16
+5
+Current time: 06:12:12.27 - Difference from last call: 00:07:34.04
+5
+Current time: 06:12:12.27 - Difference from last call: 00:07:34.05
+5
+Current time: 06:12:12.28 - Difference from last call: 00:07:34.05
+5
+Current time: 06:12:12.29 - Difference from last call: 00:07:34.06
+5
+Current time: 06:12:12.29 - Difference from last call: 00:07:34.07
+5
+Current time: 06:12:13.00 - Difference from last call: 00:07:34.07
+5
+Current time: 06:12:13.00 - Difference from last call: 00:07:34.08
+5
+Current time: 06:12:13.01 - Difference from last call: 00:07:34.08
+5
+Current time: 06:12:13.02 - Difference from last call: 00:07:34.09
+5
+Current time: 06:12:13.02 - Difference from last call: 00:07:34.10
+5
+Current time: 06:12:13.03 - Difference from last call: 00:07:34.10
+5
+Current time: 06:12:13.03 - Difference from last call: 00:07:34.11
+5
+Current time: 06:12:13.04 - Difference from last call: 00:07:34.11
+5
+Current time: 06:12:13.05 - Difference from last call: 00:07:34.12
+5
+Current time: 06:12:13.05 - Difference from last call: 00:07:34.13
+5
+Current time: 06:12:13.06 - Difference from last call: 00:07:34.13
+5
+Current time: 06:12:13.06 - Difference from last call: 00:07:34.14
+5
+Current time: 06:12:13.07 - Difference from last call: 00:07:34.14
+5
+Current time: 06:12:13.08 - Difference from last call: 00:07:34.15
+5
+Current time: 06:12:13.08 - Difference from last call: 00:07:34.16
+5
+Current time: 06:12:13.09 - Difference from last call: 00:07:34.16
+5
+Current time: 06:12:13.09 - Difference from last call: 00:07:34.17
+5
+Current time: 06:12:13.10 - Difference from last call: 00:07:34.17
+5
+Current time: 06:12:13.11 - Difference from last call: 00:07:34.18
+5
+Current time: 06:12:13.11 - Difference from last call: 00:07:34.19
+5
+Current time: 06:12:13.12 - Difference from last call: 00:07:34.19
+5
+Current time: 06:12:13.12 - Difference from last call: 00:07:34.20
+5
+Current time: 06:12:13.13 - Difference from last call: 00:07:34.20
+5
+Current time: 06:12:13.14 - Difference from last call: 00:07:34.21
+5
+Current time: 06:12:13.14 - Difference from last call: 00:07:34.22
+5
+Current time: 06:12:13.15 - Difference from last call: 00:07:34.22
+5
+Current time: 06:12:13.15 - Difference from last call: 00:07:34.23
+5
+Current time: 06:12:13.16 - Difference from last call: 00:07:34.23
+5
+Current time: 06:12:13.17 - Difference from last call: 00:07:34.24
+5
+Current time: 06:12:13.17 - Difference from last call: 00:07:34.25
+5
+Current time: 06:12:13.18 - Difference from last call: 00:07:34.25
+5
+Current time: 06:12:13.18 - Difference from last call: 00:07:34.26
+5
+Current time: 06:12:13.19 - Difference from last call: 00:07:34.26
+5
+Current time: 06:12:13.20 - Difference from last call: 00:07:34.27
+5
+Current time: 06:12:13.20 - Difference from last call: 00:07:34.28
+8
+Current time: 06:12:15.16 - Difference from last call: 00:07:36.23
+8
+Current time: 06:12:18.17 - Difference from last call: 00:07:39.25
+8
+Current time: 06:12:18.18 - Difference from last call: 00:07:39.25
+8
+Current time: 06:12:18.18 - Difference from last call: 00:07:39.26
+8
+Current time: 06:12:18.19 - Difference from last call: 00:07:39.26
+8
+Current time: 06:12:18.20 - Difference from last call: 00:07:39.27
+8
+Current time: 06:12:18.20 - Difference from last call: 00:07:39.28
+8
+Current time: 06:12:18.21 - Difference from last call: 00:07:39.28
+8
+Current time: 06:12:18.21 - Difference from last call: 00:07:39.29
+8
+Current time: 06:12:18.22 - Difference from last call: 00:07:39.29
+8
+Current time: 06:12:18.23 - Difference from last call: 00:07:40.00
+8
+Current time: 06:12:18.23 - Difference from last call: 00:07:40.01
+8
+Current time: 06:12:18.24 - Difference from last call: 00:07:40.01
+8
+Current time: 06:12:18.24 - Difference from last call: 00:07:40.02
+8
+Current time: 06:12:18.25 - Difference from last call: 00:07:40.02
+8
+Current time: 06:12:18.26 - Difference from last call: 00:07:40.03
+8
+Current time: 06:12:18.26 - Difference from last call: 00:07:40.04
+8
+Current time: 06:12:18.27 - Difference from last call: 00:07:40.04
+8
+Current time: 06:12:18.27 - Difference from last call: 00:07:40.05
+8
+Current time: 06:12:18.28 - Difference from last call: 00:07:40.05
+8
+Current time: 06:12:18.29 - Difference from last call: 00:07:40.06
+8
+Current time: 06:12:18.29 - Difference from last call: 00:07:40.07
+8
+Current time: 06:12:19.00 - Difference from last call: 00:07:40.07
+8
+Current time: 06:12:19.00 - Difference from last call: 00:07:40.08
+8
+Current time: 06:12:19.01 - Difference from last call: 00:07:40.08
+8
+Current time: 06:12:19.02 - Difference from last call: 00:07:40.09
+8
+Current time: 06:12:19.02 - Difference from last call: 00:07:40.10
+8
+Current time: 06:12:19.03 - Difference from last call: 00:07:40.10
+8
+Current time: 06:12:19.03 - Difference from last call: 00:07:40.11
+8
+Current time: 06:12:19.04 - Difference from last call: 00:07:40.11
+8
+Current time: 06:12:19.05 - Difference from last call: 00:07:40.12
+8
+Current time: 06:12:19.05 - Difference from last call: 00:07:40.13
+8
+Current time: 06:12:19.06 - Difference from last call: 00:07:40.13
+8
+Current time: 06:12:19.06 - Difference from last call: 00:07:40.14
+8
+Current time: 06:12:19.07 - Difference from last call: 00:07:40.14
+8
+Current time: 06:12:19.08 - Difference from last call: 00:07:40.15
+8
+Current time: 06:12:19.08 - Difference from last call: 00:07:40.16
+8
+Current time: 06:12:19.09 - Difference from last call: 00:07:40.16
+8
+Current time: 06:12:19.09 - Difference from last call: 00:07:40.17
+8
+Current time: 06:12:19.10 - Difference from last call: 00:07:40.17
+8
+Current time: 06:12:19.11 - Difference from last call: 00:07:40.18
+7
+Current time: 06:12:23.28 - Difference from last call: 00:07:45.05
+7
+Current time: 06:12:23.29 - Difference from last call: 00:07:45.06
+7
+Current time: 06:12:23.29 - Difference from last call: 00:07:45.07
+7
+Current time: 06:12:24.00 - Difference from last call: 00:07:45.07
+7
+Current time: 06:12:24.00 - Difference from last call: 00:07:45.08
+7
+Current time: 06:12:24.01 - Difference from last call: 00:07:45.08
+7
+Current time: 06:12:24.02 - Difference from last call: 00:07:45.09
+7
+Current time: 06:12:24.02 - Difference from last call: 00:07:45.10
+7
+Current time: 06:12:24.03 - Difference from last call: 00:07:45.10
+7
+Current time: 06:12:24.03 - Difference from last call: 00:07:45.11
+7
+Current time: 06:12:24.04 - Difference from last call: 00:07:45.11
+7
+Current time: 06:12:24.05 - Difference from last call: 00:07:45.12
+7
+Current time: 06:12:24.05 - Difference from last call: 00:07:45.13
+7
+Current time: 06:12:24.06 - Difference from last call: 00:07:45.13
+7
+Current time: 06:12:24.06 - Difference from last call: 00:07:45.14
+7
+Current time: 06:12:24.07 - Difference from last call: 00:07:45.14
+7
+Current time: 06:12:24.08 - Difference from last call: 00:07:45.15
+7
+Current time: 06:12:24.08 - Difference from last call: 00:07:45.16
+7
+Current time: 06:12:24.09 - Difference from last call: 00:07:45.16
+7
+Current time: 06:12:24.09 - Difference from last call: 00:07:45.17
+7
+Current time: 06:12:24.10 - Difference from last call: 00:07:45.17
+7
+Current time: 06:12:24.11 - Difference from last call: 00:07:45.18
+7
+Current time: 06:12:24.11 - Difference from last call: 00:07:45.19
+7
+Current time: 06:12:24.12 - Difference from last call: 00:07:45.19
+7
+Current time: 06:12:24.12 - Difference from last call: 00:07:45.20
+7
+Current time: 06:12:24.13 - Difference from last call: 00:07:45.20
+7
+Current time: 06:12:24.14 - Difference from last call: 00:07:45.21
+7
+Current time: 06:12:24.14 - Difference from last call: 00:07:45.22
+7
+Current time: 06:12:24.15 - Difference from last call: 00:07:45.22
+7
+Current time: 06:12:24.15 - Difference from last call: 00:07:45.23
+7
+Current time: 06:12:24.16 - Difference from last call: 00:07:45.23
+7
+Current time: 06:12:24.17 - Difference from last call: 00:07:45.24
+7
+Current time: 06:12:24.17 - Difference from last call: 00:07:45.25
+7
+Current time: 06:12:24.18 - Difference from last call: 00:07:45.25
+7
+Current time: 06:12:24.18 - Difference from last call: 00:07:45.26
+7
+Current time: 06:12:24.19 - Difference from last call: 00:07:45.26
+7
+Current time: 06:12:24.20 - Difference from last call: 00:07:45.27
+7
+Current time: 06:12:24.20 - Difference from last call: 00:07:45.28
+7
+Current time: 06:12:24.21 - Difference from last call: 00:07:45.28
+7
+Current time: 06:12:24.21 - Difference from last call: 00:07:45.29
+8
+Current time: 06:12:26.20 - Difference from last call: 00:07:47.27
+8
+Current time: 06:12:27.22 - Difference from last call: 00:07:48.29
+8
+Current time: 06:12:27.23 - Difference from last call: 00:07:49.00
+8
+Current time: 06:12:27.23 - Difference from last call: 00:07:49.01
+8
+Current time: 06:12:27.24 - Difference from last call: 00:07:49.01
+8
+Current time: 06:12:27.24 - Difference from last call: 00:07:49.02
+8
+Current time: 06:12:27.25 - Difference from last call: 00:07:49.02
+8
+Current time: 06:12:27.26 - Difference from last call: 00:07:49.03
+8
+Current time: 06:12:27.26 - Difference from last call: 00:07:49.04
+8
+Current time: 06:12:27.27 - Difference from last call: 00:07:49.04
+8
+Current time: 06:12:27.27 - Difference from last call: 00:07:49.05
+8
+Current time: 06:12:27.28 - Difference from last call: 00:07:49.05
+8
+Current time: 06:12:27.29 - Difference from last call: 00:07:49.06
+8
+Current time: 06:12:27.29 - Difference from last call: 00:07:49.07
+8
+Current time: 06:12:28.00 - Difference from last call: 00:07:49.07
+8
+Current time: 06:12:28.00 - Difference from last call: 00:07:49.08
+8
+Current time: 06:12:28.01 - Difference from last call: 00:07:49.08
+8
+Current time: 06:12:28.02 - Difference from last call: 00:07:49.09
+8
+Current time: 06:12:28.02 - Difference from last call: 00:07:49.10
+8
+Current time: 06:12:28.03 - Difference from last call: 00:07:49.10
+8
+Current time: 06:12:28.03 - Difference from last call: 00:07:49.11
+8
+Current time: 06:12:28.04 - Difference from last call: 00:07:49.11
+8
+Current time: 06:12:28.05 - Difference from last call: 00:07:49.12
+8
+Current time: 06:12:28.05 - Difference from last call: 00:07:49.13
+8
+Current time: 06:12:28.06 - Difference from last call: 00:07:49.13
+8
+Current time: 06:12:28.06 - Difference from last call: 00:07:49.14
+8
+Current time: 06:12:28.07 - Difference from last call: 00:07:49.14
+8
+Current time: 06:12:28.08 - Difference from last call: 00:07:49.15
+8
+Current time: 06:12:28.08 - Difference from last call: 00:07:49.16
+8
+Current time: 06:12:28.09 - Difference from last call: 00:07:49.16
+8
+Current time: 06:12:28.09 - Difference from last call: 00:07:49.17
+8
+Current time: 06:12:28.10 - Difference from last call: 00:07:49.17
+8
+Current time: 06:12:28.11 - Difference from last call: 00:07:49.18
+8
+Current time: 06:12:28.11 - Difference from last call: 00:07:49.19
+8
+Current time: 06:12:28.12 - Difference from last call: 00:07:49.19
+8
+Current time: 06:12:28.12 - Difference from last call: 00:07:49.20
+8
+Current time: 06:12:28.13 - Difference from last call: 00:07:49.20
+8
+Current time: 06:12:28.14 - Difference from last call: 00:07:49.21
+8
+Current time: 06:12:28.14 - Difference from last call: 00:07:49.22
+8
+Current time: 06:12:28.15 - Difference from last call: 00:07:49.22
+8
+Current time: 06:12:28.15 - Difference from last call: 00:07:49.23
+5
+Current time: 06:12:29.18 - Difference from last call: 00:07:50.26
+5
+Current time: 06:13:22.11 - Difference from last call: 00:08:43.19
+6
+Current time: 06:13:23.09 - Difference from last call: 00:08:44.16
+6
+Current time: 06:13:23.27 - Difference from last call: 00:08:45.04
+6
+Current time: 06:13:24.09 - Difference from last call: 00:08:45.16
+8
+Current time: 06:13:27.12 - Difference from last call: 00:08:48.20
+6
+Current time: 06:13:29.02 - Difference from last call: 00:08:50.09
+8
+Current time: 06:13:31.15 - Difference from last call: 00:08:52.22
+6
+Current time: 06:13:32.11 - Difference from last call: 00:08:53.19
+8
+Current time: 06:13:33.18 - Difference from last call: 00:08:54.26
+6
+Current time: 06:13:34.21 - Difference from last call: 00:08:55.28
+8
+Current time: 06:13:35.21 - Difference from last call: 00:08:56.28
+6
+Current time: 06:13:37.06 - Difference from last call: 00:08:58.14
+8
+Current time: 06:13:38.21 - Difference from last call: 00:08:59.28
+6
+Current time: 06:13:39.11 - Difference from last call: 00:09:00.19
+6
+Current time: 06:13:39.20 - Difference from last call: 00:09:00.27
+5
+Current time: 06:13:41.04 - Difference from last call: 00:09:02.11
+5
+Current time: 06:13:42.00 - Difference from last call: 00:09:03.08
+5
+Current time: 06:13:47.09 - Difference from last call: 00:09:08.16
+8
+Current time: 06:13:48.02 - Difference from last call: 00:09:09.09
+8
+Current time: 06:13:51.02 - Difference from last call: 00:09:12.09
+7
+Current time: 06:13:52.09 - Difference from last call: 00:09:13.16
+7
+Current time: 06:13:53.09 - Difference from last call: 00:09:14.16
+6
+Current time: 06:13:54.08 - Difference from last call: 00:09:15.15
+6
+Current time: 06:13:54.24 - Difference from last call: 00:09:16.02
+5
+Current time: 06:13:56.06 - Difference from last call: 00:09:17.14
+5
+Current time: 06:13:56.20 - Difference from last call: 00:09:17.27
+5
+Current time: 06:14:06.10 - Difference from last call: 00:09:27.17
+5
+Current time: 06:14:08.02 - Difference from last call: 00:09:29.09
+5
+Current time: 06:14:10.12 - Difference from last call: 00:09:31.20
+8
+Current time: 06:14:11.09 - Difference from last call: 00:09:32.16
+8
+Current time: 06:14:14.00 - Difference from last call: 00:09:35.08
+8
+Current time: 06:14:14.01 - Difference from last call: 00:09:35.08
+8
+Current time: 06:14:14.01 - Difference from last call: 00:09:35.09
+8
+Current time: 06:14:14.02 - Difference from last call: 00:09:35.10
+8
+Current time: 06:14:14.03 - Difference from last call: 00:09:35.10
+8
+Current time: 06:14:14.03 - Difference from last call: 00:09:35.11
+8
+Current time: 06:14:14.04 - Difference from last call: 00:09:35.11
+8
+Current time: 06:14:14.04 - Difference from last call: 00:09:35.12
+8
+Current time: 06:14:14.05 - Difference from last call: 00:09:35.13
+8
+Current time: 06:14:14.06 - Difference from last call: 00:09:35.13
+8
+Current time: 06:14:14.06 - Difference from last call: 00:09:35.14
+8
+Current time: 06:14:14.07 - Difference from last call: 00:09:35.14
+8
+Current time: 06:14:14.07 - Difference from last call: 00:09:35.15
+8
+Current time: 06:14:14.08 - Difference from last call: 00:09:35.16
+8
+Current time: 06:14:14.09 - Difference from last call: 00:09:35.16
+8
+Current time: 06:14:14.09 - Difference from last call: 00:09:35.17
+8
+Current time: 06:14:14.10 - Difference from last call: 00:09:35.17
+8
+Current time: 06:14:14.10 - Difference from last call: 00:09:35.18
+8
+Current time: 06:14:14.11 - Difference from last call: 00:09:35.19
+8
+Current time: 06:14:14.12 - Difference from last call: 00:09:35.19
+8
+Current time: 06:14:14.12 - Difference from last call: 00:09:35.20
+8
+Current time: 06:14:14.13 - Difference from last call: 00:09:35.20
+8
+Current time: 06:14:14.13 - Difference from last call: 00:09:35.21
+8
+Current time: 06:14:14.14 - Difference from last call: 00:09:35.22
+8
+Current time: 06:14:14.15 - Difference from last call: 00:09:35.22
+8
+Current time: 06:14:14.15 - Difference from last call: 00:09:35.23
+8
+Current time: 06:14:14.16 - Difference from last call: 00:09:35.23
+8
+Current time: 06:14:14.16 - Difference from last call: 00:09:35.24
+8
+Current time: 06:14:14.17 - Difference from last call: 00:09:35.25
+8
+Current time: 06:14:14.18 - Difference from last call: 00:09:35.25
+8
+Current time: 06:14:14.18 - Difference from last call: 00:09:35.26
+8
+Current time: 06:14:14.19 - Difference from last call: 00:09:35.26
+8
+Current time: 06:14:14.19 - Difference from last call: 00:09:35.27
+8
+Current time: 06:14:14.20 - Difference from last call: 00:09:35.28
+8
+Current time: 06:14:14.21 - Difference from last call: 00:09:35.28
+8
+Current time: 06:14:14.21 - Difference from last call: 00:09:35.29
+8
+Current time: 06:14:14.22 - Difference from last call: 00:09:35.29
+8
+Current time: 06:14:14.23 - Difference from last call: 00:09:36.00
+8
+Current time: 06:14:14.23 - Difference from last call: 00:09:36.01
+8
+Current time: 06:14:14.24 - Difference from last call: 00:09:36.01
+7
+Current time: 06:14:24.04 - Difference from last call: 00:09:45.11
+7
+Current time: 06:14:24.09 - Difference from last call: 00:09:45.16
+6
+Current time: 06:14:24.23 - Difference from last call: 00:09:46.01
+6
+Current time: 06:14:25.15 - Difference from last call: 00:09:46.22
+5
+Current time: 06:14:29.03 - Difference from last call: 00:09:50.10
+6
+Current time: 06:14:30.17 - Difference from last call: 00:09:51.25
+5
+Current time: 06:14:31.18 - Difference from last call: 00:09:52.26
+5
+Current time: 06:14:32.12 - Difference from last call: 00:09:53.20
+5
+Current time: 06:14:33.11 - Difference from last call: 00:09:54.19
+8
+Current time: 06:14:34.27 - Difference from last call: 00:09:56.04
+8
+Current time: 06:14:36.04 - Difference from last call: 00:09:57.11
+8
+Current time: 06:14:37.06 - Difference from last call: 00:09:58.14
+7
+Current time: 06:14:39.29 - Difference from last call: 00:10:01.07
+7
+Current time: 06:14:40.10 - Difference from last call: 00:10:01.17
+6
+Current time: 06:14:40.29 - Difference from last call: 00:10:02.07
+6
+Current time: 06:14:41.17 - Difference from last call: 00:10:02.25
+5
+Current time: 06:14:43.00 - Difference from last call: 00:10:04.08
+5
+Current time: 06:14:43.15 - Difference from last call: 00:10:04.22
+5
+Current time: 06:14:44.28 - Difference from last call: 00:10:06.05
+8
+Current time: 06:14:46.06 - Difference from last call: 00:10:07.14
+8
+Current time: 06:14:48.26 - Difference from last call: 00:10:10.03
+7
+Current time: 06:14:50.03 - Difference from last call: 00:10:11.10
+7
+Current time: 06:14:52.18 - Difference from last call: 00:10:13.26
+6
+Current time: 06:14:55.22 - Difference from last call: 00:10:16.29
+6
+Current time: 06:14:56.20 - Difference from last call: 00:10:17.27
+5
+Current time: 06:14:59.23 - Difference from last call: 00:10:21.01
+5
+Current time: 06:15:00.15 - Difference from last call: 00:10:21.22
+5
+Current time: 06:15:11.20 - Difference from last call: 00:10:32.27
+5
+Current time: 06:15:11.26 - Difference from last call: 00:10:33.03
+6
+Current time: 06:15:12.09 - Difference from last call: 00:10:33.16
+6
+Current time: 06:15:12.17 - Difference from last call: 00:10:33.25
+8
+Current time: 06:15:13.20 - Difference from last call: 00:10:34.27
+8
+Current time: 06:15:16.10 - Difference from last call: 00:10:37.17
+7
+Current time: 06:15:20.03 - Difference from last call: 00:10:41.10
+8
+Current time: 06:15:25.26 - Difference from last call: 00:10:47.03
+8
+Current time: 06:15:26.04 - Difference from last call: 00:10:47.11
+6
+Current time: 06:15:26.22 - Difference from last call: 00:10:47.29
+6
+Current time: 06:15:27.16 - Difference from last call: 00:10:48.23
+5
+Current time: 06:15:28.18 - Difference from last call: 00:10:49.26
+5
+Current time: 06:15:31.16 - Difference from last call: 00:10:52.23
+7
+Current time: 06:15:34.16 - Difference from last call: 00:10:55.23
+7
+Current time: 06:15:35.08 - Difference from last call: 00:10:56.15
+8
+Current time: 06:15:37.05 - Difference from last call: 00:10:58.13
+8
+Current time: 06:15:39.00 - Difference from last call: 00:11:00.08
+6
+Current time: 06:15:41.02 - Difference from last call: 00:11:02.09
+6
+Current time: 06:15:42.28 - Difference from last call: 00:11:04.05
+5
+Current time: 06:15:43.20 - Difference from last call: 00:11:04.27
+5
+Current time: 06:15:46.13 - Difference from last call: 00:11:07.21
+5
+Current time: 06:15:46.14 - Difference from last call: 00:11:07.22
+5
+Current time: 06:15:46.15 - Difference from last call: 00:11:07.22
+5
+Current time: 06:15:46.15 - Difference from last call: 00:11:07.23
+5
+Current time: 06:15:46.16 - Difference from last call: 00:11:07.23
+5
+Current time: 06:15:46.16 - Difference from last call: 00:11:07.24
+5
+Current time: 06:15:46.17 - Difference from last call: 00:11:07.25
+5
+Current time: 06:15:46.18 - Difference from last call: 00:11:07.25
+5
+Current time: 06:15:46.18 - Difference from last call: 00:11:07.26
+5
+Current time: 06:15:46.19 - Difference from last call: 00:11:07.26
+5
+Current time: 06:15:46.19 - Difference from last call: 00:11:07.27
+5
+Current time: 06:15:46.20 - Difference from last call: 00:11:07.28
+5
+Current time: 06:15:46.21 - Difference from last call: 00:11:07.28
+5
+Current time: 06:15:46.21 - Difference from last call: 00:11:07.29
+5
+Current time: 06:15:46.22 - Difference from last call: 00:11:07.29
+5
+Current time: 06:15:46.22 - Difference from last call: 00:11:08.00
+5
+Current time: 06:15:46.23 - Difference from last call: 00:11:08.01
+5
+Current time: 06:15:46.24 - Difference from last call: 00:11:08.01
+5
+Current time: 06:15:46.24 - Difference from last call: 00:11:08.02
+5
+Current time: 06:15:46.25 - Difference from last call: 00:11:08.02
+5
+Current time: 06:15:46.25 - Difference from last call: 00:11:08.03
+5
+Current time: 06:15:46.26 - Difference from last call: 00:11:08.04
+5
+Current time: 06:15:46.27 - Difference from last call: 00:11:08.04
+5
+Current time: 06:15:46.27 - Difference from last call: 00:11:08.05
+5
+Current time: 06:15:46.28 - Difference from last call: 00:11:08.05
+5
+Current time: 06:15:46.28 - Difference from last call: 00:11:08.06
+5
+Current time: 06:15:46.29 - Difference from last call: 00:11:08.07
+5
+Current time: 06:15:47.00 - Difference from last call: 00:11:08.07
+5
+Current time: 06:15:47.00 - Difference from last call: 00:11:08.08
+5
+Current time: 06:15:47.01 - Difference from last call: 00:11:08.08
+5
+Current time: 06:15:47.01 - Difference from last call: 00:11:08.09
+5
+Current time: 06:15:47.02 - Difference from last call: 00:11:08.10
+5
+Current time: 06:15:47.03 - Difference from last call: 00:11:08.10
+5
+Current time: 06:15:47.03 - Difference from last call: 00:11:08.11
+5
+Current time: 06:15:47.04 - Difference from last call: 00:11:08.11
+5
+Current time: 06:15:47.04 - Difference from last call: 00:11:08.12
+5
+Current time: 06:15:47.05 - Difference from last call: 00:11:08.13
+5
+Current time: 06:15:47.06 - Difference from last call: 00:11:08.13
+5
+Current time: 06:15:47.06 - Difference from last call: 00:11:08.14
+5
+Current time: 06:15:47.07 - Difference from last call: 00:11:08.14
+7
+Current time: 06:15:48.03 - Difference from last call: 00:11:09.10
+7
+Current time: 06:15:50.15 - Difference from last call: 00:11:11.22
+8
+Current time: 06:15:54.24 - Difference from last call: 00:11:16.02
+7
+Current time: 06:15:55.29 - Difference from last call: 00:11:17.07
+7
+Current time: 06:15:57.02 - Difference from last call: 00:11:18.09
+6
+Current time: 06:15:57.22 - Difference from last call: 00:11:18.29
+6
+Current time: 06:15:58.26 - Difference from last call: 00:11:20.03
+5
+Current time: 06:16:00.11 - Difference from last call: 00:11:21.19
+6
+Current time: 06:16:01.18 - Difference from last call: 00:11:22.26
+6
+Current time: 06:16:02.05 - Difference from last call: 00:11:23.13
+6
+Current time: 06:16:02.23 - Difference from last call: 00:11:24.01
+8
+Current time: 06:16:04.27 - Difference from last call: 00:11:26.04
+6
+Current time: 06:16:06.18 - Difference from last call: 00:11:27.26
+8
+Current time: 06:16:08.24 - Difference from last call: 00:11:30.02
+6
+Current time: 06:16:10.06 - Difference from last call: 00:11:31.14
+8
+Current time: 06:16:12.28 - Difference from last call: 00:11:34.05
+6
+Current time: 06:16:14.02 - Difference from last call: 00:11:35.09
+6
+Current time: 06:16:14.14 - Difference from last call: 00:11:35.21
+5
+Current time: 06:16:16.04 - Difference from last call: 00:11:37.11
+5
+Current time: 06:16:21.08 - Difference from last call: 00:11:42.15
+5
+Current time: 06:16:23.02 - Difference from last call: 00:11:44.09
+5
+Current time: 06:16:23.18 - Difference from last call: 00:11:44.26
+5
+Current time: 06:16:28.16 - Difference from last call: 00:11:49.23
+5
+Current time: 06:16:29.00 - Difference from last call: 00:11:50.08
+6
+Current time: 06:16:29.15 - Difference from last call: 00:11:50.22
+6
+Current time: 06:16:29.28 - Difference from last call: 00:11:51.05
+8
+Current time: 06:16:31.02 - Difference from last call: 00:11:52.09
+8
+Current time: 06:16:33.26 - Difference from last call: 00:11:55.03
+7
+Current time: 06:16:37.24 - Difference from last call: 00:11:59.02
+8
+Current time: 06:16:40.22 - Difference from last call: 00:12:01.29
+8
+Current time: 06:16:43.02 - Difference from last call: 00:12:04.09
+6
+Current time: 06:16:44.18 - Difference from last call: 00:12:05.26
+6
+Current time: 06:16:45.03 - Difference from last call: 00:12:06.10
+5
+Current time: 06:16:46.03 - Difference from last call: 00:12:07.10
+5
+Current time: 06:16:47.15 - Difference from last call: 00:12:08.22
+5
+Current time: 06:16:49.20 - Difference from last call: 00:12:10.27
+5
+Current time: 06:16:52.15 - Difference from last call: 00:12:13.22
+5
+Current time: 06:16:52.15 - Difference from last call: 00:12:13.23
+5
+Current time: 06:16:52.16 - Difference from last call: 00:12:13.23
+5
+Current time: 06:16:52.16 - Difference from last call: 00:12:13.24
+5
+Current time: 06:16:52.17 - Difference from last call: 00:12:13.25
+5
+Current time: 06:16:52.18 - Difference from last call: 00:12:13.25
+5
+Current time: 06:16:52.18 - Difference from last call: 00:12:13.26
+5
+Current time: 06:16:52.19 - Difference from last call: 00:12:13.26
+5
+Current time: 06:16:52.19 - Difference from last call: 00:12:13.27
+5
+Current time: 06:16:52.20 - Difference from last call: 00:12:13.28
+5
+Current time: 06:16:52.21 - Difference from last call: 00:12:13.28
+5
+Current time: 06:16:52.21 - Difference from last call: 00:12:13.29
+5
+Current time: 06:16:52.22 - Difference from last call: 00:12:13.29
+5
+Current time: 06:16:52.22 - Difference from last call: 00:12:14.00
+5
+Current time: 06:16:52.23 - Difference from last call: 00:12:14.01
+5
+Current time: 06:16:52.24 - Difference from last call: 00:12:14.01
+5
+Current time: 06:16:52.24 - Difference from last call: 00:12:14.02
+5
+Current time: 06:16:52.25 - Difference from last call: 00:12:14.02
+5
+Current time: 06:16:52.25 - Difference from last call: 00:12:14.03
+5
+Current time: 06:16:52.26 - Difference from last call: 00:12:14.04
+5
+Current time: 06:16:52.27 - Difference from last call: 00:12:14.04
+5
+Current time: 06:16:52.27 - Difference from last call: 00:12:14.05
+5
+Current time: 06:16:52.28 - Difference from last call: 00:12:14.05
+5
+Current time: 06:16:52.28 - Difference from last call: 00:12:14.06
+5
+Current time: 06:16:52.29 - Difference from last call: 00:12:14.07
+5
+Current time: 06:16:53.00 - Difference from last call: 00:12:14.07
+5
+Current time: 06:16:53.00 - Difference from last call: 00:12:14.08
+5
+Current time: 06:16:53.01 - Difference from last call: 00:12:14.08
+5
+Current time: 06:16:53.01 - Difference from last call: 00:12:14.09
+5
+Current time: 06:16:53.02 - Difference from last call: 00:12:14.10
+5
+Current time: 06:16:53.03 - Difference from last call: 00:12:14.10
+5
+Current time: 06:16:53.03 - Difference from last call: 00:12:14.11
+5
+Current time: 06:16:53.04 - Difference from last call: 00:12:14.11
+5
+Current time: 06:16:53.04 - Difference from last call: 00:12:14.12
+5
+Current time: 06:16:53.05 - Difference from last call: 00:12:14.13
+5
+Current time: 06:16:53.06 - Difference from last call: 00:12:14.13
+5
+Current time: 06:16:53.06 - Difference from last call: 00:12:14.14
+5
+Current time: 06:16:53.07 - Difference from last call: 00:12:14.14
+5
+Current time: 06:16:53.07 - Difference from last call: 00:12:14.15
+5
+Current time: 06:16:53.08 - Difference from last call: 00:12:14.16
+7
+Current time: 06:16:53.20 - Difference from last call: 00:12:14.27
+7
+Current time: 06:16:56.20 - Difference from last call: 00:12:17.27
+8
+Current time: 06:16:57.20 - Difference from last call: 00:12:18.27
+8
+Current time: 06:16:58.15 - Difference from last call: 00:12:19.22
+6
+Current time: 06:16:59.18 - Difference from last call: 00:12:20.26
+6
+Current time: 06:17:00.12 - Difference from last call: 00:12:21.20
+5
+Current time: 06:17:02.21 - Difference from last call: 00:12:23.28
+5
+Current time: 06:17:04.09 - Difference from last call: 00:12:25.16
+8
+Current time: 06:17:06.03 - Difference from last call: 00:12:27.10
+8
+Current time: 06:17:08.02 - Difference from last call: 00:12:29.09
+7
+Current time: 06:17:11.21 - Difference from last call: 00:12:32.28
+7
+Current time: 06:17:12.03 - Difference from last call: 00:12:33.10
+6
+Current time: 06:17:14.12 - Difference from last call: 00:12:35.20
+6
+Current time: 06:17:16.11 - Difference from last call: 00:12:37.19
+5
+Current time: 06:17:18.06 - Difference from last call: 00:12:39.14
+6
+Current time: 06:17:19.28 - Difference from last call: 00:12:41.05
+5
+Current time: 06:17:20.10 - Difference from last call: 00:12:41.17
+5
+Current time: 06:17:20.24 - Difference from last call: 00:12:42.02
+5
+Current time: 06:17:22.08 - Difference from last call: 00:12:43.15
+8
+Current time: 06:17:25.04 - Difference from last call: 00:12:46.11
+8
+Current time: 06:17:26.05 - Difference from last call: 00:12:47.13
+6
+Current time: 06:17:27.21 - Difference from last call: 00:12:48.28
+8
+Current time: 06:17:29.24 - Difference from last call: 00:12:51.02
+6
+Current time: 06:17:31.04 - Difference from last call: 00:12:52.11
+8
+Current time: 06:17:31.21 - Difference from last call: 00:12:52.28
+6
+Current time: 06:17:32.03 - Difference from last call: 00:12:53.10
+6
+Current time: 06:17:32.05 - Difference from last call: 00:12:53.13
+5
+Current time: 06:17:34.29 - Difference from last call: 00:12:56.07
+5
+Current time: 06:17:38.24 - Difference from last call: 00:13:00.02
+5
+Current time: 06:17:47.11 - Difference from last call: 00:13:08.19
+8
+Current time: 06:17:48.23 - Difference from last call: 00:13:10.01
+8
+Current time: 06:17:54.15 - Difference from last call: 00:13:15.22
+7
+Current time: 06:17:56.07 - Difference from last call: 00:13:17.15
+7
+Current time: 06:18:00.27 - Difference from last call: 00:13:22.04
+6
+Current time: 06:18:01.21 - Difference from last call: 00:13:22.28
+6
+Current time: 06:18:02.11 - Difference from last call: 00:13:23.19
+5
+Current time: 06:18:03.18 - Difference from last call: 00:13:24.26
+5
+Current time: 06:18:04.09 - Difference from last call: 00:13:25.16
+5
+Current time: 06:18:06.06 - Difference from last call: 00:13:27.14
+8
+Current time: 06:18:08.16 - Difference from last call: 00:13:29.23
+8
+Current time: 06:18:10.00 - Difference from last call: 00:13:31.08
+7
+Current time: 06:18:11.03 - Difference from last call: 00:13:32.10
+7
+Current time: 06:18:12.10 - Difference from last call: 00:13:33.17
+7
+Current time: 06:18:13.11 - Difference from last call: 00:13:34.19
+7
+Current time: 06:18:13.23 - Difference from last call: 00:13:35.01
+6
+Current time: 06:18:14.15 - Difference from last call: 00:13:35.22
+6
+Current time: 06:18:16.17 - Difference from last call: 00:13:37.25
+5
+Current time: 06:18:17.28 - Difference from last call: 00:13:39.05
+5
+Current time: 06:18:18.21 - Difference from last call: 00:13:39.28
+5
+Current time: 06:18:21.17 - Difference from last call: 00:13:42.25
+8
+Current time: 06:18:22.11 - Difference from last call: 00:13:43.19
+8
+Current time: 06:18:25.04 - Difference from last call: 00:13:46.11
+8
+Current time: 06:18:25.04 - Difference from last call: 00:13:46.12
+8
+Current time: 06:18:25.05 - Difference from last call: 00:13:46.13
+8
+Current time: 06:18:25.06 - Difference from last call: 00:13:46.13
+8
+Current time: 06:18:25.06 - Difference from last call: 00:13:46.14
+8
+Current time: 06:18:25.07 - Difference from last call: 00:13:46.14
+8
+Current time: 06:18:25.07 - Difference from last call: 00:13:46.15
+8
+Current time: 06:18:25.08 - Difference from last call: 00:13:46.16
+8
+Current time: 06:18:25.09 - Difference from last call: 00:13:46.16
+8
+Current time: 06:18:25.09 - Difference from last call: 00:13:46.17
+8
+Current time: 06:18:25.10 - Difference from last call: 00:13:46.17
+8
+Current time: 06:18:25.10 - Difference from last call: 00:13:46.18
+8
+Current time: 06:18:25.11 - Difference from last call: 00:13:46.19
+8
+Current time: 06:18:25.12 - Difference from last call: 00:13:46.19
+8
+Current time: 06:18:25.12 - Difference from last call: 00:13:46.20
+8
+Current time: 06:18:25.13 - Difference from last call: 00:13:46.20
+8
+Current time: 06:18:25.13 - Difference from last call: 00:13:46.21
+8
+Current time: 06:18:25.14 - Difference from last call: 00:13:46.22
+8
+Current time: 06:18:25.15 - Difference from last call: 00:13:46.22
+8
+Current time: 06:18:25.15 - Difference from last call: 00:13:46.23
+8
+Current time: 06:18:25.16 - Difference from last call: 00:13:46.23
+8
+Current time: 06:18:25.16 - Difference from last call: 00:13:46.24
+8
+Current time: 06:18:25.17 - Difference from last call: 00:13:46.25
+8
+Current time: 06:18:25.18 - Difference from last call: 00:13:46.25
+8
+Current time: 06:18:25.18 - Difference from last call: 00:13:46.26
+8
+Current time: 06:18:25.19 - Difference from last call: 00:13:46.26
+8
+Current time: 06:18:25.19 - Difference from last call: 00:13:46.27
+8
+Current time: 06:18:25.20 - Difference from last call: 00:13:46.28
+8
+Current time: 06:18:25.21 - Difference from last call: 00:13:46.28
+8
+Current time: 06:18:25.21 - Difference from last call: 00:13:46.29
+8
+Current time: 06:18:25.22 - Difference from last call: 00:13:46.29
+8
+Current time: 06:18:25.22 - Difference from last call: 00:13:47.00
+8
+Current time: 06:18:25.23 - Difference from last call: 00:13:47.01
+8
+Current time: 06:18:25.24 - Difference from last call: 00:13:47.01
+8
+Current time: 06:18:25.24 - Difference from last call: 00:13:47.02
+8
+Current time: 06:18:25.25 - Difference from last call: 00:13:47.02
+8
+Current time: 06:18:25.25 - Difference from last call: 00:13:47.03
+8
+Current time: 06:18:25.26 - Difference from last call: 00:13:47.04
+8
+Current time: 06:18:25.27 - Difference from last call: 00:13:47.04
+8
+Current time: 06:18:25.27 - Difference from last call: 00:13:47.05
+7
+Current time: 06:18:31.09 - Difference from last call: 00:13:52.16
+7
+Current time: 06:18:31.28 - Difference from last call: 00:13:53.05
+6
+Current time: 06:18:32.19 - Difference from last call: 00:13:53.27
+6
+Current time: 06:18:33.19 - Difference from last call: 00:13:54.27
+5
+Current time: 06:18:35.23 - Difference from last call: 00:13:57.01
+5
+Current time: 06:18:39.19 - Difference from last call: 00:14:00.27
+8
+Current time: 06:18:40.09 - Difference from last call: 00:14:01.16
+8
+Current time: 06:18:40.28 - Difference from last call: 00:14:02.05
+6
+Current time: 06:18:41.12 - Difference from last call: 00:14:02.20
+6
+Current time: 06:18:41.17 - Difference from last call: 00:14:02.25
+5
+Current time: 06:18:44.12 - Difference from last call: 00:14:05.20
+5
+Current time: 06:18:45.15 - Difference from last call: 00:14:06.22
+7
+Current time: 06:18:48.06 - Difference from last call: 00:14:09.14
+7
+Current time: 06:18:48.25 - Difference from last call: 00:14:10.03
+6
+Current time: 06:18:49.04 - Difference from last call: 00:14:10.11
+6
+Current time: 06:18:49.11 - Difference from last call: 00:14:10.19
+5
+Current time: 06:18:51.09 - Difference from last call: 00:14:12.16
+5
+Current time: 06:18:52.05 - Difference from last call: 00:14:13.13
+5
+Current time: 06:18:54.04 - Difference from last call: 00:14:15.11
+5
+Current time: 06:18:56.23 - Difference from last call: 00:14:18.01
+7
+Current time: 06:18:58.19 - Difference from last call: 00:14:19.27
+7
+Current time: 06:18:59.15 - Difference from last call: 00:14:20.22
+7
+Current time: 06:19:00.11 - Difference from last call: 00:14:21.19
+7
+Current time: 06:19:00.12 - Difference from last call: 00:14:21.19
+7
+Current time: 06:19:00.12 - Difference from last call: 00:14:21.20
+7
+Current time: 06:19:00.13 - Difference from last call: 00:14:21.20
+7
+Current time: 06:19:00.13 - Difference from last call: 00:14:21.21
+7
+Current time: 06:19:00.14 - Difference from last call: 00:14:21.22
+7
+Current time: 06:19:00.15 - Difference from last call: 00:14:21.22
+7
+Current time: 06:19:00.15 - Difference from last call: 00:14:21.23
+7
+Current time: 06:19:00.16 - Difference from last call: 00:14:21.23
+7
+Current time: 06:19:00.16 - Difference from last call: 00:14:21.24
+7
+Current time: 06:19:00.17 - Difference from last call: 00:14:21.25
+7
+Current time: 06:19:00.18 - Difference from last call: 00:14:21.25
+7
+Current time: 06:19:00.18 - Difference from last call: 00:14:21.26
+7
+Current time: 06:19:00.19 - Difference from last call: 00:14:21.26
+7
+Current time: 06:19:00.19 - Difference from last call: 00:14:21.27
+7
+Current time: 06:19:00.20 - Difference from last call: 00:14:21.28
+7
+Current time: 06:19:00.21 - Difference from last call: 00:14:21.28
+7
+Current time: 06:19:00.21 - Difference from last call: 00:14:21.29
+7
+Current time: 06:19:00.22 - Difference from last call: 00:14:21.29
+7
+Current time: 06:19:00.22 - Difference from last call: 00:14:22.00
+7
+Current time: 06:19:00.23 - Difference from last call: 00:14:22.01
+7
+Current time: 06:19:00.24 - Difference from last call: 00:14:22.01
+7
+Current time: 06:19:00.24 - Difference from last call: 00:14:22.02
+7
+Current time: 06:19:00.25 - Difference from last call: 00:14:22.02
+7
+Current time: 06:19:00.25 - Difference from last call: 00:14:22.03
+7
+Current time: 06:19:00.26 - Difference from last call: 00:14:22.04
+7
+Current time: 06:19:00.27 - Difference from last call: 00:14:22.04
+7
+Current time: 06:19:00.27 - Difference from last call: 00:14:22.05
+7
+Current time: 06:19:00.28 - Difference from last call: 00:14:22.05
+7
+Current time: 06:19:00.28 - Difference from last call: 00:14:22.06
+7
+Current time: 06:19:00.29 - Difference from last call: 00:14:22.07
+7
+Current time: 06:19:01.00 - Difference from last call: 00:14:22.07
+7
+Current time: 06:19:01.00 - Difference from last call: 00:14:22.08
+7
+Current time: 06:19:01.01 - Difference from last call: 00:14:22.08
+7
+Current time: 06:19:01.01 - Difference from last call: 00:14:22.09
+7
+Current time: 06:19:01.02 - Difference from last call: 00:14:22.10
+7
+Current time: 06:19:01.03 - Difference from last call: 00:14:22.10
+7
+Current time: 06:19:01.03 - Difference from last call: 00:14:22.11
+7
+Current time: 06:19:01.04 - Difference from last call: 00:14:22.11
+7
+Current time: 06:19:01.04 - Difference from last call: 00:14:22.12
+5
+Current time: 06:19:01.25 - Difference from last call: 00:14:23.03
+5
+Current time: 06:19:02.28 - Difference from last call: 00:14:24.05
+6
+Current time: 06:19:04.00 - Difference from last call: 00:14:25.08
+6
+Current time: 06:19:04.24 - Difference from last call: 00:14:26.02
+6
+Current time: 06:19:04.28 - Difference from last call: 00:14:26.05
+8
+Current time: 06:19:07.29 - Difference from last call: 00:14:29.07
+8
+Current time: 06:19:08.21 - Difference from last call: 00:14:29.28
+7
+Current time: 06:19:12.04 - Difference from last call: 00:14:33.11
+7
+Current time: 06:19:12.10 - Difference from last call: 00:14:33.17
+6
+Current time: 06:19:13.06 - Difference from last call: 00:14:34.14
+6
+Current time: 06:19:13.24 - Difference from last call: 00:14:35.02
+6
+Current time: 06:19:14.00 - Difference from last call: 00:14:35.08
+6
+Current time: 06:19:16.04 - Difference from last call: 00:14:37.11
+8
+Current time: 06:19:19.21 - Difference from last call: 00:14:40.28
+6
+Current time: 06:19:20.07 - Difference from last call: 00:14:41.15
+6
+Current time: 06:19:20.10 - Difference from last call: 00:14:41.17
+5
+Current time: 06:19:21.27 - Difference from last call: 00:14:43.04
+5
+Current time: 06:19:22.12 - Difference from last call: 00:14:43.20
+5
+Current time: 06:19:22.24 - Difference from last call: 00:14:44.02
+5
+Current time: 06:19:27.11 - Difference from last call: 00:14:48.19
+7
+Current time: 06:19:28.04 - Difference from last call: 00:14:49.11
+7
+Current time: 06:19:29.04 - Difference from last call: 00:14:50.11
+7
+Current time: 06:19:29.29 - Difference from last call: 00:14:51.07
+7
+Current time: 06:19:31.07 - Difference from last call: 00:14:52.15
+8
+Current time: 06:19:33.04 - Difference from last call: 00:14:54.11
+8
+Current time: 06:19:33.23 - Difference from last call: 00:14:55.01
+6
+Current time: 06:19:34.16 - Difference from last call: 00:14:55.23
+6
+Current time: 06:19:35.09 - Difference from last call: 00:14:56.16
+5
+Current time: 06:19:36.19 - Difference from last call: 00:14:57.27
+5
+Current time: 06:19:37.06 - Difference from last call: 00:14:58.14
+5
+Current time: 06:19:40.29 - Difference from last call: 00:15:02.07
+5
+Current time: 06:19:41.18 - Difference from last call: 00:15:02.26
+6
+Current time: 06:19:42.04 - Difference from last call: 00:15:03.11
+6
+Current time: 06:19:42.29 - Difference from last call: 00:15:04.07
+8
+Current time: 06:19:43.24 - Difference from last call: 00:15:05.02
+8
+Current time: 06:19:46.15 - Difference from last call: 00:15:07.22
+8
+Current time: 06:19:46.15 - Difference from last call: 00:15:07.23
+8
+Current time: 06:19:46.16 - Difference from last call: 00:15:07.23
+8
+Current time: 06:19:46.16 - Difference from last call: 00:15:07.24
+8
+Current time: 06:19:46.17 - Difference from last call: 00:15:07.25
+8
+Current time: 06:19:46.18 - Difference from last call: 00:15:07.25
+8
+Current time: 06:19:46.18 - Difference from last call: 00:15:07.26
+8
+Current time: 06:19:46.19 - Difference from last call: 00:15:07.26
+8
+Current time: 06:19:46.19 - Difference from last call: 00:15:07.27
+8
+Current time: 06:19:46.20 - Difference from last call: 00:15:07.28
+8
+Current time: 06:19:46.21 - Difference from last call: 00:15:07.28
+8
+Current time: 06:19:46.21 - Difference from last call: 00:15:07.29
+8
+Current time: 06:19:46.22 - Difference from last call: 00:15:07.29
+8
+Current time: 06:19:46.22 - Difference from last call: 00:15:08.00
+8
+Current time: 06:19:46.23 - Difference from last call: 00:15:08.01
+8
+Current time: 06:19:46.24 - Difference from last call: 00:15:08.01
+8
+Current time: 06:19:46.24 - Difference from last call: 00:15:08.02
+8
+Current time: 06:19:46.25 - Difference from last call: 00:15:08.02
+8
+Current time: 06:19:46.25 - Difference from last call: 00:15:08.03
+8
+Current time: 06:19:46.26 - Difference from last call: 00:15:08.04
+8
+Current time: 06:19:46.27 - Difference from last call: 00:15:08.04
+8
+Current time: 06:19:46.27 - Difference from last call: 00:15:08.05
+8
+Current time: 06:19:46.28 - Difference from last call: 00:15:08.05
+8
+Current time: 06:19:46.28 - Difference from last call: 00:15:08.06
+8
+Current time: 06:19:46.29 - Difference from last call: 00:15:08.07
+8
+Current time: 06:19:47.00 - Difference from last call: 00:15:08.07
+8
+Current time: 06:19:47.00 - Difference from last call: 00:15:08.08
+8
+Current time: 06:19:47.01 - Difference from last call: 00:15:08.08
+8
+Current time: 06:19:47.01 - Difference from last call: 00:15:08.09
+8
+Current time: 06:19:47.02 - Difference from last call: 00:15:08.10
+8
+Current time: 06:19:47.03 - Difference from last call: 00:15:08.10
+8
+Current time: 06:19:47.03 - Difference from last call: 00:15:08.11
+8
+Current time: 06:19:47.04 - Difference from last call: 00:15:08.11
+8
+Current time: 06:19:47.04 - Difference from last call: 00:15:08.12
+8
+Current time: 06:19:47.05 - Difference from last call: 00:15:08.13
+8
+Current time: 06:19:47.06 - Difference from last call: 00:15:08.13
+8
+Current time: 06:19:47.06 - Difference from last call: 00:15:08.14
+8
+Current time: 06:19:47.07 - Difference from last call: 00:15:08.14
+8
+Current time: 06:19:47.07 - Difference from last call: 00:15:08.15
+8
+Current time: 06:19:47.08 - Difference from last call: 00:15:08.16
+7
+Current time: 06:19:49.15 - Difference from last call: 00:15:10.22
+7
+Current time: 06:19:49.29 - Difference from last call: 00:15:11.07
+6
+Current time: 06:19:50.12 - Difference from last call: 00:15:11.20
+6
+Current time: 06:19:51.03 - Difference from last call: 00:15:12.10
+5
+Current time: 06:19:52.05 - Difference from last call: 00:15:13.13
+5
+Current time: 06:19:52.22 - Difference from last call: 00:15:13.29
+5
+Current time: 06:19:54.11 - Difference from last call: 00:15:15.19
+8
+Current time: 06:19:55.07 - Difference from last call: 00:15:16.15
+8
+Current time: 06:19:58.24 - Difference from last call: 00:15:20.02
+8
+Current time: 06:19:59.03 - Difference from last call: 00:15:20.10
+6
+Current time: 06:20:00.13 - Difference from last call: 00:15:21.21
+6
+Current time: 06:20:02.10 - Difference from last call: 00:15:23.17
+6
+Current time: 06:20:03.00 - Difference from last call: 00:15:24.08
+5
+Current time: 06:20:04.12 - Difference from last call: 00:15:25.20
+5
+Current time: 06:20:05.12 - Difference from last call: 00:15:26.20
+5
+Current time: 06:20:05.13 - Difference from last call: 00:15:26.20
+5
+Current time: 06:20:05.13 - Difference from last call: 00:15:26.21
+5
+Current time: 06:20:05.14 - Difference from last call: 00:15:26.22
+5
+Current time: 06:20:05.15 - Difference from last call: 00:15:26.22
+5
+Current time: 06:20:05.15 - Difference from last call: 00:15:26.23
+5
+Current time: 06:20:05.16 - Difference from last call: 00:15:26.23
+5
+Current time: 06:20:05.16 - Difference from last call: 00:15:26.24
+5
+Current time: 06:20:05.17 - Difference from last call: 00:15:26.25
+5
+Current time: 06:20:05.18 - Difference from last call: 00:15:26.25
+5
+Current time: 06:20:05.18 - Difference from last call: 00:15:26.26
+5
+Current time: 06:20:05.19 - Difference from last call: 00:15:26.26
+5
+Current time: 06:20:05.19 - Difference from last call: 00:15:26.27
+5
+Current time: 06:20:05.20 - Difference from last call: 00:15:26.28
+5
+Current time: 06:20:05.21 - Difference from last call: 00:15:26.28
+5
+Current time: 06:20:05.21 - Difference from last call: 00:15:26.29
+5
+Current time: 06:20:05.22 - Difference from last call: 00:15:26.29
+5
+Current time: 06:20:05.22 - Difference from last call: 00:15:27.00
+5
+Current time: 06:20:05.23 - Difference from last call: 00:15:27.01
+5
+Current time: 06:20:05.24 - Difference from last call: 00:15:27.01
+5
+Current time: 06:20:05.24 - Difference from last call: 00:15:27.02
+5
+Current time: 06:20:05.25 - Difference from last call: 00:15:27.02
+5
+Current time: 06:20:05.25 - Difference from last call: 00:15:27.03
+5
+Current time: 06:20:05.26 - Difference from last call: 00:15:27.04
+5
+Current time: 06:20:05.27 - Difference from last call: 00:15:27.04
+5
+Current time: 06:20:05.27 - Difference from last call: 00:15:27.05
+5
+Current time: 06:20:05.28 - Difference from last call: 00:15:27.05
+5
+Current time: 06:20:05.28 - Difference from last call: 00:15:27.06
+5
+Current time: 06:20:05.29 - Difference from last call: 00:15:27.07
+5
+Current time: 06:20:06.00 - Difference from last call: 00:15:27.07
+5
+Current time: 06:20:06.00 - Difference from last call: 00:15:27.08
+5
+Current time: 06:20:06.01 - Difference from last call: 00:15:27.08
+5
+Current time: 06:20:06.01 - Difference from last call: 00:15:27.09
+5
+Current time: 06:20:06.02 - Difference from last call: 00:15:27.10
+5
+Current time: 06:20:06.03 - Difference from last call: 00:15:27.10
+5
+Current time: 06:20:06.03 - Difference from last call: 00:15:27.11
+5
+Current time: 06:20:06.04 - Difference from last call: 00:15:27.11
+5
+Current time: 06:20:06.04 - Difference from last call: 00:15:27.12
+5
+Current time: 06:20:06.05 - Difference from last call: 00:15:27.13
+5
+Current time: 06:20:06.06 - Difference from last call: 00:15:27.13
+7
+Current time: 06:20:07.06 - Difference from last call: 00:15:28.14
+7
+Current time: 06:20:07.07 - Difference from last call: 00:15:28.14
+7
+Current time: 06:20:07.07 - Difference from last call: 00:15:28.15
+7
+Current time: 06:20:07.08 - Difference from last call: 00:15:28.16
+7
+Current time: 06:20:07.09 - Difference from last call: 00:15:28.16
+7
+Current time: 06:20:07.09 - Difference from last call: 00:15:28.17
+7
+Current time: 06:20:07.10 - Difference from last call: 00:15:28.17
+7
+Current time: 06:20:07.10 - Difference from last call: 00:15:28.18
+7
+Current time: 06:20:07.11 - Difference from last call: 00:15:28.19
+7
+Current time: 06:20:07.12 - Difference from last call: 00:15:28.19
+7
+Current time: 06:20:07.12 - Difference from last call: 00:15:28.20
+7
+Current time: 06:20:07.13 - Difference from last call: 00:15:28.20
+7
+Current time: 06:20:07.13 - Difference from last call: 00:15:28.21
+7
+Current time: 06:20:07.14 - Difference from last call: 00:15:28.22
+7
+Current time: 06:20:07.15 - Difference from last call: 00:15:28.22
+7
+Current time: 06:20:07.15 - Difference from last call: 00:15:28.23
+7
+Current time: 06:20:07.16 - Difference from last call: 00:15:28.23
+7
+Current time: 06:20:07.16 - Difference from last call: 00:15:28.24
+7
+Current time: 06:20:07.17 - Difference from last call: 00:15:28.25
+7
+Current time: 06:20:07.18 - Difference from last call: 00:15:28.25
+7
+Current time: 06:20:07.18 - Difference from last call: 00:15:28.26
+7
+Current time: 06:20:07.19 - Difference from last call: 00:15:28.26
+7
+Current time: 06:20:07.19 - Difference from last call: 00:15:28.27
+7
+Current time: 06:20:07.20 - Difference from last call: 00:15:28.28
+7
+Current time: 06:20:07.21 - Difference from last call: 00:15:28.28
+7
+Current time: 06:20:07.21 - Difference from last call: 00:15:28.29
+7
+Current time: 06:20:07.22 - Difference from last call: 00:15:28.29
+7
+Current time: 06:20:07.22 - Difference from last call: 00:15:29.00
+7
+Current time: 06:20:07.23 - Difference from last call: 00:15:29.01
+7
+Current time: 06:20:07.24 - Difference from last call: 00:15:29.01
+7
+Current time: 06:20:07.24 - Difference from last call: 00:15:29.02
+7
+Current time: 06:20:07.25 - Difference from last call: 00:15:29.02
+7
+Current time: 06:20:07.25 - Difference from last call: 00:15:29.03
+7
+Current time: 06:20:07.26 - Difference from last call: 00:15:29.04
+7
+Current time: 06:20:07.27 - Difference from last call: 00:15:29.04
+7
+Current time: 06:20:07.27 - Difference from last call: 00:15:29.05
+7
+Current time: 06:20:07.28 - Difference from last call: 00:15:29.05
+7
+Current time: 06:20:07.28 - Difference from last call: 00:15:29.06
+7
+Current time: 06:20:07.29 - Difference from last call: 00:15:29.07
+7
+Current time: 06:20:08.00 - Difference from last call: 00:15:29.07
+5
+Current time: 06:20:18.11 - Difference from last call: 00:15:39.19
+5
+Current time: 06:21:44.22 - Difference from last call: 00:17:05.29
+5
+Current time: 06:21:45.13 - Difference from last call: 00:17:06.21
+5
+Current time: 06:21:45.29 - Difference from last call: 00:17:07.07
+5
+Current time: 06:21:46.15 - Difference from last call: 00:17:07.22
+5
+Current time: 06:21:49.00 - Difference from last call: 00:17:10.08
+8
+Current time: 06:21:55.17 - Difference from last call: 00:17:16.25
+8
+Current time: 06:21:57.29 - Difference from last call: 00:17:19.07
+8
+Current time: 06:21:58.00 - Difference from last call: 00:17:19.07
+8
+Current time: 06:21:58.00 - Difference from last call: 00:17:19.08
+8
+Current time: 06:21:58.01 - Difference from last call: 00:17:19.08
+8
+Current time: 06:21:58.01 - Difference from last call: 00:17:19.09
+8
+Current time: 06:21:58.02 - Difference from last call: 00:17:19.10
+8
+Current time: 06:21:58.03 - Difference from last call: 00:17:19.10
+8
+Current time: 06:21:58.03 - Difference from last call: 00:17:19.11
+8
+Current time: 06:21:58.04 - Difference from last call: 00:17:19.11
+8
+Current time: 06:21:58.04 - Difference from last call: 00:17:19.12
+8
+Current time: 06:21:58.05 - Difference from last call: 00:17:19.13
+8
+Current time: 06:21:58.06 - Difference from last call: 00:17:19.13
+8
+Current time: 06:21:58.06 - Difference from last call: 00:17:19.14
+8
+Current time: 06:21:58.07 - Difference from last call: 00:17:19.14
+8
+Current time: 06:21:58.07 - Difference from last call: 00:17:19.15
+8
+Current time: 06:21:58.08 - Difference from last call: 00:17:19.16
+8
+Current time: 06:21:58.09 - Difference from last call: 00:17:19.16
+8
+Current time: 06:21:58.09 - Difference from last call: 00:17:19.17
+8
+Current time: 06:21:58.10 - Difference from last call: 00:17:19.17
+8
+Current time: 06:21:58.10 - Difference from last call: 00:17:19.18
+8
+Current time: 06:21:58.11 - Difference from last call: 00:17:19.19
+8
+Current time: 06:21:58.12 - Difference from last call: 00:17:19.19
+8
+Current time: 06:21:58.12 - Difference from last call: 00:17:19.20
+8
+Current time: 06:21:58.13 - Difference from last call: 00:17:19.20
+8
+Current time: 06:21:58.13 - Difference from last call: 00:17:19.21
+8
+Current time: 06:21:58.14 - Difference from last call: 00:17:19.22
+8
+Current time: 06:21:58.15 - Difference from last call: 00:17:19.22
+8
+Current time: 06:21:58.15 - Difference from last call: 00:17:19.23
+8
+Current time: 06:21:58.16 - Difference from last call: 00:17:19.23
+8
+Current time: 06:21:58.16 - Difference from last call: 00:17:19.24
+8
+Current time: 06:21:58.17 - Difference from last call: 00:17:19.25
+8
+Current time: 06:21:58.18 - Difference from last call: 00:17:19.25
+8
+Current time: 06:21:58.18 - Difference from last call: 00:17:19.26
+8
+Current time: 06:21:58.19 - Difference from last call: 00:17:19.26
+8
+Current time: 06:21:58.19 - Difference from last call: 00:17:19.27
+8
+Current time: 06:21:58.20 - Difference from last call: 00:17:19.28
+8
+Current time: 06:21:58.21 - Difference from last call: 00:17:19.28
+8
+Current time: 06:21:58.21 - Difference from last call: 00:17:19.29
+8
+Current time: 06:21:58.22 - Difference from last call: 00:17:19.29
+8
+Current time: 06:21:58.22 - Difference from last call: 00:17:20.00
+7
+Current time: 06:22:00.28 - Difference from last call: 00:17:22.05
+7
+Current time: 06:22:03.12 - Difference from last call: 00:17:24.20
+7
+Current time: 06:22:03.13 - Difference from last call: 00:17:24.20
+7
+Current time: 06:22:03.13 - Difference from last call: 00:17:24.21
+7
+Current time: 06:22:03.14 - Difference from last call: 00:17:24.22
+7
+Current time: 06:22:03.15 - Difference from last call: 00:17:24.22
+7
+Current time: 06:22:03.15 - Difference from last call: 00:17:24.23
+7
+Current time: 06:22:03.16 - Difference from last call: 00:17:24.23
+7
+Current time: 06:22:03.16 - Difference from last call: 00:17:24.24
+7
+Current time: 06:22:03.17 - Difference from last call: 00:17:24.25
+7
+Current time: 06:22:03.18 - Difference from last call: 00:17:24.25
+7
+Current time: 06:22:03.18 - Difference from last call: 00:17:24.26
+7
+Current time: 06:22:03.19 - Difference from last call: 00:17:24.26
+7
+Current time: 06:22:03.19 - Difference from last call: 00:17:24.27
+7
+Current time: 06:22:03.20 - Difference from last call: 00:17:24.28
+7
+Current time: 06:22:03.21 - Difference from last call: 00:17:24.28
+7
+Current time: 06:22:03.21 - Difference from last call: 00:17:24.29
+7
+Current time: 06:22:03.22 - Difference from last call: 00:17:24.29
+7
+Current time: 06:22:03.22 - Difference from last call: 00:17:25.00
+7
+Current time: 06:22:03.23 - Difference from last call: 00:17:25.01
+7
+Current time: 06:22:03.24 - Difference from last call: 00:17:25.01
+7
+Current time: 06:22:03.24 - Difference from last call: 00:17:25.02
+7
+Current time: 06:22:03.25 - Difference from last call: 00:17:25.02
+7
+Current time: 06:22:03.25 - Difference from last call: 00:17:25.03
+7
+Current time: 06:22:03.26 - Difference from last call: 00:17:25.04
+7
+Current time: 06:22:03.27 - Difference from last call: 00:17:25.04
+7
+Current time: 06:22:03.27 - Difference from last call: 00:17:25.05
+7
+Current time: 06:22:03.28 - Difference from last call: 00:17:25.05
+7
+Current time: 06:22:03.28 - Difference from last call: 00:17:25.06
+7
+Current time: 06:22:03.29 - Difference from last call: 00:17:25.07
+7
+Current time: 06:22:04.00 - Difference from last call: 00:17:25.07
+7
+Current time: 06:22:04.00 - Difference from last call: 00:17:25.08
+7
+Current time: 06:22:04.01 - Difference from last call: 00:17:25.08
+7
+Current time: 06:22:04.01 - Difference from last call: 00:17:25.09
+7
+Current time: 06:22:04.02 - Difference from last call: 00:17:25.10
+7
+Current time: 06:22:04.03 - Difference from last call: 00:17:25.10
+7
+Current time: 06:22:04.03 - Difference from last call: 00:17:25.11
+7
+Current time: 06:22:04.04 - Difference from last call: 00:17:25.11
+7
+Current time: 06:22:04.04 - Difference from last call: 00:17:25.12
+7
+Current time: 06:22:04.05 - Difference from last call: 00:17:25.13
+7
+Current time: 06:22:04.06 - Difference from last call: 00:17:25.13
+5
+Current time: 06:22:11.17 - Difference from last call: 00:17:32.25
+5
+Current time: 06:22:15.27 - Difference from last call: 00:17:37.04
+8
+Current time: 06:22:24.28 - Difference from last call: 00:17:46.05
+8
+Current time: 06:22:27.22 - Difference from last call: 00:17:48.29
+8
+Current time: 06:22:28.18 - Difference from last call: 00:17:49.26
+8
+Current time: 06:22:30.04 - Difference from last call: 00:17:51.11
+8
+Current time: 06:22:31.28 - Difference from last call: 00:17:53.05
+5
+Current time: 06:22:33.22 - Difference from last call: 00:17:54.29
+5
+Current time: 06:22:41.19 - Difference from last call: 00:18:02.27
+6
+Current time: 06:22:43.12 - Difference from last call: 00:18:04.20
+5
+Current time: 06:22:45.09 - Difference from last call: 00:18:06.16
+5
+Current time: 06:22:48.17 - Difference from last call: 00:18:09.25
+5
+Current time: 06:22:56.23 - Difference from last call: 00:18:18.01
+5
+Current time: 06:22:56.24 - Difference from last call: 00:18:18.01
+5
+Current time: 06:22:56.24 - Difference from last call: 00:18:18.02
+5
+Current time: 06:22:56.25 - Difference from last call: 00:18:18.02
+5
+Current time: 06:22:56.25 - Difference from last call: 00:18:18.03
+5
+Current time: 06:22:56.26 - Difference from last call: 00:18:18.04
+5
+Current time: 06:22:56.27 - Difference from last call: 00:18:18.04
+5
+Current time: 06:22:56.27 - Difference from last call: 00:18:18.05
+5
+Current time: 06:22:56.28 - Difference from last call: 00:18:18.05
+5
+Current time: 06:22:56.28 - Difference from last call: 00:18:18.06
+5
+Current time: 06:22:56.29 - Difference from last call: 00:18:18.07
+5
+Current time: 06:22:57.00 - Difference from last call: 00:18:18.07
+5
+Current time: 06:22:57.00 - Difference from last call: 00:18:18.08
+5
+Current time: 06:22:57.01 - Difference from last call: 00:18:18.08
+5
+Current time: 06:22:57.01 - Difference from last call: 00:18:18.09
+5
+Current time: 06:22:57.02 - Difference from last call: 00:18:18.10
+5
+Current time: 06:22:57.03 - Difference from last call: 00:18:18.10
+5
+Current time: 06:22:57.03 - Difference from last call: 00:18:18.11
+5
+Current time: 06:22:57.04 - Difference from last call: 00:18:18.11
+5
+Current time: 06:22:57.04 - Difference from last call: 00:18:18.12
+5
+Current time: 06:22:57.05 - Difference from last call: 00:18:18.13
+5
+Current time: 06:22:57.06 - Difference from last call: 00:18:18.13
+5
+Current time: 06:22:57.06 - Difference from last call: 00:18:18.14
+5
+Current time: 06:22:57.07 - Difference from last call: 00:18:18.14
+5
+Current time: 06:22:57.07 - Difference from last call: 00:18:18.15
+5
+Current time: 06:22:57.08 - Difference from last call: 00:18:18.16
+5
+Current time: 06:22:57.09 - Difference from last call: 00:18:18.16
+5
+Current time: 06:22:57.09 - Difference from last call: 00:18:18.17
+5
+Current time: 06:22:57.10 - Difference from last call: 00:18:18.17
+5
+Current time: 06:22:57.10 - Difference from last call: 00:18:18.18
+5
+Current time: 06:22:57.11 - Difference from last call: 00:18:18.19
+5
+Current time: 06:22:57.12 - Difference from last call: 00:18:18.19
+5
+Current time: 06:22:57.12 - Difference from last call: 00:18:18.20
+5
+Current time: 06:22:57.13 - Difference from last call: 00:18:18.20
+5
+Current time: 06:22:57.13 - Difference from last call: 00:18:18.21
+5
+Current time: 06:22:57.14 - Difference from last call: 00:18:18.22
+5
+Current time: 06:22:57.15 - Difference from last call: 00:18:18.22
+5
+Current time: 06:22:57.15 - Difference from last call: 00:18:18.23
+5
+Current time: 06:22:57.16 - Difference from last call: 00:18:18.23
+5
+Current time: 06:22:57.16 - Difference from last call: 00:18:18.24
+8
+Current time: 06:23:02.17 - Difference from last call: 00:18:23.25
+8
+Current time: 06:23:02.25 - Difference from last call: 00:18:24.03
+8
+Current time: 06:23:03.10 - Difference from last call: 00:18:24.17
+8
+Current time: 06:23:03.23 - Difference from last call: 00:18:25.01
+7
+Current time: 06:23:09.01 - Difference from last call: 00:18:30.09
+7
+Current time: 06:23:09.11 - Difference from last call: 00:18:30.19
+6
+Current time: 06:23:09.23 - Difference from last call: 00:18:31.01
+6
+Current time: 06:23:10.01 - Difference from last call: 00:18:31.09
+5
+Current time: 06:23:11.23 - Difference from last call: 00:18:33.01
+5
+Current time: 06:23:23.04 - Difference from last call: 00:18:44.11
+5
+Current time: 06:23:23.07 - Difference from last call: 00:18:44.15
+6
+Current time: 06:23:23.19 - Difference from last call: 00:18:44.27
+6
+Current time: 06:23:23.25 - Difference from last call: 00:18:45.03
+8
+Current time: 06:23:25.11 - Difference from last call: 00:18:46.19
+8
+Current time: 06:23:30.16 - Difference from last call: 00:18:51.23
+7
+Current time: 06:23:32.09 - Difference from last call: 00:18:53.16
+7
+Current time: 06:23:35.06 - Difference from last call: 00:18:56.14
+6
+Current time: 06:23:37.00 - Difference from last call: 00:18:58.08
+6
+Current time: 06:23:37.15 - Difference from last call: 00:18:58.22
+5
+Current time: 06:23:38.13 - Difference from last call: 00:18:59.21
+5
+Current time: 06:23:39.01 - Difference from last call: 00:19:00.09
+5
+Current time: 06:23:41.23 - Difference from last call: 00:19:03.01
+5
+Current time: 06:23:42.07 - Difference from last call: 00:19:03.15
+5
+Current time: 06:23:44.10 - Difference from last call: 00:19:05.17
+5
+Current time: 06:23:44.10 - Difference from last call: 00:19:05.18
+5
+Current time: 06:23:44.11 - Difference from last call: 00:19:05.19
+5
+Current time: 06:23:44.12 - Difference from last call: 00:19:05.19
+5
+Current time: 06:23:44.12 - Difference from last call: 00:19:05.20
+5
+Current time: 06:23:44.13 - Difference from last call: 00:19:05.20
+5
+Current time: 06:23:44.13 - Difference from last call: 00:19:05.21
+5
+Current time: 06:23:44.14 - Difference from last call: 00:19:05.22
+5
+Current time: 06:23:44.15 - Difference from last call: 00:19:05.22
+5
+Current time: 06:23:44.15 - Difference from last call: 00:19:05.23
+5
+Current time: 06:23:44.16 - Difference from last call: 00:19:05.23
+5
+Current time: 06:23:44.16 - Difference from last call: 00:19:05.24
+5
+Current time: 06:23:44.17 - Difference from last call: 00:19:05.25
+5
+Current time: 06:23:44.18 - Difference from last call: 00:19:05.25
+5
+Current time: 06:23:44.18 - Difference from last call: 00:19:05.26
+5
+Current time: 06:23:44.19 - Difference from last call: 00:19:05.26
+5
+Current time: 06:23:44.19 - Difference from last call: 00:19:05.27
+5
+Current time: 06:23:44.20 - Difference from last call: 00:19:05.28
+5
+Current time: 06:23:44.21 - Difference from last call: 00:19:05.28
+5
+Current time: 06:23:44.21 - Difference from last call: 00:19:05.29
+5
+Current time: 06:23:44.22 - Difference from last call: 00:19:05.29
+5
+Current time: 06:23:44.22 - Difference from last call: 00:19:06.00
+5
+Current time: 06:23:44.23 - Difference from last call: 00:19:06.01
+5
+Current time: 06:23:44.24 - Difference from last call: 00:19:06.01
+5
+Current time: 06:23:44.24 - Difference from last call: 00:19:06.02
+5
+Current time: 06:23:44.25 - Difference from last call: 00:19:06.02
+5
+Current time: 06:23:44.25 - Difference from last call: 00:19:06.03
+5
+Current time: 06:23:44.26 - Difference from last call: 00:19:06.04
+5
+Current time: 06:23:44.27 - Difference from last call: 00:19:06.04
+5
+Current time: 06:23:44.27 - Difference from last call: 00:19:06.05
+5
+Current time: 06:23:44.28 - Difference from last call: 00:19:06.05
+5
+Current time: 06:23:44.28 - Difference from last call: 00:19:06.06
+5
+Current time: 06:23:44.29 - Difference from last call: 00:19:06.07
+5
+Current time: 06:23:45.00 - Difference from last call: 00:19:06.07
+5
+Current time: 06:23:45.00 - Difference from last call: 00:19:06.08
+5
+Current time: 06:23:45.01 - Difference from last call: 00:19:06.08
+5
+Current time: 06:23:45.01 - Difference from last call: 00:19:06.09
+5
+Current time: 06:23:45.02 - Difference from last call: 00:19:06.10
+5
+Current time: 06:23:45.03 - Difference from last call: 00:19:06.10
+5
+Current time: 06:23:45.03 - Difference from last call: 00:19:06.11
+7
+Current time: 06:23:46.28 - Difference from last call: 00:19:08.05
+7
+Current time: 06:23:47.22 - Difference from last call: 00:19:08.29
+7
+Current time: 06:23:48.06 - Difference from last call: 00:19:09.14
+7
+Current time: 06:23:50.18 - Difference from last call: 00:19:11.26
+7
+Current time: 06:23:50.19 - Difference from last call: 00:19:11.26
+7
+Current time: 06:23:50.19 - Difference from last call: 00:19:11.27
+7
+Current time: 06:23:50.20 - Difference from last call: 00:19:11.28
+7
+Current time: 06:23:50.21 - Difference from last call: 00:19:11.28
+7
+Current time: 06:23:50.21 - Difference from last call: 00:19:11.29
+7
+Current time: 06:23:50.22 - Difference from last call: 00:19:11.29
+7
+Current time: 06:23:50.22 - Difference from last call: 00:19:12.00
+7
+Current time: 06:23:50.23 - Difference from last call: 00:19:12.01
+7
+Current time: 06:23:50.24 - Difference from last call: 00:19:12.01
+7
+Current time: 06:23:50.24 - Difference from last call: 00:19:12.02
+7
+Current time: 06:23:50.25 - Difference from last call: 00:19:12.02
+7
+Current time: 06:23:50.25 - Difference from last call: 00:19:12.03
+7
+Current time: 06:23:50.26 - Difference from last call: 00:19:12.04
+7
+Current time: 06:23:50.27 - Difference from last call: 00:19:12.04
+7
+Current time: 06:23:50.27 - Difference from last call: 00:19:12.05
+7
+Current time: 06:23:50.28 - Difference from last call: 00:19:12.05
+7
+Current time: 06:23:50.28 - Difference from last call: 00:19:12.06
+7
+Current time: 06:23:50.29 - Difference from last call: 00:19:12.07
+7
+Current time: 06:23:51.00 - Difference from last call: 00:19:12.07
+7
+Current time: 06:23:51.00 - Difference from last call: 00:19:12.08
+7
+Current time: 06:23:51.01 - Difference from last call: 00:19:12.08
+7
+Current time: 06:23:51.01 - Difference from last call: 00:19:12.09
+7
+Current time: 06:23:51.02 - Difference from last call: 00:19:12.10
+7
+Current time: 06:23:51.03 - Difference from last call: 00:19:12.10
+7
+Current time: 06:23:51.03 - Difference from last call: 00:19:12.11
+7
+Current time: 06:23:51.04 - Difference from last call: 00:19:12.11
+7
+Current time: 06:23:51.04 - Difference from last call: 00:19:12.12
+7
+Current time: 06:23:51.05 - Difference from last call: 00:19:12.13
+7
+Current time: 06:23:51.06 - Difference from last call: 00:19:12.13
+7
+Current time: 06:23:51.06 - Difference from last call: 00:19:12.14
+7
+Current time: 06:23:51.07 - Difference from last call: 00:19:12.14
+7
+Current time: 06:23:51.07 - Difference from last call: 00:19:12.15
+7
+Current time: 06:23:51.08 - Difference from last call: 00:19:12.16
+7
+Current time: 06:23:51.09 - Difference from last call: 00:19:12.16
+7
+Current time: 06:23:51.09 - Difference from last call: 00:19:12.17
+7
+Current time: 06:23:51.10 - Difference from last call: 00:19:12.17
+7
+Current time: 06:23:51.10 - Difference from last call: 00:19:12.18
+7
+Current time: 06:23:51.11 - Difference from last call: 00:19:12.19
+7
+Current time: 06:23:51.12 - Difference from last call: 00:19:12.19
+8
+Current time: 06:23:52.24 - Difference from last call: 00:19:14.02
+8
+Current time: 06:23:54.23 - Difference from last call: 00:19:16.01
+6
+Current time: 06:23:58.21 - Difference from last call: 00:19:19.28
+8
+Current time: 06:24:00.03 - Difference from last call: 00:19:21.10
+8
+Current time: 06:24:01.24 - Difference from last call: 00:19:23.02
+8
+Current time: 06:24:03.06 - Difference from last call: 00:19:24.14
+6
+Current time: 06:24:03.22 - Difference from last call: 00:19:24.29
+6
+Current time: 06:24:04.16 - Difference from last call: 00:19:25.23
+5
+Current time: 06:24:06.17 - Difference from last call: 00:19:27.25
+5
+Current time: 06:24:07.13 - Difference from last call: 00:19:28.21
+5
+Current time: 06:24:13.24 - Difference from last call: 00:19:35.02
+5
+Current time: 06:24:16.22 - Difference from last call: 00:19:37.29
+5
+Current time: 06:24:17.11 - Difference from last call: 00:19:38.19
+6
+Current time: 06:24:18.03 - Difference from last call: 00:19:39.10
+6
+Current time: 06:24:18.22 - Difference from last call: 00:19:39.29
+8
+Current time: 06:24:20.11 - Difference from last call: 00:19:41.19
+8
+Current time: 06:24:24.21 - Difference from last call: 00:19:45.28
+8
+Current time: 06:24:24.21 - Difference from last call: 00:19:45.29
+8
+Current time: 06:24:24.22 - Difference from last call: 00:19:45.29
+8
+Current time: 06:24:24.22 - Difference from last call: 00:19:46.00
+8
+Current time: 06:24:24.23 - Difference from last call: 00:19:46.01
+8
+Current time: 06:24:24.24 - Difference from last call: 00:19:46.01
+8
+Current time: 06:24:24.24 - Difference from last call: 00:19:46.02
+8
+Current time: 06:24:24.25 - Difference from last call: 00:19:46.02
+8
+Current time: 06:24:24.25 - Difference from last call: 00:19:46.03
+8
+Current time: 06:24:24.26 - Difference from last call: 00:19:46.04
+8
+Current time: 06:24:24.27 - Difference from last call: 00:19:46.04
+8
+Current time: 06:24:24.27 - Difference from last call: 00:19:46.05
+8
+Current time: 06:24:24.28 - Difference from last call: 00:19:46.05
+8
+Current time: 06:24:24.28 - Difference from last call: 00:19:46.06
+8
+Current time: 06:24:24.29 - Difference from last call: 00:19:46.07
+8
+Current time: 06:24:25.00 - Difference from last call: 00:19:46.07
+8
+Current time: 06:24:25.00 - Difference from last call: 00:19:46.08
+8
+Current time: 06:24:25.01 - Difference from last call: 00:19:46.08
+8
+Current time: 06:24:25.01 - Difference from last call: 00:19:46.09
+8
+Current time: 06:24:25.02 - Difference from last call: 00:19:46.10
+8
+Current time: 06:24:25.03 - Difference from last call: 00:19:46.10
+8
+Current time: 06:24:25.03 - Difference from last call: 00:19:46.11
+8
+Current time: 06:24:25.04 - Difference from last call: 00:19:46.11
+8
+Current time: 06:24:25.04 - Difference from last call: 00:19:46.12
+8
+Current time: 06:24:25.05 - Difference from last call: 00:19:46.13
+8
+Current time: 06:24:25.06 - Difference from last call: 00:19:46.13
+8
+Current time: 06:24:25.06 - Difference from last call: 00:19:46.14
+8
+Current time: 06:24:25.07 - Difference from last call: 00:19:46.14
+8
+Current time: 06:24:25.07 - Difference from last call: 00:19:46.15
+8
+Current time: 06:24:25.08 - Difference from last call: 00:19:46.16
+8
+Current time: 06:24:25.09 - Difference from last call: 00:19:46.16
+8
+Current time: 06:24:25.09 - Difference from last call: 00:19:46.17
+8
+Current time: 06:24:25.10 - Difference from last call: 00:19:46.17
+8
+Current time: 06:24:25.10 - Difference from last call: 00:19:46.18
+8
+Current time: 06:24:25.11 - Difference from last call: 00:19:46.19
+8
+Current time: 06:24:25.12 - Difference from last call: 00:19:46.19
+8
+Current time: 06:24:25.12 - Difference from last call: 00:19:46.20
+8
+Current time: 06:24:25.13 - Difference from last call: 00:19:46.20
+8
+Current time: 06:24:25.13 - Difference from last call: 00:19:46.21
+8
+Current time: 06:24:25.14 - Difference from last call: 00:19:46.22
+7
+Current time: 06:24:30.18 - Difference from last call: 00:19:51.26
+7
+Current time: 06:24:31.00 - Difference from last call: 00:19:52.08
+6
+Current time: 06:24:31.25 - Difference from last call: 00:19:53.03
+6
+Current time: 06:24:32.11 - Difference from last call: 00:19:53.19
+5
+Current time: 06:24:33.05 - Difference from last call: 00:19:54.13
+5
+Current time: 06:24:35.23 - Difference from last call: 00:19:57.01
+5
+Current time: 06:24:37.11 - Difference from last call: 00:19:58.19
+5
+Current time: 06:24:45.19 - Difference from last call: 00:20:06.27
+5
+Current time: 06:24:45.25 - Difference from last call: 00:20:07.03
+6
+Current time: 06:24:46.23 - Difference from last call: 00:20:08.01
+6
+Current time: 06:24:46.28 - Difference from last call: 00:20:08.05
+6
+Current time: 06:24:47.04 - Difference from last call: 00:20:08.11
+7
+Current time: 06:24:50.10 - Difference from last call: 00:20:11.17
+7
+Current time: 06:24:52.07 - Difference from last call: 00:20:13.15
+7
+Current time: 06:24:52.08 - Difference from last call: 00:20:13.16
+7
+Current time: 06:24:52.09 - Difference from last call: 00:20:13.16
+7
+Current time: 06:24:52.09 - Difference from last call: 00:20:13.17
+7
+Current time: 06:24:52.10 - Difference from last call: 00:20:13.17
+7
+Current time: 06:24:52.10 - Difference from last call: 00:20:13.18
+7
+Current time: 06:24:52.11 - Difference from last call: 00:20:13.19
+7
+Current time: 06:24:52.12 - Difference from last call: 00:20:13.19
+7
+Current time: 06:24:52.12 - Difference from last call: 00:20:13.20
+7
+Current time: 06:24:52.13 - Difference from last call: 00:20:13.20
+7
+Current time: 06:24:52.13 - Difference from last call: 00:20:13.21
+7
+Current time: 06:24:52.14 - Difference from last call: 00:20:13.22
+7
+Current time: 06:24:52.15 - Difference from last call: 00:20:13.22
+7
+Current time: 06:24:52.15 - Difference from last call: 00:20:13.23
+7
+Current time: 06:24:52.16 - Difference from last call: 00:20:13.23
+7
+Current time: 06:24:52.16 - Difference from last call: 00:20:13.24
+7
+Current time: 06:24:52.17 - Difference from last call: 00:20:13.25
+7
+Current time: 06:24:52.18 - Difference from last call: 00:20:13.25
+7
+Current time: 06:24:52.18 - Difference from last call: 00:20:13.26
+7
+Current time: 06:24:52.19 - Difference from last call: 00:20:13.26
+7
+Current time: 06:24:52.19 - Difference from last call: 00:20:13.27
+7
+Current time: 06:24:52.20 - Difference from last call: 00:20:13.28
+7
+Current time: 06:24:52.21 - Difference from last call: 00:20:13.28
+7
+Current time: 06:24:52.21 - Difference from last call: 00:20:13.29
+7
+Current time: 06:24:52.22 - Difference from last call: 00:20:13.29
+7
+Current time: 06:24:52.22 - Difference from last call: 00:20:14.00
+7
+Current time: 06:24:52.23 - Difference from last call: 00:20:14.01
+7
+Current time: 06:24:52.24 - Difference from last call: 00:20:14.01
+7
+Current time: 06:24:52.24 - Difference from last call: 00:20:14.02
+7
+Current time: 06:24:52.25 - Difference from last call: 00:20:14.02
+7
+Current time: 06:24:52.25 - Difference from last call: 00:20:14.03
+7
+Current time: 06:24:52.26 - Difference from last call: 00:20:14.04
+7
+Current time: 06:24:52.27 - Difference from last call: 00:20:14.04
+7
+Current time: 06:24:52.27 - Difference from last call: 00:20:14.05
+7
+Current time: 06:24:52.28 - Difference from last call: 00:20:14.05
+7
+Current time: 06:24:52.28 - Difference from last call: 00:20:14.06
+7
+Current time: 06:24:52.29 - Difference from last call: 00:20:14.07
+7
+Current time: 06:24:53.00 - Difference from last call: 00:20:14.07
+7
+Current time: 06:24:53.00 - Difference from last call: 00:20:14.08
+7
+Current time: 06:24:53.01 - Difference from last call: 00:20:14.08
+8
+Current time: 06:24:54.01 - Difference from last call: 00:20:15.09
+8
+Current time: 06:24:57.07 - Difference from last call: 00:20:18.15
+6
+Current time: 06:24:58.18 - Difference from last call: 00:20:19.26
+6
+Current time: 06:24:59.21 - Difference from last call: 00:20:20.28
+5
+Current time: 06:25:00.23 - Difference from last call: 00:20:22.01
+5
+Current time: 06:25:01.11 - Difference from last call: 00:20:22.19
+5
+Current time: 06:25:06.17 - Difference from last call: 00:20:27.25
+5
+Current time: 06:25:06.18 - Difference from last call: 00:20:27.25
+5
+Current time: 06:25:06.18 - Difference from last call: 00:20:27.26
+5
+Current time: 06:25:06.19 - Difference from last call: 00:20:27.26
+5
+Current time: 06:25:06.19 - Difference from last call: 00:20:27.27
+5
+Current time: 06:25:06.20 - Difference from last call: 00:20:27.28
+5
+Current time: 06:25:06.21 - Difference from last call: 00:20:27.28
+5
+Current time: 06:25:06.21 - Difference from last call: 00:20:27.29
+5
+Current time: 06:25:06.22 - Difference from last call: 00:20:27.29
+5
+Current time: 06:25:06.22 - Difference from last call: 00:20:28.00
+5
+Current time: 06:25:06.23 - Difference from last call: 00:20:28.01
+5
+Current time: 06:25:06.24 - Difference from last call: 00:20:28.01
+5
+Current time: 06:25:06.24 - Difference from last call: 00:20:28.02
+5
+Current time: 06:25:06.25 - Difference from last call: 00:20:28.02
+5
+Current time: 06:25:06.25 - Difference from last call: 00:20:28.03
+5
+Current time: 06:25:06.26 - Difference from last call: 00:20:28.04
+5
+Current time: 06:25:06.27 - Difference from last call: 00:20:28.04
+5
+Current time: 06:25:06.27 - Difference from last call: 00:20:28.05
+5
+Current time: 06:25:06.28 - Difference from last call: 00:20:28.05
+5
+Current time: 06:25:06.28 - Difference from last call: 00:20:28.06
+5
+Current time: 06:25:06.29 - Difference from last call: 00:20:28.07
+5
+Current time: 06:25:07.00 - Difference from last call: 00:20:28.07
+5
+Current time: 06:25:07.00 - Difference from last call: 00:20:28.08
+5
+Current time: 06:25:07.01 - Difference from last call: 00:20:28.08
+5
+Current time: 06:25:07.01 - Difference from last call: 00:20:28.09
+5
+Current time: 06:25:07.02 - Difference from last call: 00:20:28.10
+5
+Current time: 06:25:07.03 - Difference from last call: 00:20:28.10
+5
+Current time: 06:25:07.03 - Difference from last call: 00:20:28.11
+5
+Current time: 06:25:07.04 - Difference from last call: 00:20:28.11
+5
+Current time: 06:25:07.04 - Difference from last call: 00:20:28.12
+5
+Current time: 06:25:07.05 - Difference from last call: 00:20:28.13
+5
+Current time: 06:25:07.06 - Difference from last call: 00:20:28.13
+5
+Current time: 06:25:07.06 - Difference from last call: 00:20:28.14
+5
+Current time: 06:25:07.07 - Difference from last call: 00:20:28.14
+5
+Current time: 06:25:07.07 - Difference from last call: 00:20:28.15
+5
+Current time: 06:25:07.08 - Difference from last call: 00:20:28.16
+5
+Current time: 06:25:07.09 - Difference from last call: 00:20:28.16
+5
+Current time: 06:25:07.09 - Difference from last call: 00:20:28.17
+5
+Current time: 06:25:07.10 - Difference from last call: 00:20:28.17
+5
+Current time: 06:25:07.10 - Difference from last call: 00:20:28.18
+8
+Current time: 06:25:08.09 - Difference from last call: 00:20:29.16
+8
+Current time: 06:25:09.04 - Difference from last call: 00:20:30.11
+8
+Current time: 06:25:11.09 - Difference from last call: 00:20:32.16
+8
+Current time: 06:25:11.22 - Difference from last call: 00:20:32.29
+6
+Current time: 06:25:13.03 - Difference from last call: 00:20:34.10
+6
+Current time: 06:25:13.13 - Difference from last call: 00:20:34.21
+7
+Current time: 06:25:16.24 - Difference from last call: 00:20:38.02
+7
+Current time: 06:25:19.23 - Difference from last call: 00:20:41.01
+7
+Current time: 06:25:19.24 - Difference from last call: 00:20:41.01
+7
+Current time: 06:25:19.24 - Difference from last call: 00:20:41.02
+7
+Current time: 06:25:19.25 - Difference from last call: 00:20:41.02
+7
+Current time: 06:25:19.25 - Difference from last call: 00:20:41.03
+7
+Current time: 06:25:19.26 - Difference from last call: 00:20:41.04
+7
+Current time: 06:25:19.27 - Difference from last call: 00:20:41.04
+7
+Current time: 06:25:19.27 - Difference from last call: 00:20:41.05
+7
+Current time: 06:25:19.28 - Difference from last call: 00:20:41.05
+7
+Current time: 06:25:19.28 - Difference from last call: 00:20:41.06
+7
+Current time: 06:25:19.29 - Difference from last call: 00:20:41.07
+7
+Current time: 06:25:20.00 - Difference from last call: 00:20:41.07
+7
+Current time: 06:25:20.00 - Difference from last call: 00:20:41.08
+7
+Current time: 06:25:20.01 - Difference from last call: 00:20:41.08
+7
+Current time: 06:25:20.01 - Difference from last call: 00:20:41.09
+7
+Current time: 06:25:20.02 - Difference from last call: 00:20:41.10
+7
+Current time: 06:25:20.03 - Difference from last call: 00:20:41.10
+7
+Current time: 06:25:20.03 - Difference from last call: 00:20:41.11
+7
+Current time: 06:25:20.04 - Difference from last call: 00:20:41.11
+7
+Current time: 06:25:20.04 - Difference from last call: 00:20:41.12
+7
+Current time: 06:25:20.05 - Difference from last call: 00:20:41.13
+7
+Current time: 06:25:20.06 - Difference from last call: 00:20:41.13
+7
+Current time: 06:25:20.06 - Difference from last call: 00:20:41.14
+7
+Current time: 06:25:20.07 - Difference from last call: 00:20:41.14
+7
+Current time: 06:25:20.07 - Difference from last call: 00:20:41.15
+7
+Current time: 06:25:20.08 - Difference from last call: 00:20:41.16
+7
+Current time: 06:25:20.09 - Difference from last call: 00:20:41.16
+7
+Current time: 06:25:20.09 - Difference from last call: 00:20:41.17
+7
+Current time: 06:25:20.10 - Difference from last call: 00:20:41.17
+7
+Current time: 06:25:20.10 - Difference from last call: 00:20:41.18
+7
+Current time: 06:25:20.11 - Difference from last call: 00:20:41.19
+7
+Current time: 06:25:20.12 - Difference from last call: 00:20:41.19
+7
+Current time: 06:25:20.12 - Difference from last call: 00:20:41.20
+7
+Current time: 06:25:20.13 - Difference from last call: 00:20:41.20
+7
+Current time: 06:25:20.13 - Difference from last call: 00:20:41.21
+7
+Current time: 06:25:20.14 - Difference from last call: 00:20:41.22
+7
+Current time: 06:25:20.15 - Difference from last call: 00:20:41.22
+7
+Current time: 06:25:20.15 - Difference from last call: 00:20:41.23
+7
+Current time: 06:25:20.16 - Difference from last call: 00:20:41.23
+7
+Current time: 06:25:20.16 - Difference from last call: 00:20:41.24
+8
+Current time: 06:25:23.00 - Difference from last call: 00:20:44.08
+8
+Current time: 06:25:25.16 - Difference from last call: 00:20:46.23
+6
+Current time: 06:25:26.03 - Difference from last call: 00:20:47.10
+6
+Current time: 06:25:27.11 - Difference from last call: 00:20:48.19
+5
+Current time: 06:25:28.22 - Difference from last call: 00:20:49.29
+5
+Current time: 06:25:29.11 - Difference from last call: 00:20:50.19
+5
+Current time: 06:25:40.25 - Difference from last call: 00:21:02.03
+8
+Current time: 06:25:41.19 - Difference from last call: 00:21:02.27
+8
+Current time: 06:25:42.13 - Difference from last call: 00:21:03.21
+8
+Current time: 06:25:47.13 - Difference from last call: 00:21:08.21
+7
+Current time: 06:25:52.28 - Difference from last call: 00:21:14.05
+7
+Current time: 06:25:53.10 - Difference from last call: 00:21:14.17
+6
+Current time: 06:25:54.07 - Difference from last call: 00:21:15.15
+6
+Current time: 06:25:54.18 - Difference from last call: 00:21:15.26
+5
+Current time: 06:25:55.16 - Difference from last call: 00:21:16.23
+5
+Current time: 06:25:56.11 - Difference from last call: 00:21:17.19
+5
+Current time: 06:26:03.22 - Difference from last call: 00:21:24.29
+5
+Current time: 06:26:06.21 - Difference from last call: 00:21:27.28
+5
+Current time: 06:26:08.04 - Difference from last call: 00:21:29.11
+5
+Current time: 06:26:08.04 - Difference from last call: 00:21:29.12
+5
+Current time: 06:26:08.05 - Difference from last call: 00:21:29.13
+5
+Current time: 06:26:08.06 - Difference from last call: 00:21:29.13
+5
+Current time: 06:26:08.06 - Difference from last call: 00:21:29.14
+5
+Current time: 06:26:08.07 - Difference from last call: 00:21:29.14
+5
+Current time: 06:26:08.07 - Difference from last call: 00:21:29.15
+5
+Current time: 06:26:08.08 - Difference from last call: 00:21:29.16
+5
+Current time: 06:26:08.09 - Difference from last call: 00:21:29.16
+5
+Current time: 06:26:08.09 - Difference from last call: 00:21:29.17
+5
+Current time: 06:26:08.10 - Difference from last call: 00:21:29.17
+5
+Current time: 06:26:08.10 - Difference from last call: 00:21:29.18
+5
+Current time: 06:26:08.11 - Difference from last call: 00:21:29.19
+5
+Current time: 06:26:08.12 - Difference from last call: 00:21:29.19
+5
+Current time: 06:26:08.12 - Difference from last call: 00:21:29.20
+5
+Current time: 06:26:08.13 - Difference from last call: 00:21:29.20
+5
+Current time: 06:26:08.13 - Difference from last call: 00:21:29.21
+5
+Current time: 06:26:08.14 - Difference from last call: 00:21:29.22
+5
+Current time: 06:26:08.15 - Difference from last call: 00:21:29.22
+5
+Current time: 06:26:08.15 - Difference from last call: 00:21:29.23
+5
+Current time: 06:26:08.16 - Difference from last call: 00:21:29.23
+5
+Current time: 06:26:08.16 - Difference from last call: 00:21:29.24
+5
+Current time: 06:26:08.17 - Difference from last call: 00:21:29.25
+5
+Current time: 06:26:08.18 - Difference from last call: 00:21:29.25
+5
+Current time: 06:26:08.18 - Difference from last call: 00:21:29.26
+5
+Current time: 06:26:08.19 - Difference from last call: 00:21:29.26
+5
+Current time: 06:26:08.19 - Difference from last call: 00:21:29.27
+5
+Current time: 06:26:08.20 - Difference from last call: 00:21:29.28
+5
+Current time: 06:26:08.21 - Difference from last call: 00:21:29.28
+5
+Current time: 06:26:08.21 - Difference from last call: 00:21:29.29
+5
+Current time: 06:26:08.22 - Difference from last call: 00:21:29.29
+5
+Current time: 06:26:08.22 - Difference from last call: 00:21:30.00
+5
+Current time: 06:26:08.23 - Difference from last call: 00:21:30.01
+5
+Current time: 06:26:08.24 - Difference from last call: 00:21:30.01
+5
+Current time: 06:26:08.24 - Difference from last call: 00:21:30.02
+5
+Current time: 06:26:08.25 - Difference from last call: 00:21:30.02
+5
+Current time: 06:26:08.25 - Difference from last call: 00:21:30.03
+5
+Current time: 06:26:08.26 - Difference from last call: 00:21:30.04
+5
+Current time: 06:26:08.27 - Difference from last call: 00:21:30.04
+5
+Current time: 06:26:08.27 - Difference from last call: 00:21:30.05
+7
+Current time: 06:26:09.01 - Difference from last call: 00:21:30.09
+7
+Current time: 06:26:14.11 - Difference from last call: 00:21:35.19
+7
+Current time: 06:26:14.12 - Difference from last call: 00:21:35.19
+7
+Current time: 06:26:14.12 - Difference from last call: 00:21:35.20
+7
+Current time: 06:26:14.13 - Difference from last call: 00:21:35.20
+7
+Current time: 06:26:14.13 - Difference from last call: 00:21:35.21
+7
+Current time: 06:26:14.14 - Difference from last call: 00:21:35.22
+7
+Current time: 06:26:14.15 - Difference from last call: 00:21:35.22
+7
+Current time: 06:26:14.15 - Difference from last call: 00:21:35.23
+7
+Current time: 06:26:14.16 - Difference from last call: 00:21:35.23
+7
+Current time: 06:26:14.16 - Difference from last call: 00:21:35.24
+7
+Current time: 06:26:14.17 - Difference from last call: 00:21:35.25
+7
+Current time: 06:26:14.18 - Difference from last call: 00:21:35.25
+7
+Current time: 06:26:14.18 - Difference from last call: 00:21:35.26
+7
+Current time: 06:26:14.19 - Difference from last call: 00:21:35.26
+7
+Current time: 06:26:14.19 - Difference from last call: 00:21:35.27
+7
+Current time: 06:26:14.20 - Difference from last call: 00:21:35.28
+7
+Current time: 06:26:14.21 - Difference from last call: 00:21:35.28
+7
+Current time: 06:26:14.21 - Difference from last call: 00:21:35.29
+7
+Current time: 06:26:14.22 - Difference from last call: 00:21:35.29
+7
+Current time: 06:26:14.22 - Difference from last call: 00:21:36.00
+7
+Current time: 06:26:14.23 - Difference from last call: 00:21:36.01
+7
+Current time: 06:26:14.24 - Difference from last call: 00:21:36.01
+7
+Current time: 06:26:14.24 - Difference from last call: 00:21:36.02
+7
+Current time: 06:26:14.25 - Difference from last call: 00:21:36.02
+7
+Current time: 06:26:14.25 - Difference from last call: 00:21:36.03
+7
+Current time: 06:26:14.26 - Difference from last call: 00:21:36.04
+7
+Current time: 06:26:14.27 - Difference from last call: 00:21:36.04
+7
+Current time: 06:26:14.27 - Difference from last call: 00:21:36.05
+7
+Current time: 06:26:14.28 - Difference from last call: 00:21:36.05
+7
+Current time: 06:26:14.28 - Difference from last call: 00:21:36.06
+7
+Current time: 06:26:14.29 - Difference from last call: 00:21:36.07
+7
+Current time: 06:26:15.00 - Difference from last call: 00:21:36.07
+7
+Current time: 06:26:15.00 - Difference from last call: 00:21:36.08
+7
+Current time: 06:26:15.01 - Difference from last call: 00:21:36.08
+7
+Current time: 06:26:15.01 - Difference from last call: 00:21:36.09
+7
+Current time: 06:26:15.02 - Difference from last call: 00:21:36.10
+7
+Current time: 06:26:15.03 - Difference from last call: 00:21:36.10
+7
+Current time: 06:26:15.03 - Difference from last call: 00:21:36.11
+7
+Current time: 06:26:15.04 - Difference from last call: 00:21:36.11
+7
+Current time: 06:26:15.04 - Difference from last call: 00:21:36.12
+8
+Current time: 06:26:15.23 - Difference from last call: 00:21:37.01
+8
+Current time: 06:26:18.06 - Difference from last call: 00:21:39.14
+6
+Current time: 06:26:20.11 - Difference from last call: 00:21:41.19
+6
+Current time: 06:26:22.12 - Difference from last call: 00:21:43.20
+5
+Current time: 06:26:23.27 - Difference from last call: 00:21:45.04
+5
+Current time: 06:26:24.12 - Difference from last call: 00:21:45.20
+5
+Current time: 06:26:25.03 - Difference from last call: 00:21:46.10
+5
+Current time: 06:26:25.24 - Difference from last call: 00:21:47.02
+5
+Current time: 06:26:25.25 - Difference from last call: 00:21:47.02
+5
+Current time: 06:26:25.25 - Difference from last call: 00:21:47.03
+5
+Current time: 06:26:25.26 - Difference from last call: 00:21:47.04
+5
+Current time: 06:26:25.27 - Difference from last call: 00:21:47.04
+5
+Current time: 06:26:25.27 - Difference from last call: 00:21:47.05
+5
+Current time: 06:26:25.28 - Difference from last call: 00:21:47.05
+5
+Current time: 06:26:25.28 - Difference from last call: 00:21:47.06
+5
+Current time: 06:26:25.29 - Difference from last call: 00:21:47.07
+5
+Current time: 06:26:26.00 - Difference from last call: 00:21:47.07
+5
+Current time: 06:26:26.00 - Difference from last call: 00:21:47.08
+5
+Current time: 06:26:26.01 - Difference from last call: 00:21:47.08
+5
+Current time: 06:26:26.01 - Difference from last call: 00:21:47.09
+5
+Current time: 06:26:26.02 - Difference from last call: 00:21:47.10
+5
+Current time: 06:26:26.03 - Difference from last call: 00:21:47.10
+5
+Current time: 06:26:26.03 - Difference from last call: 00:21:47.11
+5
+Current time: 06:26:26.04 - Difference from last call: 00:21:47.11
+5
+Current time: 06:26:26.04 - Difference from last call: 00:21:47.12
+5
+Current time: 06:26:26.05 - Difference from last call: 00:21:47.13
+5
+Current time: 06:26:26.06 - Difference from last call: 00:21:47.13
+5
+Current time: 06:26:26.06 - Difference from last call: 00:21:47.14
+5
+Current time: 06:26:26.07 - Difference from last call: 00:21:47.14
+5
+Current time: 06:26:26.07 - Difference from last call: 00:21:47.15
+5
+Current time: 06:26:26.08 - Difference from last call: 00:21:47.16
+5
+Current time: 06:26:26.09 - Difference from last call: 00:21:47.16
+5
+Current time: 06:26:26.09 - Difference from last call: 00:21:47.17
+5
+Current time: 06:26:26.10 - Difference from last call: 00:21:47.17
+5
+Current time: 06:26:26.10 - Difference from last call: 00:21:47.18
+5
+Current time: 06:26:26.11 - Difference from last call: 00:21:47.19
+5
+Current time: 06:26:26.12 - Difference from last call: 00:21:47.19
+5
+Current time: 06:26:26.12 - Difference from last call: 00:21:47.20
+5
+Current time: 06:26:26.13 - Difference from last call: 00:21:47.20
+5
+Current time: 06:26:26.13 - Difference from last call: 00:21:47.21
+5
+Current time: 06:26:26.14 - Difference from last call: 00:21:47.22
+5
+Current time: 06:26:26.15 - Difference from last call: 00:21:47.22
+5
+Current time: 06:26:26.15 - Difference from last call: 00:21:47.23
+5
+Current time: 06:26:26.16 - Difference from last call: 00:21:47.23
+5
+Current time: 06:26:26.16 - Difference from last call: 00:21:47.24
+5
+Current time: 06:26:26.17 - Difference from last call: 00:21:47.25
+5
+Current time: 06:26:26.18 - Difference from last call: 00:21:47.25
+7
+Current time: 06:26:27.07 - Difference from last call: 00:21:48.15
+7
+Current time: 06:26:33.27 - Difference from last call: 00:21:55.04
+7
+Current time: 06:26:33.27 - Difference from last call: 00:21:55.05
+7
+Current time: 06:26:33.28 - Difference from last call: 00:21:55.05
+7
+Current time: 06:26:33.28 - Difference from last call: 00:21:55.06
+7
+Current time: 06:26:33.29 - Difference from last call: 00:21:55.07
+7
+Current time: 06:26:34.00 - Difference from last call: 00:21:55.07
+7
+Current time: 06:26:34.00 - Difference from last call: 00:21:55.08
+7
+Current time: 06:26:34.01 - Difference from last call: 00:21:55.08
+7
+Current time: 06:26:34.01 - Difference from last call: 00:21:55.09
+7
+Current time: 06:26:34.02 - Difference from last call: 00:21:55.10
+7
+Current time: 06:26:34.03 - Difference from last call: 00:21:55.10
+7
+Current time: 06:26:34.03 - Difference from last call: 00:21:55.11
+7
+Current time: 06:26:34.04 - Difference from last call: 00:21:55.11
+7
+Current time: 06:26:34.04 - Difference from last call: 00:21:55.12
+7
+Current time: 06:26:34.05 - Difference from last call: 00:21:55.13
+7
+Current time: 06:26:34.06 - Difference from last call: 00:21:55.13
+7
+Current time: 06:26:34.06 - Difference from last call: 00:21:55.14
+7
+Current time: 06:26:34.07 - Difference from last call: 00:21:55.14
+7
+Current time: 06:26:34.07 - Difference from last call: 00:21:55.15
+7
+Current time: 06:26:34.08 - Difference from last call: 00:21:55.16
+7
+Current time: 06:26:34.09 - Difference from last call: 00:21:55.16
+7
+Current time: 06:26:34.09 - Difference from last call: 00:21:55.17
+7
+Current time: 06:26:34.10 - Difference from last call: 00:21:55.17
+7
+Current time: 06:26:34.10 - Difference from last call: 00:21:55.18
+7
+Current time: 06:26:34.11 - Difference from last call: 00:21:55.19
+7
+Current time: 06:26:34.12 - Difference from last call: 00:21:55.19
+7
+Current time: 06:26:34.12 - Difference from last call: 00:21:55.20
+7
+Current time: 06:26:34.13 - Difference from last call: 00:21:55.20
+7
+Current time: 06:26:34.13 - Difference from last call: 00:21:55.21
+7
+Current time: 06:26:34.14 - Difference from last call: 00:21:55.22
+7
+Current time: 06:26:34.15 - Difference from last call: 00:21:55.22
+7
+Current time: 06:26:34.15 - Difference from last call: 00:21:55.23
+7
+Current time: 06:26:34.16 - Difference from last call: 00:21:55.23
+7
+Current time: 06:26:34.16 - Difference from last call: 00:21:55.24
+7
+Current time: 06:26:34.17 - Difference from last call: 00:21:55.25
+7
+Current time: 06:26:34.18 - Difference from last call: 00:21:55.25
+7
+Current time: 06:26:34.18 - Difference from last call: 00:21:55.26
+7
+Current time: 06:26:34.19 - Difference from last call: 00:21:55.26
+7
+Current time: 06:26:34.19 - Difference from last call: 00:21:55.27
+7
+Current time: 06:26:34.20 - Difference from last call: 00:21:55.28
+8
+Current time: 06:26:42.18 - Difference from last call: 00:22:03.26
+7
+Current time: 06:26:44.01 - Difference from last call: 00:22:05.09
+7
+Current time: 06:26:46.03 - Difference from last call: 00:22:07.10
+6
+Current time: 06:26:48.17 - Difference from last call: 00:22:09.25
+6
+Current time: 06:26:48.24 - Difference from last call: 00:22:10.02
+6
+Current time: 06:26:49.04 - Difference from last call: 00:22:10.11
+6
+Current time: 06:26:49.16 - Difference from last call: 00:22:10.23
+5
+Current time: 06:26:50.11 - Difference from last call: 00:22:11.19
+5
+Current time: 06:27:01.13 - Difference from last call: 00:22:22.21
+5
+Current time: 06:27:01.21 - Difference from last call: 00:22:22.28
+6
+Current time: 06:27:02.05 - Difference from last call: 00:22:23.13
+6
+Current time: 06:27:02.24 - Difference from last call: 00:22:24.02
+8
+Current time: 06:27:03.22 - Difference from last call: 00:22:24.29
+8
+Current time: 06:27:06.06 - Difference from last call: 00:22:27.14
+7
+Current time: 06:27:08.12 - Difference from last call: 00:22:29.20
+7
+Current time: 06:27:09.19 - Difference from last call: 00:22:30.27
+6
+Current time: 06:27:11.05 - Difference from last call: 00:22:32.13
+6
+Current time: 06:27:12.12 - Difference from last call: 00:22:33.20
+6
+Current time: 06:27:12.25 - Difference from last call: 00:22:34.03
+6
+Current time: 06:27:13.11 - Difference from last call: 00:22:34.19
+8
+Current time: 06:27:15.13 - Difference from last call: 00:22:36.21
+8
+Current time: 06:27:16.01 - Difference from last call: 00:22:37.09
+8
+Current time: 06:27:16.17 - Difference from last call: 00:22:37.25
+6
+Current time: 06:27:16.24 - Difference from last call: 00:22:38.02
+6
+Current time: 06:27:16.29 - Difference from last call: 00:22:38.07
+5
+Current time: 06:27:18.19 - Difference from last call: 00:22:39.27
+5
+Current time: 06:27:19.28 - Difference from last call: 00:22:41.05
+5
+Current time: 06:27:20.15 - Difference from last call: 00:22:41.22
+5
+Current time: 06:27:23.11 - Difference from last call: 00:22:44.19
+5
+Current time: 06:27:23.12 - Difference from last call: 00:22:44.19
+5
+Current time: 06:27:23.12 - Difference from last call: 00:22:44.20
+5
+Current time: 06:27:23.13 - Difference from last call: 00:22:44.20
+5
+Current time: 06:27:23.13 - Difference from last call: 00:22:44.21
+5
+Current time: 06:27:23.14 - Difference from last call: 00:22:44.22
+5
+Current time: 06:27:23.15 - Difference from last call: 00:22:44.22
+5
+Current time: 06:27:23.15 - Difference from last call: 00:22:44.23
+5
+Current time: 06:27:23.16 - Difference from last call: 00:22:44.23
+5
+Current time: 06:27:23.16 - Difference from last call: 00:22:44.24
+5
+Current time: 06:27:23.17 - Difference from last call: 00:22:44.25
+5
+Current time: 06:27:23.18 - Difference from last call: 00:22:44.25
+5
+Current time: 06:27:23.18 - Difference from last call: 00:22:44.26
+5
+Current time: 06:27:23.19 - Difference from last call: 00:22:44.26
+5
+Current time: 06:27:23.19 - Difference from last call: 00:22:44.27
+5
+Current time: 06:27:23.20 - Difference from last call: 00:22:44.28
+5
+Current time: 06:27:23.21 - Difference from last call: 00:22:44.28
+5
+Current time: 06:27:23.21 - Difference from last call: 00:22:44.29
+5
+Current time: 06:27:23.22 - Difference from last call: 00:22:44.29
+5
+Current time: 06:27:23.22 - Difference from last call: 00:22:45.00
+5
+Current time: 06:27:23.23 - Difference from last call: 00:22:45.01
+5
+Current time: 06:27:23.24 - Difference from last call: 00:22:45.01
+5
+Current time: 06:27:23.24 - Difference from last call: 00:22:45.02
+5
+Current time: 06:27:23.25 - Difference from last call: 00:22:45.02
+5
+Current time: 06:27:23.25 - Difference from last call: 00:22:45.03
+5
+Current time: 06:27:23.26 - Difference from last call: 00:22:45.04
+5
+Current time: 06:27:23.27 - Difference from last call: 00:22:45.04
+5
+Current time: 06:27:23.27 - Difference from last call: 00:22:45.05
+5
+Current time: 06:27:23.28 - Difference from last call: 00:22:45.05
+5
+Current time: 06:27:23.28 - Difference from last call: 00:22:45.06
+5
+Current time: 06:27:23.29 - Difference from last call: 00:22:45.07
+5
+Current time: 06:27:24.00 - Difference from last call: 00:22:45.07
+5
+Current time: 06:27:24.00 - Difference from last call: 00:22:45.08
+5
+Current time: 06:27:24.01 - Difference from last call: 00:22:45.08
+5
+Current time: 06:27:24.01 - Difference from last call: 00:22:45.09
+5
+Current time: 06:27:24.02 - Difference from last call: 00:22:45.10
+5
+Current time: 06:27:24.03 - Difference from last call: 00:22:45.10
+5
+Current time: 06:27:24.03 - Difference from last call: 00:22:45.11
+5
+Current time: 06:27:24.04 - Difference from last call: 00:22:45.11
+5
+Current time: 06:27:24.04 - Difference from last call: 00:22:45.12
+8
+Current time: 06:27:25.18 - Difference from last call: 00:22:46.26
+8
+Current time: 06:27:28.05 - Difference from last call: 00:22:49.13
+8
+Current time: 06:27:28.06 - Difference from last call: 00:22:49.13
+8
+Current time: 06:27:28.06 - Difference from last call: 00:22:49.14
+8
+Current time: 06:27:28.07 - Difference from last call: 00:22:49.14
+8
+Current time: 06:27:28.07 - Difference from last call: 00:22:49.15
+8
+Current time: 06:27:28.08 - Difference from last call: 00:22:49.16
+8
+Current time: 06:27:28.09 - Difference from last call: 00:22:49.16
+8
+Current time: 06:27:28.09 - Difference from last call: 00:22:49.17
+8
+Current time: 06:27:28.10 - Difference from last call: 00:22:49.17
+8
+Current time: 06:27:28.10 - Difference from last call: 00:22:49.18
+8
+Current time: 06:27:28.11 - Difference from last call: 00:22:49.19
+8
+Current time: 06:27:28.12 - Difference from last call: 00:22:49.19
+8
+Current time: 06:27:28.12 - Difference from last call: 00:22:49.20
+8
+Current time: 06:27:28.13 - Difference from last call: 00:22:49.20
+8
+Current time: 06:27:28.13 - Difference from last call: 00:22:49.21
+8
+Current time: 06:27:28.14 - Difference from last call: 00:22:49.22
+8
+Current time: 06:27:28.15 - Difference from last call: 00:22:49.22
+8
+Current time: 06:27:28.15 - Difference from last call: 00:22:49.23
+8
+Current time: 06:27:28.16 - Difference from last call: 00:22:49.23
+8
+Current time: 06:27:28.16 - Difference from last call: 00:22:49.24
+8
+Current time: 06:27:28.17 - Difference from last call: 00:22:49.25
+8
+Current time: 06:27:28.18 - Difference from last call: 00:22:49.25
+8
+Current time: 06:27:28.18 - Difference from last call: 00:22:49.26
+8
+Current time: 06:27:28.19 - Difference from last call: 00:22:49.26
+8
+Current time: 06:27:28.19 - Difference from last call: 00:22:49.27
+8
+Current time: 06:27:28.20 - Difference from last call: 00:22:49.28
+8
+Current time: 06:27:28.21 - Difference from last call: 00:22:49.28
+8
+Current time: 06:27:28.21 - Difference from last call: 00:22:49.29
+8
+Current time: 06:27:28.22 - Difference from last call: 00:22:49.29
+8
+Current time: 06:27:28.22 - Difference from last call: 00:22:50.00
+8
+Current time: 06:27:28.23 - Difference from last call: 00:22:50.01
+8
+Current time: 06:27:28.24 - Difference from last call: 00:22:50.01
+8
+Current time: 06:27:28.24 - Difference from last call: 00:22:50.02
+8
+Current time: 06:27:28.25 - Difference from last call: 00:22:50.02
+8
+Current time: 06:27:28.25 - Difference from last call: 00:22:50.03
+8
+Current time: 06:27:28.26 - Difference from last call: 00:22:50.04
+8
+Current time: 06:27:28.27 - Difference from last call: 00:22:50.04
+8
+Current time: 06:27:28.27 - Difference from last call: 00:22:50.05
+8
+Current time: 06:27:28.28 - Difference from last call: 00:22:50.05
+8
+Current time: 06:27:28.28 - Difference from last call: 00:22:50.06
+7
+Current time: 06:27:37.21 - Difference from last call: 00:22:58.28
+7
+Current time: 06:27:37.21 - Difference from last call: 00:22:58.29
+7
+Current time: 06:27:37.22 - Difference from last call: 00:22:58.29
+7
+Current time: 06:27:37.22 - Difference from last call: 00:22:59.00
+7
+Current time: 06:27:37.23 - Difference from last call: 00:22:59.01
+7
+Current time: 06:27:37.24 - Difference from last call: 00:22:59.01
+7
+Current time: 06:27:37.24 - Difference from last call: 00:22:59.02
+7
+Current time: 06:27:37.25 - Difference from last call: 00:22:59.02
+7
+Current time: 06:27:37.25 - Difference from last call: 00:22:59.03
+7
+Current time: 06:27:37.26 - Difference from last call: 00:22:59.04
+7
+Current time: 06:27:37.27 - Difference from last call: 00:22:59.04
+7
+Current time: 06:27:37.27 - Difference from last call: 00:22:59.05
+7
+Current time: 06:27:37.28 - Difference from last call: 00:22:59.05
+7
+Current time: 06:27:37.28 - Difference from last call: 00:22:59.06
+7
+Current time: 06:27:37.29 - Difference from last call: 00:22:59.07
+7
+Current time: 06:27:38.00 - Difference from last call: 00:22:59.07
+7
+Current time: 06:27:38.00 - Difference from last call: 00:22:59.08
+7
+Current time: 06:27:38.01 - Difference from last call: 00:22:59.08
+7
+Current time: 06:27:38.01 - Difference from last call: 00:22:59.09
+7
+Current time: 06:27:38.02 - Difference from last call: 00:22:59.10
+7
+Current time: 06:27:38.03 - Difference from last call: 00:22:59.10
+7
+Current time: 06:27:38.03 - Difference from last call: 00:22:59.11
+7
+Current time: 06:27:38.04 - Difference from last call: 00:22:59.11
+7
+Current time: 06:27:38.04 - Difference from last call: 00:22:59.12
+7
+Current time: 06:27:38.05 - Difference from last call: 00:22:59.13
+7
+Current time: 06:27:38.06 - Difference from last call: 00:22:59.13
+7
+Current time: 06:27:38.06 - Difference from last call: 00:22:59.14
+7
+Current time: 06:27:38.07 - Difference from last call: 00:22:59.14
+7
+Current time: 06:27:38.07 - Difference from last call: 00:22:59.15
+7
+Current time: 06:27:38.08 - Difference from last call: 00:22:59.16
+7
+Current time: 06:27:38.09 - Difference from last call: 00:22:59.16
+7
+Current time: 06:27:38.09 - Difference from last call: 00:22:59.17
+7
+Current time: 06:27:38.10 - Difference from last call: 00:22:59.17
+7
+Current time: 06:27:38.10 - Difference from last call: 00:22:59.18
+7
+Current time: 06:27:38.11 - Difference from last call: 00:22:59.19
+7
+Current time: 06:27:38.12 - Difference from last call: 00:22:59.19
+7
+Current time: 06:27:38.12 - Difference from last call: 00:22:59.20
+7
+Current time: 06:27:38.13 - Difference from last call: 00:22:59.20
+7
+Current time: 06:27:38.13 - Difference from last call: 00:22:59.21
+7
+Current time: 06:27:38.14 - Difference from last call: 00:22:59.22
+8
+Current time: 06:27:42.12 - Difference from last call: 00:23:03.20
+8
+Current time: 06:27:43.01 - Difference from last call: 00:23:04.09
+6
+Current time: 06:27:43.17 - Difference from last call: 00:23:04.25
+6
+Current time: 06:27:44.11 - Difference from last call: 00:23:05.19
+5
+Current time: 06:28:14.11 - Difference from last call: 00:23:35.19
+5
+Current time: 06:28:22.24 - Difference from last call: 00:23:44.02
+5
+Current time: 06:28:39.15 - Difference from last call: 00:24:00.22
+8
+Current time: 06:28:41.03 - Difference from last call: 00:24:02.10
+8
+Current time: 06:28:47.00 - Difference from last call: 00:24:08.08
+8
+Current time: 06:28:47.01 - Difference from last call: 00:24:08.08
+8
+Current time: 06:28:47.01 - Difference from last call: 00:24:08.09
+8
+Current time: 06:28:47.02 - Difference from last call: 00:24:08.10
+8
+Current time: 06:28:47.03 - Difference from last call: 00:24:08.10
+8
+Current time: 06:28:47.03 - Difference from last call: 00:24:08.11
+8
+Current time: 06:28:47.04 - Difference from last call: 00:24:08.11
+8
+Current time: 06:28:47.04 - Difference from last call: 00:24:08.12
+8
+Current time: 06:28:47.05 - Difference from last call: 00:24:08.13
+8
+Current time: 06:28:47.06 - Difference from last call: 00:24:08.13
+8
+Current time: 06:28:47.06 - Difference from last call: 00:24:08.14
+8
+Current time: 06:28:47.07 - Difference from last call: 00:24:08.14
+8
+Current time: 06:28:47.07 - Difference from last call: 00:24:08.15
+8
+Current time: 06:28:47.08 - Difference from last call: 00:24:08.16
+8
+Current time: 06:28:47.09 - Difference from last call: 00:24:08.16
+8
+Current time: 06:28:47.09 - Difference from last call: 00:24:08.17
+8
+Current time: 06:28:47.10 - Difference from last call: 00:24:08.17
+8
+Current time: 06:28:47.10 - Difference from last call: 00:24:08.18
+8
+Current time: 06:28:47.11 - Difference from last call: 00:24:08.19
+8
+Current time: 06:28:47.12 - Difference from last call: 00:24:08.19
+8
+Current time: 06:28:47.12 - Difference from last call: 00:24:08.20
+8
+Current time: 06:28:47.13 - Difference from last call: 00:24:08.20
+8
+Current time: 06:28:47.13 - Difference from last call: 00:24:08.21
+8
+Current time: 06:28:47.14 - Difference from last call: 00:24:08.22
+8
+Current time: 06:28:47.15 - Difference from last call: 00:24:08.22
+8
+Current time: 06:28:47.15 - Difference from last call: 00:24:08.23
+8
+Current time: 06:28:47.16 - Difference from last call: 00:24:08.23
+8
+Current time: 06:28:47.16 - Difference from last call: 00:24:08.24
+8
+Current time: 06:28:47.17 - Difference from last call: 00:24:08.25
+8
+Current time: 06:28:47.18 - Difference from last call: 00:24:08.25
+8
+Current time: 06:28:47.18 - Difference from last call: 00:24:08.26
+8
+Current time: 06:28:47.19 - Difference from last call: 00:24:08.26
+8
+Current time: 06:28:47.19 - Difference from last call: 00:24:08.27
+8
+Current time: 06:28:47.20 - Difference from last call: 00:24:08.28
+8
+Current time: 06:28:47.21 - Difference from last call: 00:24:08.28
+8
+Current time: 06:28:47.21 - Difference from last call: 00:24:08.29
+8
+Current time: 06:28:47.22 - Difference from last call: 00:24:08.29
+8
+Current time: 06:28:47.22 - Difference from last call: 00:24:09.00
+8
+Current time: 06:28:47.23 - Difference from last call: 00:24:09.01
+8
+Current time: 06:28:47.24 - Difference from last call: 00:24:09.01
+7
+Current time: 06:28:48.21 - Difference from last call: 00:24:09.28
+7
+Current time: 06:28:52.18 - Difference from last call: 00:24:13.26
+6
+Current time: 06:28:54.07 - Difference from last call: 00:24:15.15
+6
+Current time: 06:28:55.10 - Difference from last call: 00:24:16.17
+5
+Current time: 06:28:59.29 - Difference from last call: 00:24:21.07
+5
+Current time: 06:29:02.18 - Difference from last call: 00:24:23.26
+5
+Current time: 06:29:02.19 - Difference from last call: 00:24:23.26
+5
+Current time: 06:29:02.19 - Difference from last call: 00:24:23.27
+5
+Current time: 06:29:02.20 - Difference from last call: 00:24:23.28
+5
+Current time: 06:29:02.21 - Difference from last call: 00:24:23.28
+5
+Current time: 06:29:02.21 - Difference from last call: 00:24:23.29
+5
+Current time: 06:29:02.22 - Difference from last call: 00:24:23.29
+5
+Current time: 06:29:02.22 - Difference from last call: 00:24:24.00
+5
+Current time: 06:29:02.23 - Difference from last call: 00:24:24.01
+5
+Current time: 06:29:02.24 - Difference from last call: 00:24:24.01
+5
+Current time: 06:29:02.24 - Difference from last call: 00:24:24.02
+5
+Current time: 06:29:02.25 - Difference from last call: 00:24:24.02
+5
+Current time: 06:29:02.25 - Difference from last call: 00:24:24.03
+5
+Current time: 06:29:02.26 - Difference from last call: 00:24:24.04
+5
+Current time: 06:29:02.27 - Difference from last call: 00:24:24.04
+5
+Current time: 06:29:02.27 - Difference from last call: 00:24:24.05
+5
+Current time: 06:29:02.28 - Difference from last call: 00:24:24.05
+5
+Current time: 06:29:02.28 - Difference from last call: 00:24:24.06
+5
+Current time: 06:29:02.29 - Difference from last call: 00:24:24.07
+5
+Current time: 06:29:03.00 - Difference from last call: 00:24:24.07
+5
+Current time: 06:29:03.00 - Difference from last call: 00:24:24.08
+5
+Current time: 06:29:03.01 - Difference from last call: 00:24:24.08
+5
+Current time: 06:29:03.01 - Difference from last call: 00:24:24.09
+5
+Current time: 06:29:03.02 - Difference from last call: 00:24:24.10
+5
+Current time: 06:29:03.03 - Difference from last call: 00:24:24.10
+5
+Current time: 06:29:03.03 - Difference from last call: 00:24:24.11
+5
+Current time: 06:29:03.04 - Difference from last call: 00:24:24.11
+5
+Current time: 06:29:03.04 - Difference from last call: 00:24:24.12
+5
+Current time: 06:29:03.05 - Difference from last call: 00:24:24.13
+5
+Current time: 06:29:03.06 - Difference from last call: 00:24:24.13
+5
+Current time: 06:29:03.06 - Difference from last call: 00:24:24.14
+5
+Current time: 06:29:03.07 - Difference from last call: 00:24:24.14
+5
+Current time: 06:29:03.07 - Difference from last call: 00:24:24.15
+5
+Current time: 06:29:03.08 - Difference from last call: 00:24:24.16
+5
+Current time: 06:29:03.09 - Difference from last call: 00:24:24.16
+5
+Current time: 06:29:03.09 - Difference from last call: 00:24:24.17
+5
+Current time: 06:29:03.10 - Difference from last call: 00:24:24.17
+5
+Current time: 06:29:03.10 - Difference from last call: 00:24:24.18
+5
+Current time: 06:29:03.11 - Difference from last call: 00:24:24.19
+5
+Current time: 06:29:03.12 - Difference from last call: 00:24:24.19
+7
+Current time: 06:29:03.17 - Difference from last call: 00:24:24.25
+7
+Current time: 06:29:06.05 - Difference from last call: 00:24:27.13
+7
+Current time: 06:29:06.06 - Difference from last call: 00:24:27.13
+7
+Current time: 06:29:06.06 - Difference from last call: 00:24:27.14
+7
+Current time: 06:29:06.07 - Difference from last call: 00:24:27.14
+7
+Current time: 06:29:06.07 - Difference from last call: 00:24:27.15
+7
+Current time: 06:29:06.08 - Difference from last call: 00:24:27.16
+7
+Current time: 06:29:06.09 - Difference from last call: 00:24:27.16
+7
+Current time: 06:29:06.09 - Difference from last call: 00:24:27.17
+7
+Current time: 06:29:06.10 - Difference from last call: 00:24:27.17
+7
+Current time: 06:29:06.10 - Difference from last call: 00:24:27.18
+7
+Current time: 06:29:06.11 - Difference from last call: 00:24:27.19
+7
+Current time: 06:29:06.12 - Difference from last call: 00:24:27.19
+7
+Current time: 06:29:06.12 - Difference from last call: 00:24:27.20
+7
+Current time: 06:29:06.13 - Difference from last call: 00:24:27.20
+7
+Current time: 06:29:06.13 - Difference from last call: 00:24:27.21
+7
+Current time: 06:29:06.14 - Difference from last call: 00:24:27.22
+7
+Current time: 06:29:06.15 - Difference from last call: 00:24:27.22
+7
+Current time: 06:29:06.15 - Difference from last call: 00:24:27.23
+7
+Current time: 06:29:06.16 - Difference from last call: 00:24:27.23
+7
+Current time: 06:29:06.16 - Difference from last call: 00:24:27.24
+7
+Current time: 06:29:06.17 - Difference from last call: 00:24:27.25
+7
+Current time: 06:29:06.18 - Difference from last call: 00:24:27.25
+7
+Current time: 06:29:06.18 - Difference from last call: 00:24:27.26
+7
+Current time: 06:29:06.19 - Difference from last call: 00:24:27.26
+7
+Current time: 06:29:06.19 - Difference from last call: 00:24:27.27
+7
+Current time: 06:29:06.20 - Difference from last call: 00:24:27.28
+7
+Current time: 06:29:06.21 - Difference from last call: 00:24:27.28
+7
+Current time: 06:29:06.21 - Difference from last call: 00:24:27.29
+7
+Current time: 06:29:06.22 - Difference from last call: 00:24:27.29
+7
+Current time: 06:29:06.22 - Difference from last call: 00:24:28.00
+7
+Current time: 06:29:06.23 - Difference from last call: 00:24:28.01
+7
+Current time: 06:29:06.24 - Difference from last call: 00:24:28.01
+7
+Current time: 06:29:06.24 - Difference from last call: 00:24:28.02
+7
+Current time: 06:29:06.25 - Difference from last call: 00:24:28.02
+7
+Current time: 06:29:06.25 - Difference from last call: 00:24:28.03
+7
+Current time: 06:29:06.26 - Difference from last call: 00:24:28.04
+7
+Current time: 06:29:06.27 - Difference from last call: 00:24:28.04
+7
+Current time: 06:29:06.27 - Difference from last call: 00:24:28.05
+7
+Current time: 06:29:06.28 - Difference from last call: 00:24:28.05
+7
+Current time: 06:29:06.28 - Difference from last call: 00:24:28.06
+8
+Current time: 06:29:08.04 - Difference from last call: 00:24:29.11
+8
+Current time: 06:29:08.09 - Difference from last call: 00:24:29.16
+6
+Current time: 06:29:09.22 - Difference from last call: 00:24:30.29
+6
+Current time: 06:29:10.17 - Difference from last call: 00:24:31.25
+5
+Current time: 06:29:13.17 - Difference from last call: 00:24:34.25
+5
+Current time: 06:29:14.03 - Difference from last call: 00:24:35.10
+5
+Current time: 06:29:14.27 - Difference from last call: 00:24:36.04
+5
+Current time: 06:29:14.27 - Difference from last call: 00:24:36.05
+5
+Current time: 06:29:14.28 - Difference from last call: 00:24:36.05
+5
+Current time: 06:29:14.28 - Difference from last call: 00:24:36.06
+5
+Current time: 06:29:14.29 - Difference from last call: 00:24:36.07
+5
+Current time: 06:29:15.00 - Difference from last call: 00:24:36.07
+5
+Current time: 06:29:15.00 - Difference from last call: 00:24:36.08
+5
+Current time: 06:29:15.01 - Difference from last call: 00:24:36.08
+5
+Current time: 06:29:15.01 - Difference from last call: 00:24:36.09
+5
+Current time: 06:29:15.02 - Difference from last call: 00:24:36.10
+5
+Current time: 06:29:15.03 - Difference from last call: 00:24:36.10
+5
+Current time: 06:29:15.03 - Difference from last call: 00:24:36.11
+5
+Current time: 06:29:15.04 - Difference from last call: 00:24:36.11
+5
+Current time: 06:29:15.04 - Difference from last call: 00:24:36.12
+5
+Current time: 06:29:15.05 - Difference from last call: 00:24:36.13
+5
+Current time: 06:29:15.06 - Difference from last call: 00:24:36.13
+5
+Current time: 06:29:15.06 - Difference from last call: 00:24:36.14
+5
+Current time: 06:29:15.07 - Difference from last call: 00:24:36.14
+5
+Current time: 06:29:15.07 - Difference from last call: 00:24:36.15
+5
+Current time: 06:29:15.08 - Difference from last call: 00:24:36.16
+5
+Current time: 06:29:15.09 - Difference from last call: 00:24:36.16
+5
+Current time: 06:29:15.09 - Difference from last call: 00:24:36.17
+5
+Current time: 06:29:15.10 - Difference from last call: 00:24:36.17
+5
+Current time: 06:29:15.10 - Difference from last call: 00:24:36.18
+5
+Current time: 06:29:15.11 - Difference from last call: 00:24:36.19
+5
+Current time: 06:29:15.12 - Difference from last call: 00:24:36.19
+5
+Current time: 06:29:15.12 - Difference from last call: 00:24:36.20
+5
+Current time: 06:29:15.13 - Difference from last call: 00:24:36.20
+5
+Current time: 06:29:15.13 - Difference from last call: 00:24:36.21
+5
+Current time: 06:29:15.14 - Difference from last call: 00:24:36.22
+5
+Current time: 06:29:15.15 - Difference from last call: 00:24:36.22
+5
+Current time: 06:29:15.15 - Difference from last call: 00:24:36.23
+5
+Current time: 06:29:15.16 - Difference from last call: 00:24:36.23
+5
+Current time: 06:29:15.16 - Difference from last call: 00:24:36.24
+5
+Current time: 06:29:15.17 - Difference from last call: 00:24:36.25
+5
+Current time: 06:29:15.18 - Difference from last call: 00:24:36.25
+5
+Current time: 06:29:15.18 - Difference from last call: 00:24:36.26
+5
+Current time: 06:29:15.19 - Difference from last call: 00:24:36.26
+5
+Current time: 06:29:15.19 - Difference from last call: 00:24:36.27
+5
+Current time: 06:29:15.20 - Difference from last call: 00:24:36.28
+7
+Current time: 06:29:20.01 - Difference from last call: 00:24:41.09
+7
+Current time: 06:29:20.21 - Difference from last call: 00:24:41.28
+7
+Current time: 06:29:21.04 - Difference from last call: 00:24:42.11
+7
+Current time: 06:29:23.18 - Difference from last call: 00:24:44.26
+7
+Current time: 06:29:23.19 - Difference from last call: 00:24:44.26
+7
+Current time: 06:29:23.19 - Difference from last call: 00:24:44.27
+7
+Current time: 06:29:23.20 - Difference from last call: 00:24:44.28
+7
+Current time: 06:29:23.21 - Difference from last call: 00:24:44.28
+7
+Current time: 06:29:23.21 - Difference from last call: 00:24:44.29
+7
+Current time: 06:29:23.22 - Difference from last call: 00:24:44.29
+7
+Current time: 06:29:23.22 - Difference from last call: 00:24:45.00
+7
+Current time: 06:29:23.23 - Difference from last call: 00:24:45.01
+7
+Current time: 06:29:23.24 - Difference from last call: 00:24:45.01
+7
+Current time: 06:29:23.24 - Difference from last call: 00:24:45.02
+7
+Current time: 06:29:23.25 - Difference from last call: 00:24:45.02
+7
+Current time: 06:29:23.25 - Difference from last call: 00:24:45.03
+7
+Current time: 06:29:23.26 - Difference from last call: 00:24:45.04
+7
+Current time: 06:29:23.27 - Difference from last call: 00:24:45.04
+7
+Current time: 06:29:23.27 - Difference from last call: 00:24:45.05
+7
+Current time: 06:29:23.28 - Difference from last call: 00:24:45.05
+7
+Current time: 06:29:23.28 - Difference from last call: 00:24:45.06
+7
+Current time: 06:29:23.29 - Difference from last call: 00:24:45.07
+7
+Current time: 06:29:24.00 - Difference from last call: 00:24:45.07
+7
+Current time: 06:29:24.00 - Difference from last call: 00:24:45.08
+7
+Current time: 06:29:24.01 - Difference from last call: 00:24:45.08
+7
+Current time: 06:29:24.01 - Difference from last call: 00:24:45.09
+7
+Current time: 06:29:24.02 - Difference from last call: 00:24:45.10
+7
+Current time: 06:29:24.03 - Difference from last call: 00:24:45.10
+7
+Current time: 06:29:24.03 - Difference from last call: 00:24:45.11
+7
+Current time: 06:29:24.04 - Difference from last call: 00:24:45.11
+7
+Current time: 06:29:24.04 - Difference from last call: 00:24:45.12
+7
+Current time: 06:29:24.05 - Difference from last call: 00:24:45.13
+7
+Current time: 06:29:24.06 - Difference from last call: 00:24:45.13
+7
+Current time: 06:29:24.06 - Difference from last call: 00:24:45.14
+7
+Current time: 06:29:24.07 - Difference from last call: 00:24:45.14
+7
+Current time: 06:29:24.07 - Difference from last call: 00:24:45.15
+7
+Current time: 06:29:24.08 - Difference from last call: 00:24:45.16
+7
+Current time: 06:29:24.09 - Difference from last call: 00:24:45.16
+7
+Current time: 06:29:24.09 - Difference from last call: 00:24:45.17
+7
+Current time: 06:29:24.10 - Difference from last call: 00:24:45.17
+7
+Current time: 06:29:24.10 - Difference from last call: 00:24:45.18
+7
+Current time: 06:29:24.11 - Difference from last call: 00:24:45.19
+7
+Current time: 06:29:24.12 - Difference from last call: 00:24:45.19
+8
+Current time: 06:29:25.28 - Difference from last call: 00:24:47.05
+8
+Current time: 06:29:26.22 - Difference from last call: 00:24:47.29
+6
+Current time: 06:29:27.05 - Difference from last call: 00:24:48.13
+6
+Current time: 06:29:27.07 - Difference from last call: 00:24:48.15
+5
+Current time: 06:29:30.04 - Difference from last call: 00:24:51.11
+5
+Current time: 06:29:33.12 - Difference from last call: 00:24:54.20
+5
+Current time: 06:29:33.13 - Difference from last call: 00:24:54.20
+5
+Current time: 06:29:33.13 - Difference from last call: 00:24:54.21
+5
+Current time: 06:29:33.14 - Difference from last call: 00:24:54.22
+5
+Current time: 06:29:33.15 - Difference from last call: 00:24:54.22
+5
+Current time: 06:29:33.15 - Difference from last call: 00:24:54.23
+5
+Current time: 06:29:33.16 - Difference from last call: 00:24:54.23
+5
+Current time: 06:29:33.16 - Difference from last call: 00:24:54.24
+5
+Current time: 06:29:33.17 - Difference from last call: 00:24:54.25
+5
+Current time: 06:29:33.18 - Difference from last call: 00:24:54.25
+5
+Current time: 06:29:33.18 - Difference from last call: 00:24:54.26
+5
+Current time: 06:29:33.19 - Difference from last call: 00:24:54.26
+5
+Current time: 06:29:33.19 - Difference from last call: 00:24:54.27
+5
+Current time: 06:29:33.20 - Difference from last call: 00:24:54.28
+5
+Current time: 06:29:33.21 - Difference from last call: 00:24:54.28
+5
+Current time: 06:29:33.21 - Difference from last call: 00:24:54.29
+5
+Current time: 06:29:33.22 - Difference from last call: 00:24:54.29
+5
+Current time: 06:29:33.22 - Difference from last call: 00:24:55.00
+5
+Current time: 06:29:33.23 - Difference from last call: 00:24:55.01
+5
+Current time: 06:29:33.24 - Difference from last call: 00:24:55.01
+5
+Current time: 06:29:33.24 - Difference from last call: 00:24:55.02
+5
+Current time: 06:29:33.25 - Difference from last call: 00:24:55.02
+5
+Current time: 06:29:33.25 - Difference from last call: 00:24:55.03
+5
+Current time: 06:29:33.26 - Difference from last call: 00:24:55.04
+5
+Current time: 06:29:33.27 - Difference from last call: 00:24:55.04
+5
+Current time: 06:29:33.27 - Difference from last call: 00:24:55.05
+5
+Current time: 06:29:33.28 - Difference from last call: 00:24:55.05
+5
+Current time: 06:29:33.28 - Difference from last call: 00:24:55.06
+5
+Current time: 06:29:33.29 - Difference from last call: 00:24:55.07
+5
+Current time: 06:29:34.00 - Difference from last call: 00:24:55.07
+5
+Current time: 06:29:34.00 - Difference from last call: 00:24:55.08
+5
+Current time: 06:29:34.01 - Difference from last call: 00:24:55.08
+5
+Current time: 06:29:34.01 - Difference from last call: 00:24:55.09
+5
+Current time: 06:29:34.02 - Difference from last call: 00:24:55.10
+5
+Current time: 06:29:34.03 - Difference from last call: 00:24:55.10
+5
+Current time: 06:29:34.03 - Difference from last call: 00:24:55.11
+5
+Current time: 06:29:34.04 - Difference from last call: 00:24:55.11
+5
+Current time: 06:29:34.04 - Difference from last call: 00:24:55.12
+5
+Current time: 06:29:34.05 - Difference from last call: 00:24:55.13
+5
+Current time: 06:29:34.06 - Difference from last call: 00:24:55.13
+8
+Current time: 06:29:34.22 - Difference from last call: 00:24:55.29
+8
+Current time: 06:29:38.17 - Difference from last call: 00:24:59.25
+8
+Current time: 06:29:39.01 - Difference from last call: 00:25:00.09
+6
+Current time: 06:29:40.06 - Difference from last call: 00:25:01.14
+6
+Current time: 06:29:40.28 - Difference from last call: 00:25:02.05
+5
+Current time: 06:29:41.28 - Difference from last call: 00:25:03.05
+5
+Current time: 06:29:42.25 - Difference from last call: 00:25:04.03
+5
+Current time: 06:29:47.23 - Difference from last call: 00:25:09.01
+5
+Current time: 06:29:47.24 - Difference from last call: 00:25:09.01
+5
+Current time: 06:29:47.24 - Difference from last call: 00:25:09.02
+5
+Current time: 06:29:47.25 - Difference from last call: 00:25:09.02
+5
+Current time: 06:29:47.25 - Difference from last call: 00:25:09.03
+5
+Current time: 06:29:47.26 - Difference from last call: 00:25:09.04
+5
+Current time: 06:29:47.27 - Difference from last call: 00:25:09.04
+5
+Current time: 06:29:47.27 - Difference from last call: 00:25:09.05
+5
+Current time: 06:29:47.28 - Difference from last call: 00:25:09.05
+5
+Current time: 06:29:47.28 - Difference from last call: 00:25:09.06
+5
+Current time: 06:29:47.29 - Difference from last call: 00:25:09.07
+5
+Current time: 06:29:48.00 - Difference from last call: 00:25:09.07
+5
+Current time: 06:29:48.00 - Difference from last call: 00:25:09.08
+5
+Current time: 06:29:48.01 - Difference from last call: 00:25:09.08
+5
+Current time: 06:29:48.01 - Difference from last call: 00:25:09.09
+5
+Current time: 06:29:48.02 - Difference from last call: 00:25:09.10
+5
+Current time: 06:29:48.03 - Difference from last call: 00:25:09.10
+5
+Current time: 06:29:48.03 - Difference from last call: 00:25:09.11
+5
+Current time: 06:29:48.04 - Difference from last call: 00:25:09.11
+5
+Current time: 06:29:48.04 - Difference from last call: 00:25:09.12
+5
+Current time: 06:29:48.05 - Difference from last call: 00:25:09.13
+5
+Current time: 06:29:48.06 - Difference from last call: 00:25:09.13
+5
+Current time: 06:29:48.06 - Difference from last call: 00:25:09.14
+5
+Current time: 06:29:48.07 - Difference from last call: 00:25:09.14
+5
+Current time: 06:29:48.07 - Difference from last call: 00:25:09.15
+5
+Current time: 06:29:48.08 - Difference from last call: 00:25:09.16
+5
+Current time: 06:29:48.09 - Difference from last call: 00:25:09.16
+5
+Current time: 06:29:48.09 - Difference from last call: 00:25:09.17
+5
+Current time: 06:29:48.10 - Difference from last call: 00:25:09.17
+5
+Current time: 06:29:48.10 - Difference from last call: 00:25:09.18
+5
+Current time: 06:29:48.11 - Difference from last call: 00:25:09.19
+5
+Current time: 06:29:48.12 - Difference from last call: 00:25:09.19
+5
+Current time: 06:29:48.12 - Difference from last call: 00:25:09.20
+5
+Current time: 06:29:48.13 - Difference from last call: 00:25:09.20
+5
+Current time: 06:29:48.13 - Difference from last call: 00:25:09.21
+5
+Current time: 06:29:48.14 - Difference from last call: 00:25:09.22
+5
+Current time: 06:29:48.15 - Difference from last call: 00:25:09.22
+5
+Current time: 06:29:48.15 - Difference from last call: 00:25:09.23
+5
+Current time: 06:29:48.16 - Difference from last call: 00:25:09.23
+5
+Current time: 06:29:48.16 - Difference from last call: 00:25:09.24
+7
+Current time: 06:29:50.25 - Difference from last call: 00:25:12.03
+7
+Current time: 06:29:53.06 - Difference from last call: 00:25:14.14
+6
+Current time: 06:29:55.00 - Difference from last call: 00:25:16.08
+6
+Current time: 06:29:55.15 - Difference from last call: 00:25:16.22
+5
+Current time: 06:29:56.21 - Difference from last call: 00:25:17.28
+5
+Current time: 06:29:57.06 - Difference from last call: 00:25:18.14
+5
+Current time: 06:29:59.22 - Difference from last call: 00:25:20.29
+8
+Current time: 06:30:00.25 - Difference from last call: 00:25:22.03
+8
+Current time: 06:30:10.18 - Difference from last call: 00:25:31.26
+7
+Current time: 06:30:12.00 - Difference from last call: 00:25:33.08
+7
+Current time: 06:30:12.04 - Difference from last call: 00:25:33.11
+5
+Current time: 06:30:13.27 - Difference from last call: 00:25:35.04
+5
+Current time: 06:30:16.03 - Difference from last call: 00:25:37.10
+5
+Current time: 06:30:17.00 - Difference from last call: 00:25:38.08
+5
+Current time: 06:30:18.06 - Difference from last call: 00:25:39.14
+7
+Current time: 06:30:19.10 - Difference from last call: 00:25:40.17
+7
+Current time: 06:30:20.00 - Difference from last call: 00:25:41.08
+7
+Current time: 06:30:20.17 - Difference from last call: 00:25:41.25
+7
+Current time: 06:30:22.28 - Difference from last call: 00:25:44.05
+7
+Current time: 06:30:22.28 - Difference from last call: 00:25:44.06
+7
+Current time: 06:30:22.29 - Difference from last call: 00:25:44.07
+7
+Current time: 06:30:23.00 - Difference from last call: 00:25:44.07
+7
+Current time: 06:30:23.00 - Difference from last call: 00:25:44.08
+7
+Current time: 06:30:23.01 - Difference from last call: 00:25:44.08
+7
+Current time: 06:30:23.01 - Difference from last call: 00:25:44.09
+7
+Current time: 06:30:23.02 - Difference from last call: 00:25:44.10
+7
+Current time: 06:30:23.03 - Difference from last call: 00:25:44.10
+7
+Current time: 06:30:23.03 - Difference from last call: 00:25:44.11
+7
+Current time: 06:30:23.04 - Difference from last call: 00:25:44.11
+7
+Current time: 06:30:23.04 - Difference from last call: 00:25:44.12
+7
+Current time: 06:30:23.05 - Difference from last call: 00:25:44.13
+7
+Current time: 06:30:23.06 - Difference from last call: 00:25:44.13
+7
+Current time: 06:30:23.06 - Difference from last call: 00:25:44.14
+7
+Current time: 06:30:23.07 - Difference from last call: 00:25:44.14
+7
+Current time: 06:30:23.07 - Difference from last call: 00:25:44.15
+7
+Current time: 06:30:23.08 - Difference from last call: 00:25:44.16
+7
+Current time: 06:30:23.09 - Difference from last call: 00:25:44.16
+7
+Current time: 06:30:23.09 - Difference from last call: 00:25:44.17
+7
+Current time: 06:30:23.10 - Difference from last call: 00:25:44.17
+7
+Current time: 06:30:23.10 - Difference from last call: 00:25:44.18
+7
+Current time: 06:30:23.11 - Difference from last call: 00:25:44.19
+7
+Current time: 06:30:23.12 - Difference from last call: 00:25:44.19
+7
+Current time: 06:30:23.12 - Difference from last call: 00:25:44.20
+7
+Current time: 06:30:23.13 - Difference from last call: 00:25:44.20
+7
+Current time: 06:30:23.13 - Difference from last call: 00:25:44.21
+7
+Current time: 06:30:23.14 - Difference from last call: 00:25:44.22
+7
+Current time: 06:30:23.15 - Difference from last call: 00:25:44.22
+7
+Current time: 06:30:23.15 - Difference from last call: 00:25:44.23
+7
+Current time: 06:30:23.16 - Difference from last call: 00:25:44.23
+7
+Current time: 06:30:23.16 - Difference from last call: 00:25:44.24
+7
+Current time: 06:30:23.17 - Difference from last call: 00:25:44.25
+7
+Current time: 06:30:23.18 - Difference from last call: 00:25:44.25
+7
+Current time: 06:30:23.18 - Difference from last call: 00:25:44.26
+7
+Current time: 06:30:23.19 - Difference from last call: 00:25:44.26
+7
+Current time: 06:30:23.19 - Difference from last call: 00:25:44.27
+7
+Current time: 06:30:23.20 - Difference from last call: 00:25:44.28
+7
+Current time: 06:30:23.21 - Difference from last call: 00:25:44.28
+7
+Current time: 06:30:23.21 - Difference from last call: 00:25:44.29
+8
+Current time: 06:30:27.22 - Difference from last call: 00:25:48.29
+8
+Current time: 06:30:35.09 - Difference from last call: 00:25:56.16
+8
+Current time: 06:30:36.22 - Difference from last call: 00:25:57.29
+8
+Current time: 06:30:37.25 - Difference from last call: 00:25:59.03
+6
+Current time: 06:30:38.19 - Difference from last call: 00:25:59.27
+6
+Current time: 06:30:39.23 - Difference from last call: 00:26:01.01
+5
