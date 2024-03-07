@@ -57,7 +57,7 @@ def main():
             pyautogui.press('esc')
             time.sleep(DELAY)
 
-            # Skiping top angle
+            # Skiping top angle to be cutted
             if(NO_OF_CAMERAS == int(timings[i][1])):
                 time.sleep(DELAY)
                 pyautogui.hotkey('ctrl', 'shift', 'k')
